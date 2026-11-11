@@ -1,0 +1,59 @@
+{
+  "title": "4. Thyroid eye disease",
+  "children": [
+    {
+      "label": "Overview",
+      "children": [
+        "Common cause of uni- and bilateral proptosis",
+        "Autoimmune lymphocytic orbital infiltration",
+        "More common in women; associated with smoking"
+      ]
+    },
+    {
+      "label": "Phases",
+      "children": [
+        "Active: red painful eyes, swelling and inflammation",
+        "Inactive (fibrotic): white eyes; damage may remain"
+      ]
+    },
+    {
+      "label": "Signs and symptoms",
+      "children": [
+        "Soft tissue: lid swelling, hyperaemia, chemosis",
+        "Lid retraction and lid lag on downgaze",
+        "Proptosis, unilateral or bilateral",
+        {
+          "label": "Restrictive myopathy",
+          "children": [
+            "Inferior rectus commonly affected",
+            "Abduction may be limited"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Serious complications",
+      "children": [
+        "Exposure keratopathy",
+        "Optic neuropathy requires urgent assessment"
+      ]
+    },
+    {
+      "label": "Investigations",
+      "children": [
+        "Thyroid function tests and antibodies",
+        "Orbital CT / MRI",
+        "Unilateral proptosis: image to assess other causes"
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        "Lubricating drops",
+        "Specialist-directed medical or surgical treatment",
+        "Stop smoking",
+        "Treating thyroid dysfunction alone does not necessarily treat eye disease"
+      ]
+    }
+  ]
+}

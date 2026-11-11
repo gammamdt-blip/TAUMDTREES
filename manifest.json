@@ -1,0 +1,12 @@
+{
+  "trees": [
+    {
+      "name": "Thyroid eye disease",
+      "file": "thyroid-eye-disease.json"
+    },
+    {
+      "name": "Multiple sclerosis",
+      "file": "multiple-sclerosis.json"
+    }
+  ]
+}

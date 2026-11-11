@@ -1,0 +1,35 @@
+{
+  "title": "5. Multiple sclerosis",
+  "children": [
+    {
+      "label": "Overview",
+      "children": [
+        "Chronic immune-mediated CNS demyelination",
+        "Often presents in young adults"
+      ]
+    },
+    {
+      "label": "Ocular manifestations",
+      "children": [
+        "Optic neuritis",
+        "Nystagmus",
+        "Ocular motor palsy",
+        "Uveitis"
+      ]
+    },
+    {
+      "label": "Investigations",
+      "children": [
+        "MRI brain and orbits when indicated",
+        "Clinical assessment and relevant investigations"
+      ]
+    },
+    {
+      "label": "Management",
+      "children": [
+        "Neurology and ophthalmology assessment",
+        "Treatment depends on presentation and disease activity"
+      ]
+    }
+  ]
+}
