@@ -1,0 +1,95 @@
+{
+  "title": "4. Intravenous anesthetic agents",
+  "children": [
+    {
+      "label": "Ideal IV agent",
+      "children": [
+        "Rapid onset: lipid soluble and mostly un-ionized at blood pH",
+        "Rapid recovery through redistribution",
+        "Analgesia at sub-anesthetic doses",
+        "Minimal CVS and respiratory depression",
+        "No nausea, excitation, emergence phenomena or histamine release",
+        "No pain on injection, no venous sequelae, water soluble",
+        "Does not stimulate porphyria"
+      ]
+    },
+    {
+      "label": "Classification",
+      "children": [
+        "Barbiturate: thiopental",
+        "Non-barbiturate: propofol, ketamine, etomidate",
+        "Adjuvants: benzodiazepines (midazolam, diazepam)"
+      ]
+    },
+    {
+      "label": "Thiopental",
+      "children": [
+        "Ultra-short barbiturate, 3-5 mg/kg gives sleep in 30-60 s",
+        "Usual induction 3-6 mg/kg; very small doses in shock or frail elderly",
+        "Short action from redistribution to muscle and fat",
+        "Enhances GABA; lowers ICP and intraocular pressure",
+        "Myocardial depression, hypotension, apnea, laryngospasm",
+        "Contraindications: airway obstruction, porphyria, hypersensitivity",
+        "Caution: CVS, hepatic and renal disease",
+        "Intra-arterial injection: dilute with saline, heparinize, brachial plexus block"
+      ]
+    },
+    {
+      "label": "Propofol",
+      "children": [
+        "Alkylphenol; 1% emulsion (soybean oil, glycerol, egg phosphatide)",
+        "Induction 2.5-3 mg/kg (1.5-2 premedicated, 1 or less elderly)",
+        "TIVA 50-150 mcg/kg/min; sedation 25-75 mcg/kg/min",
+        "No histamine release, no MH trigger, low PONV, antiemetic and anticonvulsant",
+        "Lowers cerebral blood flow and ICP",
+        "Hypotension more than thiopental and impaired baroreflex; profound respiratory depression",
+        "Pain on injection: add lidocaine or use a larger vein",
+        "Contraindications (slide): egg allergy, cannot maintain airway, fixed cardiac output, shock"
+      ]
+    },
+    {
+      "label": "Ketamine",
+      "children": [
+        "Dissociative agent related to PCP, acts on NMDA receptors",
+        "IV 1-2 mg/kg, IM 5-10 mg/kg",
+        "Raises BP, heart rate, cardiac output, ICP and intraocular pressure",
+        "Bronchodilator, preserves airway reflexes, increases secretions",
+        "Unpleasant dreams, hallucinations, delirium",
+        "Uses: asthmatics, CV collapse needing emergency surgery, induction",
+        "Contraindications: psychosis, cerebrovascular disease, hypertension hazardous, raised ICP"
+      ]
+    },
+    {
+      "label": "Etomidate",
+      "children": [
+        "Acts on GABA receptors, induction 0.2-0.3 mg/kg",
+        "Hemodynamically neutral, no analgesia",
+        "Adverse: nausea and vomiting, injection pain, myoclonus",
+        "Transient adrenal insufficiency: caution with chronic steroids"
+      ]
+    },
+    {
+      "label": "Benzodiazepines",
+      "children": [
+        "Amnesia, anticonvulsant, minimal cardiorespiratory depression",
+        "Facilitate GABA; metabolized by liver conjugation",
+        "Midazolam: 2-3x more potent, faster onset, more amnesia, half-life 1-4 h",
+        "Diazepam: longer acting (21-37 h), more post-op sedation, more injection pain",
+        "Flumazenil: competitive antagonist, 0.2 mg over 15 s then 0.1 mg/min up to 2 mg",
+        "Flumazenil half-life about 1 h, so sedation may recur"
+      ]
+    },
+    {
+      "label": "Opioids",
+      "children": [
+        "Opium alkaloids: morphine (strongest), codeine",
+        "Mu: analgesia, respiratory depression, euphoria, dependence",
+        "Kappa: analgesia, sedation, miosis; sigma: dysphoria",
+        "Fentanyl: opioid most used for induction, 100x morphine potency, about 30 min",
+        "Morphine: long analgesia, give under 5 mg/min (histamine release)",
+        "Effects: slow deep breathing, bradycardia, low SVR, constipation, biliary colic, urinary retention, chest wall rigidity",
+        "Naloxone reverses (onset 1-2 min, lasts 30-60 min); high doses cause abrupt pain, hypertension, pulmonary edema, arrest"
+      ]
+    }
+  ]
+}

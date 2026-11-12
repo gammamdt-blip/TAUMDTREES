@@ -1,0 +1,187 @@
+{
+  "title": "1. Preoperative evaluation",
+  "children": [
+    {
+      "label": "Overview",
+      "children": [
+        "Seeing the patient before surgery to identify risks that may affect recovery",
+        "Visit done one day before surgery",
+        "Aim: lower anesthetic and surgical morbidity and mortality, patient in optimal condition",
+        "Steps: problem identification, risk assessment, preoperative preparation, plan of anesthetic technique",
+        "Technique options: GA, laryngeal mask, endotracheal tube, spinal, epidural, local"
+      ]
+    },
+    {
+      "label": "Purposes",
+      "children": [
+        "Document the condition needing surgery",
+        "Define the patient's medical and surgical problems",
+        "Arrange investigations, consultation and treatment if not optimal",
+        "Develop the anesthetic technique and perioperative care plan",
+        "Inform and reassure the patient",
+        "Reduce cost, hospital stay and cancellations"
+      ]
+    },
+    {
+      "label": "History",
+      "children": [
+        "Brief history of present illness, current medications, allergies and reaction type",
+        "Past medical and surgical history, past anesthetic history",
+        "Family history of anesthetic problems",
+        "Functional inquiry and NPO status",
+        "Special attention to CVS, respiratory and neuromuscular systems",
+        "Unstable symptoms: postpone elective surgery for optimization"
+      ]
+    },
+    {
+      "label": "Cardiovascular and respiratory points",
+      "children": [
+        "MI within 6 months or unstable angina: poor surgical candidate",
+        "Ask about exercise tolerance, arrhythmia or pacemaker, hypertension",
+        "Valvular disease: consider risk of subacute bacterial endocarditis",
+        "Active cardiac conditions: postpone except life-saving emergencies",
+        "COPD: baseline CO2 is high (50-60), avoid aggressive hyperventilation",
+        "Asthma: airway manipulation and cold dry gases trigger attacks",
+        "Acute URTI: postpone elective surgery about 6 weeks",
+        "Sleep apnea: may need postoperative ventilatory support"
+      ]
+    },
+    {
+      "label": "Smoking cessation timeline",
+      "children": [
+        "Advise stopping at least 8 weeks before surgery",
+        "12-24 h: CO and nicotine levels fall",
+        "48-72 h: COHb normalizes, airway function improves",
+        "1-2 weeks: less sputum",
+        "4-6 weeks: PFTs improve",
+        "6-8 weeks: immune function normalizes",
+        "8-12 weeks: lower overall postoperative morbidity"
+      ]
+    },
+    {
+      "label": "Other conditions",
+      "children": [
+        "Epilepsy: optimize antiepileptic dosing, avoid enflurane",
+        "Spinal cord injury: respiratory failure, autonomic hyperreflexia, hyperkalemia",
+        "Myasthenia gravis and NMJ disorders: unpredictable response to NMBs",
+        "Muscular dystrophy: higher malignant hyperthermia risk and postoperative respiratory failure",
+        "Diabetes: delayed gastric emptying, silent MI, stop oral hypoglycemics and use insulin sliding scale",
+        "Goitre: airway compression and tracheal deviation, inhalational induction preferred",
+        "Hyperthyroid: thyroid storm risk; hypothyroid: myocardial depression",
+        "GERD: H2 blocker, citrate, cricoid pressure",
+        "Long-term steroids: stress-dose steroids to prevent Addisonian crisis"
+      ]
+    },
+    {
+      "label": "Medications and allergies",
+      "children": [
+        "Take cardiac and pulmonary medications with sips of water up to the day of surgery",
+        "Ask about penicillin, latex and propofol (egg) allergy",
+        "Lecturer: egg allergy is to egg white while propofol contains yolk lecithin",
+        "Metformin: stop a few days before surgery",
+        "Beta blockers decrease cardiovascular mortality",
+        "Asthmatics: avoid histamine-releasing drugs (morphine, atracurium)"
+      ]
+    },
+    {
+      "label": "Malignant hyperthermia and scoline apnea",
+      "children": [
+        "MH: familial, fatal, triggered by inhalational agents (except N2O) and succinylcholine",
+        "MH preparation: total IV anesthesia, vaporizer disconnected, room ventilated 6 h, first case of the day",
+        "Dantrolene: lecturer stressed it only eases symptoms (standard teaching: the specific MH treatment)",
+        "Scoline apnea: pseudocholinesterase deficiency, prolongs ventilation, less dangerous than MH",
+        "Prolonged apnea in family suggests pseudocholinesterase deficiency; unexplained death suggests MH"
+      ]
+    },
+    {
+      "label": "Fasting guidelines",
+      "children": [
+        "8 h: meat, fried or fatty meal",
+        "6 h: light meal, infant formula, non-human milk",
+        "4 h: breast milk",
+        "2 h: clear fluids",
+        "Emergency with short fast: signed high-risk consent, rapid sequence induction with suxamethonium"
+      ]
+    },
+    {
+      "label": "Four fatal things in anesthesia",
+      "children": [
+        "Malignant hyperthermia",
+        "Anaphylaxis",
+        "Aspiration",
+        "Disconnection of the circuit"
+      ]
+    },
+    {
+      "label": "Airway assessment",
+      "children": [
+        "TMJ mobility: one-finger groove at the tragus on mouth opening",
+        "Mouth opening: three fingers should fit",
+        "Thyromental distance: less than 7 cm suggests difficult intubation",
+        "Mallampati I-II easy, III-IV difficult",
+        "Also tracheal centralization, upper lip bite (Calder) test, cervical spine mobility, Wilson score",
+        "Down syndrome (large tongue) and micrognathia: difficult intubation",
+        "Cervical spine disease (e.g. RA): awake intubation without neck extension"
+      ]
+    },
+    {
+      "label": "Investigations",
+      "children": [
+        "CBC for every patient, others guided by history and examination",
+        "ECG: age over 50, hypertension, IHD signs, arrhythmia, diabetes over 40",
+        "Chest X-ray: cardiac or respiratory disease, malignancy, thoracic surgery",
+        "U&E, LFT, blood sugar, coagulation screen, urinalysis by indication",
+        "PFTs for dyspnea, COPD or asthma; cervical spine X-ray if difficult intubation predicted",
+        "ABG if dyspneic or cyanosed at rest, FEV1 below 60%, or thoracic surgery"
+      ]
+    },
+    {
+      "label": "ASA physical status",
+      "children": [
+        "I: healthy patient",
+        "II: mild systemic disease, no limitation (also smoker, pregnant, obese, over 80 y)",
+        "III: severe systemic disease with definite limitation (e.g. IHD, COPD, morbid obesity)",
+        "IV: severe disease that is a constant threat to life",
+        "V: moribund, unlikely to survive 24 h",
+        "VI: brain dead organ donor; E = emergency",
+        "ASA IV and V need a high-risk consent signed by the family"
+      ]
+    },
+    {
+      "label": "Cardiac risk indices",
+      "children": [
+        "Goldman: S3 or raised JVP 11, MI within 6 months 10, non-sinus rhythm 7, over 5 PVCs/min 7",
+        "Goldman: age over 70 5, emergency 4, poor health 3, major thoracic/abdominal/aortic surgery 3, aortic stenosis 3",
+        "Goldman classes: I 0-5 (1%), II 6-12 (5%), III 13-25 (16%), IV 26+ (56%)",
+        "Over 25 points: life-saving procedures only",
+        "RCRI factors: IHD, CHF, cerebrovascular disease, insulin-treated DM, creatinine over 2.0, high-risk surgery",
+        "RCRI event rate: 0 factors 0.5%, 1 factor 1.3%, 2 factors 3.6%, 3 or more 9.1%"
+      ]
+    },
+    {
+      "label": "Hypertension",
+      "children": [
+        "Mild (140-159/90-99): no need to delay surgery",
+        "Moderate (160-179/100-109): review treatment, monitor closely",
+        "Severe (over 180/109): postpone elective surgery"
+      ]
+    },
+    {
+      "label": "Premedication",
+      "children": [
+        "Reduce anxiety and pain, promote amnesia, reduce secretions",
+        "Reduce gastric volume and pH to avoid Mendelson's syndrome (aspiration pneumonitis)",
+        "Reduce PONV and vagal reflexes, enhance hypnosis, prevent endocarditis",
+        "H2 blocker or PPI hours before, oral sodium citrate 15-30 min before induction"
+      ]
+    },
+    {
+      "label": "High-risk groups",
+      "children": [
+        "Elderly: fragile CVS, small doses cause hypotension, hypothermia risk",
+        "Emergency surgery in the elderly: 4 to 20 times higher mortality",
+        "Paediatrics: high risk, hypothermia risk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title": "5. Local anesthetic agents",
+  "children": [
+    {
+      "label": "Structure and classification",
+      "children": [
+        "Aromatic ring (lipophilic), intermediate chain, tertiary amine (hydrophilic)",
+        "Esters: cocaine, procaine, chloroprocaine",
+        "Amides (two i's): lidocaine, prilocaine, bupivacaine, etidocaine, mepivacaine",
+        "Esters: unstable, hydrolyzed by plasma cholinesterase, PABA allergy",
+        "Amides: stable, slowly metabolized by liver, longer acting, allergy extremely rare"
+      ]
+    },
+    {
+      "label": "Mechanism",
+      "children": [
+        "Block Na+ channels, inhibiting the action potential in unmyelinated fibres",
+        "Only the unionized base crosses the membrane",
+        "Acidic tissue (abscess, inflammation): less free base, weak or failed block",
+        "Adding sodium bicarbonate raises pH and gives more base"
+      ]
+    },
+    {
+      "label": "Preparations",
+      "children": [
+        "Acidic solutions (pH 4-5.5), hydrochloride salts",
+        "May contain vasoconstrictor, reducing agent (metabisulphite), preservative",
+        "1% = 10 mg/mL (mg/mL = % x 10)"
+      ]
+    },
+    {
+      "label": "Vasoconstrictors",
+      "children": [
+        "Adrenaline 1:80,000 to 1:300,000 is most common",
+        "Slow absorption, lower toxicity, longer duration, less bleeding",
+        "Maximum dose: lidocaine 3 mg/kg plain, 7 with adrenaline",
+        "Maximum dose: prilocaine 6 plain, 9 with adrenaline; bupivacaine 2 either way",
+        "Never use around end-arteries (fingers, penis) or in IVRA",
+        "Relative: severe hypertension, GA with halothane"
+      ]
+    },
+    {
+      "label": "Clinical uses",
+      "children": [
+        "Topical: lidocaine gel, EMLA (lidocaine 2.5% + prilocaine 2.5%)",
+        "Infiltration for minor surgery",
+        "Peripheral nerve blocks (nerve stimulator or ultrasound)",
+        "Intravenous regional anesthesia, spinal, epidural",
+        "Always aspirate before injecting"
+      ]
+    },
+    {
+      "label": "IVRA (Bier's block)",
+      "children": [
+        "Upper limb surgery under 1 h",
+        "Two cannulae: one in the affected limb, one in the other limb for resuscitation",
+        "Exsanguinate with Esmarch band, inflate proximal cuff above systolic pressure",
+        "Inject lidocaine or prilocaine after removing the band",
+        "Cuff stays inflated at least 20 min, then deflate gradually",
+        "Never bupivacaine or etidocaine: cardiotoxic"
+      ]
+    },
+    {
+      "label": "Individual agents",
+      "children": [
+        "Lidocaine: first amide, local anesthetic and antiarrhythmic, blocks fast Na+ channels",
+        "Bupivacaine: long duration, most cardiotoxic, not given IV, used spinal or epidural",
+        "Benzocaine: topical only, causes methemoglobinemia"
+      ]
+    },
+    {
+      "label": "Toxicity",
+      "children": [
+        "Causes: accidental IV injection, rapid absorption from vascular sites, overdose",
+        "CNS first: dizziness, tinnitus, circumoral numbness, blurred vision, metallic taste",
+        "Severe: convulsions, coma, respiratory arrest",
+        "CVS: bradycardia and hypotension without adrenaline; myocardial depression leads to collapse",
+        "Prevent: secure IV access and have resuscitation equipment ready",
+        "Treat: stop injection, call help, ABC, O2, ventilate, fluids, ephedrine, atropine",
+        "Convulsions: diazepam 0.2-0.4 mg/kg or thiopentone 1-4 mg/kg"
+      ]
+    },
+    {
+      "label": "Antidotes",
+      "children": [
+        "Bupivacaine: 20% lipid emulsion IV (Intralipid, not a true antidote)",
+        "Benzocaine methemoglobinemia: low-dose methylene blue",
+        "Lidocaine: diphenhydramine (as written on the slide)"
+      ]
+    }
+  ]
+}

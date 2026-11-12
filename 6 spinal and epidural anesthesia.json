@@ -1,0 +1,109 @@
+{
+  "title": "6. Spinal and epidural anesthesia",
+  "children": [
+    {
+      "label": "Classification",
+      "children": [
+        "Regional anesthesia: neuraxial block (spinal, epidural/caudal) and peripheral nerve block",
+        "Spinal: injection into the CSF (subarachnoid space)",
+        "Epidural: injection into the epidural space",
+        "Adults: inject L3-L4, L4-L5 or L5-S1 (cord ends L1-L2)",
+        "Children: inject L4-L5 or L5-S1 (cord ends L2-L3)",
+        "Spinal gives anesthesia below the umbilicus (T10)"
+      ]
+    },
+    {
+      "label": "Advantages of spinal",
+      "children": [
+        "Low cost and high patient satisfaction",
+        "Few respiratory effects, airway preserved, less aspiration risk",
+        "Cesarean: less drug transfer to the baby",
+        "Diabetics stay awake and notice hypoglycemia",
+        "Excellent muscle relaxation, less blood loss",
+        "Better gut blood flow, faster return of gut function",
+        "Fewer DVT and PE, avoids GA complications"
+      ]
+    },
+    {
+      "label": "Indications",
+      "children": [
+        "Operations below the umbilicus: hernia, gynecologic, urologic, cesarean, lower limb orthopedics",
+        "Perineum and genitalia surgery",
+        "Elderly and chronic systemic disease",
+        "Surgery must last about 2-3 hours or less"
+      ]
+    },
+    {
+      "label": "Contraindications",
+      "children": [
+        "Absolute: patient refusal, uncooperative patient, coagulopathy or anticoagulants",
+        "Absolute: infection at site, septicemia, severe aortic or mitral stenosis",
+        "Absolute: hypovolemia, raised ICP",
+        "Relative: anatomical deformity, neurological disease, previous spinal surgery",
+        "Relative: inadequate resuscitation equipment"
+      ]
+    },
+    {
+      "label": "Drugs and baricity",
+      "children": [
+        "Hyperbaric solutions settle downward and are most predictable",
+        "Hypobaric rise; isobaric stay near the injection site",
+        "Bupivacaine 0.5% hyperbaric: best, lasts 2-3 h",
+        "Lidocaine 5% hyperbaric: lasts 45-90 min",
+        "Do not use multi-dose lidocaine vials intrathecally (preservatives)"
+      ]
+    },
+    {
+      "label": "Factors affecting spread",
+      "children": [
+        "Baricity of the solution and position of the patient",
+        "Level and speed of injection",
+        "Obesity and pregnancy: reduce the dose"
+      ]
+    },
+    {
+      "label": "Technique",
+      "children": [
+        "Consent, normotensive patient, aseptic technique",
+        "Sitting or lateral position with spine flexed",
+        "Line between iliac crests marks L4",
+        "Wheal of local anesthetic first",
+        "Needle passes skin, supraspinous, interspinous, ligamentum flavum (first pop), dura (second pop)",
+        "CSF confirms entry; inject slowly",
+        "Block order: autonomic, sensory, motor; recovery in reverse"
+      ]
+    },
+    {
+      "label": "Complications of spinal",
+      "children": [
+        "Hypotension (most common): preload fluids, raise legs, ephedrine, atropine for bradycardia",
+        "Post-dural puncture headache (2nd most common): postural, onset 12-24 h",
+        "Prevent PDPH with small pencil-point needle",
+        "PDPH treatment: bed rest, paracetamol, hydration, caffeine, epidural blood patch last",
+        "Urinary retention",
+        "Rare: meningitis, arachnoiditis, epidural abscess, hematoma, paralysis"
+      ]
+    },
+    {
+      "label": "Epidural anesthesia",
+      "children": [
+        "Space between dura mater and ligamentum flavum; dura not punctured",
+        "Tuohy needle (about 18 G) with loss of resistance technique",
+        "Catheter allows continuous infusion for labor and postoperative pain",
+        "Bupivacaine 0.5% or lidocaine 2%",
+        "Same indications and complications as spinal except post-dural puncture headache",
+        "Accidental dural puncture with a large needle causes severe headache"
+      ]
+    },
+    {
+      "label": "Spinal vs epidural",
+      "children": [
+        "Spinal: below L1/L2, subarachnoid, single shot, CSF confirms",
+        "Epidural: any level, no dural puncture, continuous, loss of resistance confirms",
+        "Dose: spinal 2.5-3.5 mL bupivacaine 0.5% heavy; epidural 15-20 mL 0.5%",
+        "Onset: spinal 2-5 min; epidural 15-20 min",
+        "Spinal: denser block, rapid hypotension; epidural: less dense, slow hypotension"
+      ]
+    }
+  ]
+}

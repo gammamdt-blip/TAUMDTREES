@@ -1,0 +1,124 @@
+{
+  "title": "2. Monitoring in anesthesia",
+  "children": [
+    {
+      "label": "Overview",
+      "children": [
+        "Observation: skin color, chest movement during ventilation",
+        "Equipment monitoring",
+        "Qualified anesthesia personnel present throughout",
+        "HR and BP measured every 5 min, drugs and fluids charted",
+        "Oxygenation, ventilation, circulation and temperature continually evaluated"
+      ]
+    },
+    {
+      "label": "Normal values under anesthesia",
+      "children": [
+        "SBP 85-160, DBP 50-95 mmHg",
+        "HR 50-100 bpm, RR 8-20",
+        "SpO2 95-100%, ETCO2 33-45 mmHg",
+        "Temperature 36-37.5 °C",
+        "Urine output 0.5 ml/kg/min or more (as written in the lecture)",
+        "CVP 1-10 mmHg, MAP 80-120 mmHg",
+        "MAP = DBP + 1/3 (SBP - DBP)"
+      ]
+    },
+    {
+      "label": "Depth of anesthesia",
+      "children": [
+        "BIS 40-60: recommended for general anesthesia",
+        "BIS below 40: deep; above 60: may be conscious; 60-90 sedation; 100 awake",
+        "Inadequate: grimacing, movement; if paralyzed, hypertension, tachycardia, tearing, sweating",
+        "Excessive: bradycardia, hypotension, cardiac depression",
+        "BIS may reduce intraoperative awareness"
+      ]
+    },
+    {
+      "label": "ECG",
+      "children": [
+        "3 leads usually (lead II), 5 leads for complicated patients",
+        "5-lead system adds V5 and limb leads",
+        "ST depression = ischemia, elevation = infarction",
+        "Over 85% of ischemic events seen in leads II and V5",
+        "P wave in lead II helps identify sinus rhythm"
+      ]
+    },
+    {
+      "label": "Pulse oximetry",
+      "children": [
+        "Measures Hb saturation (normal above 90%, usually 97-98%)",
+        "Red and infrared light absorption difference between oxyHb and deoxyHb",
+        "CO poisoning gives falsely high reading",
+        "Inaccurate with poor perfusion, vasoconstriction, movement, dysrhythmia, cautery interference, methylene blue"
+      ]
+    },
+    {
+      "label": "Blood pressure",
+      "children": [
+        "Palpation (SBP only), Korotkoff auscultation, automated non-invasive, invasive arterial",
+        "Automated cuff measures every ~5 min and may stop reading in sudden severe hypotension",
+        "Invasive indications: rapid BP changes, frequent sampling, major surgery, vasoactive drugs",
+        "Also burns, morbid obesity, severe metabolic abnormality, major trauma",
+        "Radial artery is the most common site; femoral, brachial, dorsalis pedis alternatives"
+      ]
+    },
+    {
+      "label": "Central venous pressure",
+      "children": [
+        "Line in internal jugular, subclavian or femoral vein reaching SVC or IVC",
+        "Reflects RA and RV pressure, intravascular volume, RV preload",
+        "Measure at end-expiration, trends more useful than single values",
+        "Not needed for minor surgery",
+        "Right internal jugular: predictable landmarks, straight course, 90-99% success",
+        "Complications: infection, bleeding, air embolism, pneumothorax, carotid puncture, arrhythmia",
+        "Chest X-ray after upper-body insertion; ultrasound guidance helps"
+      ]
+    },
+    {
+      "label": "Capnography and ETCO2",
+      "children": [
+        "Capnometry = number, capnogram = waveform, capnography = continuous monitoring",
+        "Under GA keep ETCO2 about 32-35, not below 30 (cerebral vasoconstriction)",
+        "PaCO2 minus ETCO2 about 5 mmHg",
+        "Best method to confirm intubation and extubation",
+        "Also adequacy of ventilation, PE, partial obstruction, bronchospasm, resuscitation outcome",
+        "Increased: hyperthermia, sepsis, thyroid storm, MH, hypoventilation, rebreathing, laparoscopy",
+        "Decreased: hypothermia, hyperventilation, hypoperfusion, embolism",
+        "Waveform: phase I dead space, II upstroke, III alveolar plateau, IV downstroke"
+      ]
+    },
+    {
+      "label": "Cyanosis",
+      "children": [
+        "Defined as 5 g/dL deoxygenated hemoglobin",
+        "Normal Hb 15: SaO2 66%, PaO2 35 mmHg",
+        "Anemic Hb 10: SaO2 50%, PaO2 27 mmHg",
+        "In anemia, cyanosis appears at a lower oxygen tension"
+      ]
+    },
+    {
+      "label": "Oxyhemoglobin dissociation curve",
+      "children": [
+        "Sigmoid curve of PaO2 against saturation",
+        "PO2 100 = 100%, 40 = 75%, 27 = 50% (P50)",
+        "Below PaO2 60 (SpO2 90%) saturation falls rapidly; lowest acceptable SpO2 is 90%",
+        "Left shift: alkalosis, low 2,3-DPG, hypothermia, low CO2, fetal Hb, COHb, methemoglobin; higher affinity",
+        "Right shift: acidosis, high CO2, hyperthermia, high 2,3-DPG, altitude, sickle cell, inhalational agents; lower affinity",
+        "Right shift releases O2 to tissues more easily",
+        "O2 content = binding capacity x saturation + dissolved O2"
+      ]
+    },
+    {
+      "label": "Temperature and urine output",
+      "children": [
+        "Keep theatre at 22 °C or higher",
+        "Heat loss under anesthesia 0.5-1 °C per hour; below 34 °C significant morbidity",
+        "High risk: elderly, burns, neonates, spinal cord injury",
+        "Hyperthermia causes: MH, pyrogens, overwarming, thyrotoxicosis, pheochromocytoma",
+        "Sites: tympanic, esophagus, rectum, nasopharynx",
+        "Foley catheter in major surgery; below 0.5 ml/kg/min is oliguria",
+        "Choose monitors by surgery size (no CVP, arterial line or BIS for appendectomy)"
+      ]
+    }
+  ]
+}
