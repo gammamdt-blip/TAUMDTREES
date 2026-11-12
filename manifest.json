@@ -9,8 +9,36 @@
       "file": "multiple-sclerosis.json"
     },
     {
-      "name": "1",
-      "file": "1-preoperative-evaluation.json"
+      "name": "Preoperative evaluation",
+      "file": "JSON/Anesthesia/01preoperative-evaluation.json"
+    },
+    {
+      "name": "Monitoring in anesthesia",
+      "file": "JSON/Anesthesia/02monitoring.json"
+    },
+    {
+      "name": "Inhalational anesthetic agents",
+      "file": "JSON/Anesthesia/03inhalational-agents.json"
+    },
+    {
+      "name": "Intravenous anesthetic agents",
+      "file": "JSON/Anesthesia/04intravenous-agents.json"
+    },
+    {
+      "name": "Local anesthetic agents",
+      "file": "JSON/Anesthesia/05local-agents.json"
+    },
+    {
+      "name": "Spinal and epidural anesthesia",
+      "file": "JSON/Anesthesia/06spinal-epidural.json"
+    },
+    {
+      "name": "Conduct of anesthesia",
+      "file": "JSON/Anesthesia/07conduct.json"
+    },
+    {
+      "name": "Muscle relaxants",
+      "file": "JSON/Anesthesia/08muscle-relaxants.json"
     }
   ]
 }
