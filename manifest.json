@@ -1,14 +1,6 @@
 {
   "trees": [
     {
-      "name": "Thyroid eye disease",
-      "file": "thyroid-eye-disease.json"
-    },
-    {
-      "name": "Multiple sclerosis",
-      "file": "multiple-sclerosis.json"
-    },
-    {
       "name": "Preoperative evaluation",
       "file": "JSON/Anesthesia/01preoperative-evaluation.json"
     },
