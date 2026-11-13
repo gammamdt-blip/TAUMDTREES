@@ -31,6 +31,10 @@
     {
       "name": "Muscle relaxants",
       "file": "JSON/Anesthesia/08muscle-relaxants.json"
+    },
+    {
+      "name": "ENT",
+      "file": "ENT.json"
     }
   ]
 }
