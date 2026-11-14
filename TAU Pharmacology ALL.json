@@ -1,0 +1,2222 @@
+[
+  {
+    "title": "TAU Pharmacology",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "High-Yield Pharmacology Revision Sheet",
+          "Batch 2022–2028"
+        ]
+      },
+      {
+        "label": "Part 1 — Antibiotics & Antimycobacterials (Teal)",
+        "children": [
+          "I. Beta-Lactams — Cell Wall Synthesis Inhibitors",
+          "II. Lipopeptide — Daptomycin",
+          "III. Protein Synthesis Inhibitors",
+          "IV. Folate Synthesis Inhibitors",
+          "V. Nucleic Acid Inhibitors",
+          "VI. Antimycobacterial Therapy"
+        ]
+      },
+      {
+        "label": "Part 2 — Antifungals & Antivirals (Purple)",
+        "children": [
+          "I. Antifungals",
+          "II. Antiretrovirals — HIV",
+          "III. Interferons",
+          "IV. Hepatitis C Antivirals",
+          "V. Herpesvirus Antivirals — HSV / VZV / CMV"
+        ]
+      },
+      {
+        "label": "Part 3 — Autonomic Nervous System Pharmacology (Orange)",
+        "children": [
+          "I. Cholinomimetics (Direct-Acting)",
+          "II. Indirect Cholinomimetics — Acetylcholinesterase (AChE) Inhibitors",
+          "III. Muscarinic Antagonists (Antimuscarinics)",
+          "IV. Sympathomimetics — Adrenergic Receptors",
+          "V. Specific Direct Sympathomimetics",
+          "VI. Indirect Sympathomimetics",
+          "VII. Alpha-2 Agonists & Alpha Antagonists",
+          "VIII. Beta Blockers"
+        ]
+      },
+      {
+        "label": "Part 4 — Cardiovascular Pharmacology (Crimson)",
+        "children": [
+          "I. Heart Failure Pharmacotherapy",
+          "II. Antianginal Therapy — Nitrates",
+          "III. Lipid Metabolism & Lipid-Lowering Drugs",
+          "IV. Calcium Channel Blockers (General Pharmacology)",
+          "V. Antihypertensive Therapy",
+          "VI. Antiarrhythmics (Vaughan-Williams Classification)"
+        ]
+      },
+      {
+        "label": "Part 5 — Neuropharmacology (Blue)",
+        "children": [
+          "I. Antiepileptic Drugs (AEDs)",
+          "II. GABAergic Sedative-Hypnotics",
+          "III. Migraine Therapy",
+          "IV. Parkinsonism Therapy",
+          "V. Anesthetics",
+          "VI. Opioids"
+        ]
+      },
+      {
+        "label": "Part 6 — Psychiatric Pharmacology (Magenta)",
+        "children": [
+          "I. Antidepressants",
+          "II. Mood Stabilizers",
+          "III. Antipsychotics"
+        ]
+      },
+      {
+        "label": "Part 7 — Diabetes, Gastrointestinal, Hematology (Coagulation) & Oncology (Green)",
+        "children": [
+          "I. Diabetes & Antidiabetic Pharmacology",
+          "II. Gastrointestinal Pharmacology",
+          "III. Hematology — Coagulation Pharmacology",
+          "IV. Oncology — Chemotherapy Pharmacology"
+        ]
+      },
+      {
+        "label": "Part 8 — Renal, Pulmonary & Eicosanoid Pharmacology (Gold)",
+        "children": [
+          "I. NSAIDs, Acetaminophen & the Eicosanoid Pathway",
+          "II. Gout Therapy",
+          "III. RAAS-Targeting Antihypertensives",
+          "IV. Diuretics",
+          "V. Antihistamines",
+          "VI. Asthma & COPD Pharmacotherapy",
+          "VII. Prostaglandin Analogs & Pulmonary Vasodilators"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1. Beta-Lactams — Cell Wall Synthesis Inhibitors",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Shared MOA → β-lactam ring binds penicillin-binding proteins (PBPs) → blocks peptidoglycan (D-alanyl-D-alanine) cross-linking → bactericidal. Bacterial β-lactamases (often plasmid-encoded) cleave the ring → resistance."
+        ]
+      },
+      {
+        "label": "Natural Penicillins — Penicillin G, Penicillin V",
+        "children": [
+          "Penicillin V → oral, acid-stable, poor bioavailability → minor infections only (e.g., streptococcal pharyngitis)",
+          "Penicillin G → IV/IM administration",
+          "Pen G or V → rheumatic fever; Pen G → intrapartum GBS prophylaxis; single-dose benzathine Pen G → syphilis",
+          "Covers → Staph, Strep, Neisseria meningitidis, Actinomyces israelii, Clostridium perfringens (gangrene), Pasteurella (dog bites)",
+          "Strep viridans / Strep bovis → subacute left-sided endocarditis",
+          "AE → Type I IgE hypersensitivity; drug-induced autoimmune hemolytic anemia (+ direct Coombs); interstitial nephritis",
+          "Resistance → β-lactamases (plasmid-encoded)"
+        ]
+      },
+      {
+        "label": "Antistaphylococcal Penicillins — Nafcillin, Oxacillin",
+        "children": [
+          "Bulky R-groups → resist β-lactamase cleavage → narrow spectrum, staphylococci only",
+          "Uses → skin/soft tissue infections (folliculitis, abscess); staph endocarditis; staph osteomyelitis",
+          "AE → same as penicillin",
+          "MRSA → resistance via altered PBP (not β-lactamase-mediated) → resistant to all β-lactams, including nafcillin/oxacillin"
+        ]
+      },
+      {
+        "label": "Aminopenicillins — Amoxicillin, Ampicillin",
+        "children": [
+          "Extended gram-negative coverage; susceptible to β-lactamases → often paired with clavulanate",
+          "Amoxicillin (oral, good bioavailability) → otitis media / sinusitis (S. pneumoniae, H. influenzae, M. catarrhalis); strep throat (+ ampicillin); pneumonia (S. pneumoniae, H. influenzae, + ampicillin)",
+          "Amoxicillin → part of H. pylori triple therapy (+ clarithromycin + PPI); Lyme disease (Borrelia burgdorferi)",
+          "Amoxicillin prophylaxis → asplenic patients (encapsulated organisms: S. pneumoniae, H. flu); high-risk dental procedures (endocarditis prevention)",
+          "Ampicillin → IV; covers enterococcus; meningitis caused by Listeria monocytogenes; GI/urinary gram-negative rods",
+          "Resistance → ampicillin-resistant enterococcus strains via β-lactamase production",
+          "AE → Stevens-Johnson syndrome (rash); drug-induced liver injury; rash with EBV/infectious mononucleosis"
+        ]
+      },
+      {
+        "label": "Antipseudomonal Penicillins & β-Lactamase Inhibitors",
+        "children": [
+          "Piperacillin, Ticarcillin → paired with β-lactamase inhibitors (prevents cleavage) → cover anaerobes + Pseudomonas",
+          "β-lactamase inhibitors → clavulanate, sulbactam, tazobactam (no intrinsic antibacterial activity; extend coverage of partner drug)"
+        ]
+      },
+      {
+        "label": "Cephalosporins (1st–5th Generation)",
+        "children": [
+          "Gen: 1st | Drugs: Cephalexin, Cefazolin | Coverage: Gram (+): staph, strep; some gram (–): Proteus, E. coli, Klebsiella | Key Uses: Cellulitis, abscess, S. pyogenes; cefazolin → surgical prophylaxis",
+          "Gen: 2nd | Drugs: Cefuroxime, Cefotetan, Cefoxitin | Coverage: 1st gen + H. flu, Neisseria, Serratia (\"HENS\") | Key Uses: Extended gram-negative coverage vs 1st gen",
+          "Gen: 3rd | Drugs: Ceftriaxone, Cefotaxime, Ceftazidime | Coverage: Extended gram (–) beyond 2nd gen | Key Uses: Meningitis (ceftriaxone/cefotaxime); CAP/HAP; single-dose IM ceftriaxone → gonorrhea; Lyme disease; ceftazidime → Pseudomonas; ceftriaxone → endocarditis (strep viridans, HACEK)",
+          "Gen: 4th | Drugs: Cefepime | Coverage: Broad spectrum + Pseudomonas | Key Uses: Bacterial meningitis",
+          "Gen: 5th | Drugs: Ceftaroline | Coverage: Broad spectrum | Key Uses: MRSA infections",
+          "AE → same as penicillin (hypersensitivity, hemolytic anemia, interstitial nephritis); cross-reactivity with penicillin allergy",
+          "Resistance → most β-lactamases ineffective vs cephalosporins; resistance via altered PBPs + extended-spectrum β-lactamases (ESBLs)"
+        ]
+      },
+      {
+        "label": "Monobactams — Aztreonam",
+        "children": [
+          "Covers → aerobic gram-negative rods only (no gram-positive/anaerobe activity)",
+          "Uses → serious gram-negative infections (meningitis, pneumonia, sepsis); Pseudomonas",
+          "Safe in patients with penicillin allergy (no cross-reactivity)",
+          "Resistant to β-lactamases"
+        ]
+      },
+      {
+        "label": "Carbapenems — Imipenem, Meropenem, Ertapenem, Doripenem",
+        "children": [
+          "Broadest-spectrum β-lactams; resistant to extended-spectrum β-lactamases",
+          "Uses → multidrug-resistant infections; anaerobes (aspiration pneumonia, intra-abdominal infection); Pseudomonas",
+          "Imipenem → inactivated by renal dehydropeptidase → paired with cilastatin (inhibits dehydropeptidase, prevents degradation)",
+          "AE → GI upset; skin rash; imipenem lowers seizure threshold"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2. Lipopeptide — Daptomycin",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "MOA → inserts lipid tail into gram-positive cell membrane → depolarization → cell death",
+          "Covers → Staph (incl. MRSA), Strep, Enterococcus (incl. VRE)",
+          "Uses → MRSA bacteremia; staph endocarditis",
+          "Ineffective for pneumonia (inactivated by pulmonary surfactant)",
+          "AE → myopathy, rare rhabdomyolysis → monitor CPK"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3. Protein Synthesis Inhibitors",
+    "children": [
+      {
+        "label": "30S Inhibitors — Tetracyclines",
+        "children": [
+          "MOA → irreversible binding to 30S subunit → blocks tRNA attachment; broad spectrum",
+          "Covers → MRSA; tick-borne organisms (Rickettsia, Ehrlichia, Francisella, Borrelia); Brucella; culture-negative endocarditis (Coxiella); Yersinia",
+          "Covers → Chlamydia (cervicitis, urethritis, PID, atypical pneumonia); Mycoplasma (\"walking\" pneumonia); acne",
+          "AE → tooth discoloration / bone deposition in children; photosensitivity; GI upset; Fanconi syndrome (type 2 RTA, with expired tetracyclines)",
+          "Divalent/trivalent cations (Ca, Fe, Mg) → chelation → ↓ absorption",
+          "Resistance → efflux pumps, ribosomal alteration. Eliminated fecally → safe in renal failure"
+        ]
+      },
+      {
+        "label": "30S Inhibitors — Aminoglycosides",
+        "children": [
+          "MOA → irreversible binding to 30S → blocks initiation complex, causes mRNA misreading; bactericidal",
+          "Uptake is O2-dependent → no activity vs anaerobes; often combined with a cell-wall agent (β-lactam/vancomycin) for synergy (e.g., enterococcus)",
+          "AE → nephrotoxicity (acute tubular necrosis); ototoxicity (vestibular/cochlear); teratogenic (fetal deafness)",
+          "Contraindication → myasthenia gravis (post-NMJ blockade)",
+          "Drug: Streptomycin | Distinguishing Feature: Tularemia (Francisella), plague (Yersinia pestis)",
+          "Drug: Gentamicin | Distinguishing Feature: Resistant gram-negatives (Enterobacter, Serratia, Klebsiella); septicemia; Pseudomonas",
+          "Drug: Tobramycin | Distinguishing Feature: + cell-wall agent → enterococcus; inactivated by E. faecium acetylation enzyme",
+          "Drug: Amikacin | Distinguishing Feature: Retains activity vs E. faecium with acetylation enzymes (escapes tobramycin resistance)",
+          "Drug: Neomycin | Distinguishing Feature: Stays active in GI tract, excreted in feces → bowel prep before colorectal surgery"
+        ]
+      },
+      {
+        "label": "50S Inhibitors — Macrolides (Azithromycin, Clarithromycin, Erythromycin)",
+        "children": [
+          "MOA → bind 50S subunit → block translocation; bacteriostatic",
+          "Uses → CAP (S. pneumoniae, H. flu, M. catarrhalis); atypical pneumonia (Mycoplasma, Legionella); Chlamydia pneumoniae/trachomatis",
+          "Uses → pertussis (Bordetella) + prophylaxis for contacts; Bartonella; Mycobacterium avium (MAC) + prophylaxis at CD4 <50",
+          "Oral erythromycin → neonatal chlamydial conjunctivitis & pneumonia; erythromycin drops → neonatal conjunctivitis prophylaxis vs N. gonorrhoeae; erythromycin → diphtheria",
+          "Clarithromycin → part of H. pylori triple therapy (+ amoxicillin + PPI)",
+          "Safe alternative in penicillin allergy",
+          "AE → ↑ GI motility; acute cholestatic jaundice; QT prolongation; CYP450 inhibition"
+        ]
+      },
+      {
+        "label": "50S Inhibitors — Clindamycin",
+        "children": [
+          "MOA → binds 50S → blocks translocation; bacteriostatic",
+          "Covers → Staph, Strep (GAS, cellulitis, soft tissue infection), MRSA; anaerobes (Bacteroides fragilis, C. perfringens)",
+          "Uses → aspiration pneumonia, deep-seated abscesses (excellent penetration); bacterial vaginosis (Gardnerella); + gentamicin → polymicrobial female genital tract infection; topical → moderate-severe inflammatory acne; + atovaquone → babesiosis",
+          "\"Clindamycin above the diaphragm, metronidazole below\" — anaerobic coverage split",
+          "AE → diarrhea → C. diff pseudomembranous colitis"
+        ]
+      },
+      {
+        "label": "50S Inhibitors — Chloramphenicol",
+        "children": [
+          "MOA → reversible binding to 50S → blocks peptide bond formation; bacteriostatic",
+          "Uses → empiric meningitis in developing countries (S. pneumo, H. flu, N. meningitidis); alternative agent for serious rickettsial infection (Rocky Mountain spotted fever) — safe in pregnancy",
+          "AE → dose-related reversible anemia; aplastic anemia; gray baby syndrome (neonates lack glucuronidation → flaccidity, hypothermia, shock)"
+        ]
+      },
+      {
+        "label": "50S Inhibitors — Linezolid",
+        "children": [
+          "MOA → reversible binding to 50S → blocks initiation complex; bacteriostatic",
+          "Covers → gram-positive only: Staph (incl. MRSA), Strep, Enterococcus (incl. VRE)",
+          "Uses → serious gram-positive infections; nosocomial MRSA pneumonia",
+          "AE → thrombocytopenia; peripheral/optic neuropathy; serotonin syndrome (weak MAOI activity)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4. Folate Synthesis Inhibitors",
+    "children": [
+      {
+        "label": "Sulfamethoxazole / Trimethoprim (TMP-SMX)",
+        "children": [
+          "MOA → PABA → [SMX blocks dihydropteroate synthetase] → dihydrofolic acid → [TMP blocks dihydrofolate reductase] → tetrahydrofolic acid → purines/DNA",
+          "Uses → 1st-line UTI; acute prostatitis; PJP treatment + prophylaxis at CD4 <200; Nocardia; MRSA skin infections",
+          "Pyrimethamine/sulfadiazine → toxoplasmosis treatment; TMP-SMX prophylaxis for toxoplasmosis at CD4 <100",
+          "AE → pancytopenia/megaloblastic anemia; teratogen (neural tube defects, 1st trimester); sulfa allergy (fever, urticaria, rash, SJS)",
+          "AE → hemolytic anemia in G6PD deficiency; type IV RTA (hyperkalemia); interstitial nephritis; photosensitivity",
+          "AE → kernicterus in neonate (if used in last month of pregnancy — displaces bilirubin); displaces warfarin from albumin → bleeding; drug-induced lupus; CYP450 inhibition"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5. Nucleic Acid Inhibitors",
+    "children": [
+      {
+        "label": "Fluoroquinolones — Ciprofloxacin, Levofloxacin, Moxifloxacin",
+        "children": [
+          "MOA → inhibit bacterial DNA gyrase (topoisomerase); mainly gram-negative coverage",
+          "Uses → gram-negative UTI (E. coli, Proteus), incl. complicated UTI/pyelonephritis (Pseudomonas); prostatitis",
+          "Uses → gastroenteritis (Shigella, Salmonella, E. coli) — ↑ risk of Salmonella osteomyelitis in sickle cell patients; anthrax (B. anthracis)",
+          "Respiratory quinolones (levofloxacin, moxifloxacin) → CAP (S. pneumoniae); atypical pneumonia (Mycoplasma, Legionella)",
+          "AE → QT prolongation; GI upset; tendon rupture (elderly, steroid users); cartilage damage — teratogenic, avoid in children <10 yrs and pregnancy",
+          "Divalent/trivalent cations → ↓ absorption"
+        ]
+      },
+      {
+        "label": "Metronidazole",
+        "children": [
+          "MOA → forms free radicals → disrupts bacterial/protozoal DNA; bactericidal",
+          "Covers → anaerobes (Bacteroides, Prevotella, Fusobacterium, Clostridium incl. C. diff); protozoa (Entamoeba histolytica — liver abscess, Giardia, Trichomonas)",
+          "Uses → intra-abdominal infections; bacterial vaginosis (Gardnerella); trichomonal vaginitis/cervicitis (treat partner too); C. diff colitis; substitute for amoxicillin in H. pylori triple therapy (penicillin allergy)",
+          "\"Metronidazole below the diaphragm\" — complements clindamycin's anaerobic coverage",
+          "AE → disulfiram-like reaction with alcohol (flushing, tachycardia, N/V)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6. Antimycobacterial Therapy",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "RIPE regimen (active TB) → Rifampin + Isoniazid + Pyrazinamide + Ethambutol × 2 months → then Isoniazid + Rifampin × 4 months (prevents resistance development).",
+          "Drug: Isoniazid (INH) | MOA: Inhibits mycolic acid synthesis (cell wall); activated by catalase-peroxidase (KatG) | Key AE: Peripheral neuropathy (↓B6); hepatotoxicity; drug-induced lupus; seizures; anion gap metabolic acidosis",
+          "Drug: Rifampin | MOA: Inhibits DNA-dependent RNA polymerase | Key AE: Hepatotoxic; orange body fluids",
+          "Drug: Pyrazinamide | MOA: — | Key AE: Hyperuricemia → gout, needle-shaped uric acid crystals; hepatotoxic",
+          "Drug: Ethambutol | MOA: Blocks arabinosyl transferase (cell wall carbohydrate synthesis) | Key AE: Optic neuritis (↓ visual acuity, red-green color blindness)",
+          "INH → resistance via ↓KatG; metabolized by hepatic N-acetyltransferase — slow acetylators → ↑ risk of side effects; give with pyridoxine (B6) to prevent neuropathy; inhibits CYP450; used alone for latent TB",
+          "Rifampin → activates CYP450 (opposite of INH); resistance develops rapidly if used alone; prophylaxis for close contacts of H. flu and N. meningitidis",
+          "All RIPE drugs → hepatotoxic"
+        ]
+      },
+      {
+        "label": "Mycobacterium avium Complex (MAC)",
+        "children": [
+          "Common cause of disseminated disease in AIDS patients",
+          "Treatment → macrolide (azithromycin/clarithromycin) + ethambutol ± rifabutin (3rd agent)",
+          "Prophylaxis → macrolide when CD4 <50",
+          "Rifampin and rifabutin → activate CYP450"
+        ]
+      },
+      {
+        "label": "Leprosy (Mycobacterium leprae)",
+        "children": [
+          "Dapsone → AE: hemolytic anemia in G6PD deficiency (bite cells, Heinz bodies); agranulocytosis",
+          "Clofazimine → treats lepromatous leprosy (leonine facies)",
+          "Rifampin → also used to treat leprosy"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "7. Antifungals",
+    "children": [
+      {
+        "label": "Amphotericin B",
+        "children": [
+          "MOA → binds ergosterol in fungal membrane → forms pores → cell death",
+          "Toxicity → non-selective binding to mammalian cholesterol membranes (basis of AE)",
+          "Resistance → ↓ ergosterol content in membrane",
+          "Uses → severe systemic fungal infections; IV (liposomal formulation available); intrathecal for fungal CNS infections",
+          "AE → hypotension, headache; infusion reaction (\"shake and bake\" fevers/chills); seizures/CNS effects; thrombophlebitis",
+          "AE → renal tubular acidosis type 1; hypokalemia; renal Mg wasting; anemia (↓ EPO production)",
+          "Pre-treatment → IV normal saline volume expansion before dosing (↓ nephrotoxicity)"
+        ]
+      },
+      {
+        "label": "Flucytosine",
+        "children": [
+          "MOA → fluorinated cytosine → converted by cytosine deaminase → 5-fluorouracil → halts fungal DNA/RNA synthesis",
+          "Uses → combined with amphotericin B → treats Cryptococcus"
+        ]
+      },
+      {
+        "label": "Nystatin",
+        "children": [
+          "MOA → same as amphotericin (binds ergosterol → membrane pores)",
+          "Covers → Candida",
+          "Uses → mucocutaneous/vaginal candidiasis; oral rinse for oral candidiasis"
+        ]
+      },
+      {
+        "label": "Azoles",
+        "children": [
+          "MOA → inhibit lanosterol → ergosterol conversion via CYP450 inhibition",
+          "Class effect → all azoles prone to drug interactions"
+        ]
+      },
+      {
+        "label": "Azoles › Voriconazole",
+        "children": [
+          "Strong CYP450 inhibitor → dose-reduce cyclosporine, tacrolimus, statins",
+          "AE → visual disturbances (blurry vision, flashes of light, color vision changes)",
+          "Uses → invasive aspergillosis; candida esophagitis (AIDS patients)"
+        ]
+      },
+      {
+        "label": "Azoles › Fluconazole",
+        "children": [
+          "Uses → Candida infections (mucocutaneous); one-time oral dose → vaginal candidiasis; systemic → candida stomatitis/esophagitis",
+          "Uses → cryptococcal meningitis (high CNS penetration)"
+        ]
+      },
+      {
+        "label": "Azoles › Itraconazole",
+        "children": [
+          "Uses → systemic dimorphic fungi (histoplasmosis, blastomycosis, coccidioidomycosis, sporothrix)",
+          "Uses → onychomycosis, dermatophytosis"
+        ]
+      },
+      {
+        "label": "Azoles › Clotrimazole & Miconazole",
+        "children": [
+          "Topical → tinea infections",
+          "Combined → vaginal candidiasis"
+        ]
+      },
+      {
+        "label": "Azoles › Ketoconazole",
+        "children": [
+          "Topical → dermatomycosis",
+          "Inhibits 17,20-desmolase (1st step of steroid synthesis from cholesterol) → ↓ androgens/estrogens; ↓ adrenal cortisol overproduction (Cushing disease)",
+          "AE → anti-androgenic effects (gynecomastia)"
+        ]
+      },
+      {
+        "label": "Griseofulvin & Terbinafine — Dermatophyte Agents",
+        "children": [
+          "Griseofulvin → binds fungal microtubules → halts metaphase; activates CYP450; oral → dermatophytosis (tinea corporis/pedis/cruris)",
+          "Terbinafine → inhibits fungal squalene epoxidase → squalene accumulation; topical → dermatophytes; oral → onychomycosis; AE → GI effects, hepatotoxicity",
+          "Oral griseofulvin + terbinafine → first-line for tinea capitis in children"
+        ]
+      },
+      {
+        "label": "Echinocandins — Caspofungin, Micafungin, Anidulafungin",
+        "children": [
+          "MOA → inhibit β-1,3-glucan synthesis in fungal cell wall (NOT membrane, NOT ergosterol)",
+          "Covers → excellent activity vs Candida",
+          "Uses → IV only; systemic candida infections, esophageal candidiasis, invasive aspergillus"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8. Antiretrovirals — HIV",
+    "children": [
+      {
+        "label": "HIV Life Cycle & Drug Targets",
+        "children": [
+          "Infects → CD4+ T cells, macrophages, dendritic cells",
+          "gag gene → core proteins (p24, p7)",
+          "env gene → envelope proteins gp120 and gp41 (sent to ER first)",
+          "gp120 → binds host CD4 + coreceptor (CXCR4/CCR5) → viral entry",
+          "gp41 → mediates membrane fusion",
+          "POL gene → encodes protease, reverse transcriptase, integrase; mutation → resistance to NRTIs, NNRTIs, PIs, AND integrase inhibitors"
+        ]
+      },
+      {
+        "label": "NRTIs — Nucleoside/Nucleotide Reverse Transcriptase Inhibitors",
+        "children": [
+          "MOA → lack 3'-OH → block 3'-5' phosphodiester bond formation → incorporated into viral DNA → chain termination",
+          "Require phosphorylation by cellular enzymes for activation (exception: tenofovir)",
+          "Suffix → \"-dine\"",
+          "AE (class) → mitochondrial toxicity → lactic acidosis",
+          "Drug: Lamivudine | Distinguishing Feature: + tenofovir → treats Hep B; (+ stavudine, didanosine) → peripheral neuropathy",
+          "Drug: Tenofovir | Distinguishing Feature: Already a nucleotide → no phosphorylation needed; + lamivudine → Hep B",
+          "Drug: Zidovudine (AZT) | Distinguishing Feature: Used in pregnancy/breastfeeding → ↓ vertical transmission; AE: myelosuppression, anemia, agranulocytopenia; (+ stavudine) → lipodystrophy",
+          "Drug: Stavudine | Distinguishing Feature: (+ zidovudine) → lipodystrophy; (+ lamivudine, didanosine) → peripheral neuropathy",
+          "Drug: Didanosine | Distinguishing Feature: Dose-dependent pancreatitis; (+ lamivudine, stavudine) → peripheral neuropathy",
+          "Drug: Abacavir | Distinguishing Feature: Hypersensitivity linked to HLA-B*57:01 (delayed type IV reaction)",
+          "Drug: Emtricitabine | Distinguishing Feature: Hyperpigmentation of palms/soles"
+        ]
+      },
+      {
+        "label": "NNRTIs — Non-Nucleoside Reverse Transcriptase Inhibitors",
+        "children": [
+          "MOA → no phosphorylation needed; direct binding → allosteric inhibition of reverse transcriptase → halts DNA polymerase",
+          "AE (class) → variable CYP450 effects; Stevens-Johnson syndrome",
+          "Nevirapine → liver failure can occur within 6 weeks of starting therapy",
+          "Efavirenz → CNS AE (dizziness, drowsiness, headache, psychosis), insomnia/nightmares; teratogenic",
+          "Delavirdine → contraindicated in pregnancy"
+        ]
+      },
+      {
+        "label": "Protease Inhibitors",
+        "children": [
+          "Suffix → \"-navir\"; not phosphorylated",
+          "MOA → inhibit protease → immature, non-infectious virion; POL gene codes HIV enzymes",
+          "Never used as monotherapy",
+          "AE (class) → hyperglycemia/insulin resistance, dyslipidemia, lipodystrophy",
+          "Indinavir → nephrolithiasis (prevent with adequate hydration)",
+          "Ritonavir → strongest CYP450 inhibitor → \"boosts\" concentrations of other protease inhibitors"
+        ]
+      },
+      {
+        "label": "Entry, Fusion & Integrase Inhibitors",
+        "children": [
+          "Maraviroc (entry) → binds CCR5 (must determine viral tropism first)",
+          "Enfuvirtide (fusion) → binds gp41 → blocks fusion",
+          "Raltegravir (integrase) → binds/inhibits viral integrase → blocks DNA integration; AE → rhabdomyolysis"
+        ]
+      },
+      {
+        "label": "Key Drug Interaction",
+        "children": [
+          "Rifampin → activates CYP450 → ↓ concentration of protease inhibitors"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9. Interferons",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Immunomodulatory cytokines released by virus-infected cells; interleukins upregulate interferon synthesis.",
+          "Type: Interferon-α | Key Uses / Notes: Hep B & C; hairy cell leukemia; malignant melanoma; Kaposi sarcoma (HIV); condyloma acuminata (HPV); renal cell carcinoma. / AE → flu-like syndrome, fatigue, retinopathy, confusion; myelosuppression (+ zidovudine); lupus",
+          "Type: Interferon-β | Key Uses / Notes: Multiple sclerosis (MS)",
+          "Type: Interferon-γ | Key Uses / Notes: Chronic granulomatous disease (CGD)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "10. Hepatitis C Antivirals",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Identify HCV genotype before treatment; assess liver fibrosis first",
+          "SVR (sustained virologic response) = undetectable HCV RNA by PCR 6 months after stopping treatment",
+          "Traditional regimen → weekly pegylated interferon-α + daily ribavirin"
+        ]
+      },
+      {
+        "label": "Ribavirin",
+        "children": [
+          "Guanosine nucleoside analog; phosphorylated 3× by cellular enzymes → active form",
+          "AE → dose-dependent hemolytic anemia; teratogenic",
+          "Also classically used for RSV"
+        ]
+      },
+      {
+        "label": "Sofosbuvir",
+        "children": [
+          "Nucleoside analog → inhibits NS5B RNA polymerase",
+          "AE → fatigue, nausea"
+        ]
+      },
+      {
+        "label": "Simeprevir",
+        "children": [
+          "Protease inhibitor (NS3/4 protease)",
+          "AE → phototoxicity, rash; CYP450 inhibitor"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "11. Herpesvirus Antivirals — HSV / VZV / CMV",
+    "children": [
+      {
+        "label": "Acyclovir & Valacyclovir (HSV, VZV)",
+        "children": [
+          "MOA → guanosine analog → activated by viral thymidine kinase → monophosphate → cellular kinases → triphosphate → incorporates into DNA → halts synthesis",
+          "Resistance → absent thymidine kinase",
+          "Valacyclovir → prodrug, improved oral bioavailability; daily use = suppressive therapy for recurrent outbreaks",
+          "IV acyclovir → serious HSV/VZV infections, HSV encephalitis, neonatal infection",
+          "VZV → famciclovir/valacyclovir preferred over acyclovir (superior activity, less frequent dosing); most effective within 3 days of shingles onset",
+          "Prophylaxis → immunocompromised patients; pregnant women with recurrent genital herpes; organ transplant recipients",
+          "AE → interstitial nephritis/crystalline nephropathy (IV; prevent with hydration); uncommon CNS effects (delirium, confusion, vertigo, hallucinations)"
+        ]
+      },
+      {
+        "label": "Ganciclovir & Valganciclovir (CMV)",
+        "children": [
+          "MOA → guanosine analog → activated by viral UL97 kinase → monophosphate → cellular kinase → triphosphate → incorporates into viral DNA → halts DNA polymerase",
+          "Uses → organ transplant prophylaxis; CMV retinitis (typically CD4 <50)",
+          "Valganciclovir → prodrug, better oral bioavailability; used in high-risk solid organ/bone marrow transplant recipients",
+          "AE → bone marrow suppression (additive with zidovudine)"
+        ]
+      },
+      {
+        "label": "Foscarnet & Cidofovir",
+        "children": [
+          "MOA → do NOT require viral kinase phosphorylation → active against acyclovir/ganciclovir-resistant HSV, CMV, VZV; directly inhibit viral DNA polymerase",
+          "Foscarnet AE → renal insufficiency, hypocalcemia, hypomagnesemia, hypokalemia, seizures",
+          "Cidofovir AE → nephrotoxicity → proteinuria, azotemia, metabolic acidosis",
+          "Probenecid → blocks tubular secretion of cidofovir → ↓ toxicity (also ↑ plasma levels of penicillins, methotrexate, NSAIDs)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "12. Cholinomimetics (Direct-Acting)",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Nicotinic ACh receptors → ligand-gated ion channels → autonomic ganglia, skeletal muscle motor end plates, adrenal medulla",
+          "Muscarinic ACh receptors (M1, M2, M3) → GPCRs",
+          "Receptor: M1 | G-protein: Gq | Location: Nerves / CNS | Effect: ↑ IP3-DAG → ↑ intracellular Ca2+",
+          "Receptor: M2 | G-protein: Gi | Location: Atria, SA/AV node (not ventricles) | Effect: ↓ cAMP",
+          "Receptor: M3 | G-protein: Gq | Location: Glands, smooth muscle (vasculature, bladder, GI, eye) | Effect: ↑ IP3-DAG → ↑ Ca2+; vascular → NO release → ↑ cGMP → vasodilation",
+          "Atherosclerosis → endothelial damage → direct muscarinic activation → loses NO pathway → vasoconstriction",
+          "Net systemic effect of muscarinic agonists → ↓ BP (high doses can act on other M receptors)"
+        ]
+      },
+      {
+        "label": "Direct Muscarinic/Nicotinic Agonists",
+        "children": [
+          "Bethanechol → ↑ gut motility/secretion → non-obstructive GI dysmotility (post-op/neurogenic ileus); urinary retention (neurogenic bladder)",
+          "Pilocarpine → ↑ salivation (Sjögren's, radiation-induced dry mouth); contracts ciliary muscle → ↑ aqueous outflow (glaucoma); miosis → useful in acute angle-closure glaucoma",
+          "Carbachol → muscarinic + nicotinic agonist → miosis → acute angle-closure glaucoma",
+          "Methacholine → bronchial challenge test (asthma diagnosis); can exacerbate asthma/COPD",
+          "All cholinomimetics → can cause peptic ulcers",
+          "Varenicline → nicotinic receptor partial agonist → smoking cessation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "13. Indirect Cholinomimetics — Acetylcholinesterase (AChE) Inhibitors",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "MOA → inhibit AChE (reversibly or irreversibly) → ↑ ACh at synapse (both muscarinic + nicotinic effects)",
+          "Suffix → \"-stigmine\"",
+          "↑ ACh at NMJ (nicotinic) → ↑ strength of contraction"
+        ]
+      },
+      {
+        "label": "Myasthenia Gravis (MG)",
+        "children": [
+          "MG → autoantibodies vs nicotinic ACh receptors at NMJ → progressive weakness, ptosis, diplopia",
+          "Pyridostigmine → long-term MG treatment",
+          "Neostigmine → MG treatment",
+          "Edrophonium → transiently reverses MG symptoms → Tension Test: positive (improves) = undertreated MG; negative (no change) = cholinergic crisis",
+          "Pyridostigmine, neostigmine, edrophonium → quaternary amines → do NOT cross CNS (edrophonium effect lasts only 5–15 min)"
+        ]
+      },
+      {
+        "label": "NMJ Blockade",
+        "children": [
+          "Non-depolarizing blockers (tubocurarine, pancuronium, cisatracurium) → competitive nicotinic antagonists at NMJ; reversed by neostigmine",
+          "Succinylcholine → depolarizing nicotinic agonist → sustained depolarization → unresponsive muscle; Phase 1 block is irreversible — AChE inhibitors worsen (potentiate) it",
+          "AChE inhibitors → also treat urinary retention (muscarinic activation)"
+        ]
+      },
+      {
+        "label": "Anticholinergic Overdose & Organophosphate Toxicity",
+        "children": [
+          "Physostigmine → crosses CNS → reverses atropine/anticholinergic overdose (peripheral + central)",
+          "Anticholinergic toxidrome → \"mad as a hatter, hot as a hare, blind as a bat\" (also from belladonna/jimson weed ingestion)",
+          "Organophosphates (parathion, malathion, echothiopate; nerve agents, herbicides) → irreversible AChE inhibitors, cross CNS",
+          "Muscarinic toxicity — \"DUMBBELSS\": diarrhea, urination, miosis, bronchospasm, bradycardia, lacrimation, salivation, sweating",
+          "Nicotinic toxicity → flaccid paralysis (NMJ over-stimulation)",
+          "Pralidoxime → regenerates AChE (hydrolyzes organophosphate bond) → reverses muscarinic + nicotinic toxicity, including flaccid paralysis; peripheral only",
+          "Atropine → reverses peripheral + central muscarinic toxicity only (no nicotinic effect)",
+          "Aging → organophosphate-AChE complex becomes irreversibly bound over time → pralidoxime ineffective after aging"
+        ]
+      },
+      {
+        "label": "Alzheimer's Disease (CNS-Penetrating AChE Inhibitors)",
+        "children": [
+          "Galantamine, Rivastigmine, Donepezil → cross CNS → treat Alzheimer's disease"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "14. Muscarinic Antagonists (Antimuscarinics)",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "MOA → reversible, competitive block of muscarinic receptors (\"anti-DUMBBELSS\" — opposite of cholinergic toxicity)",
+          "Atropine → prototype; natural sources: belladonna (deadly nightshade), jimson weed"
+        ]
+      },
+      {
+        "label": "Eye & CNS",
+        "children": [
+          "Cause mydriasis (pupil dilation) + cycloplegia (loss of near-vision accommodation)",
+          "Scopolamine → crosses BBB, blocks central M1 → motion sickness (give before symptom onset); transdermal patch"
+        ]
+      },
+      {
+        "label": "Cardiac",
+        "children": [
+          "Block M2 at SA/AV node → ↑ HR, ↑ AV conduction",
+          "Atropine → treats bradycardia and heart block (AV block)"
+        ]
+      },
+      {
+        "label": "Respiratory",
+        "children": [
+          "Ipratropium, Tiotropium → inhaled M3 antagonists → bronchodilation, ↓ secretions → COPD",
+          "Tiotropium → slower dissociation from M3 → longer duration of action"
+        ]
+      },
+      {
+        "label": "Genitourinary",
+        "children": [
+          "Oxybutynin → relieves bladder spasm post-urologic surgery",
+          "Tolterodine → adult urinary incontinence",
+          "Both → M3 antagonism → relax bladder/ureter smooth muscle"
+        ]
+      },
+      {
+        "label": "CNS / Movement Disorders",
+        "children": [
+          "M1 receptors → CNS; excess M1 activity → cogwheel rigidity in Parkinson's disease",
+          "Benztropine, Trihexyphenidyl → central M1 antagonists → treat Parkinsonian tremor/rigidity AND antipsychotic-induced extrapyramidal symptoms (dystonia, akathisia, parkinsonism)"
+        ]
+      },
+      {
+        "label": "Adverse Effects (Anticholinergic Toxidrome)",
+        "children": [
+          "↑ HR; ↓ sweating → hyperthermia; ↓ salivation/lacrimation → dry mouth/eyes",
+          "Mydriasis/cycloplegia → blurred vision; mydriasis → ↓ aqueous outflow → acute angle-closure glaucoma",
+          "Crosses BBB → central M1 block → sedation, agitation, hallucination, coma (especially elderly)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "15. Sympathomimetics — Adrenergic Receptors",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Receptor: α1 | G-protein: Gq | Key Effects: Arterial + venous constriction → ↑ MAP, ↑ venous return; mydriasis; urethral/prostatic contraction → urinary retention",
+          "Receptor: α2 | G-protein: Gi | Key Effects: Presynaptic → ↓ NT release (central sympatholytic); ↓ insulin release; ↓ lipolysis; ↓ aqueous humor production",
+          "Receptor: β1 | G-protein: Gs | Key Effects: ↑ HR, ↑ contractility, ↑ CO; ↑ renin release (JGA)",
+          "Receptor: β2 | G-protein: Gs | Key Effects: Bronchodilation; coronary/skeletal vasodilation → ↓ SVR, ↓ diastolic BP; ↑ lipolysis; ↑ hepatic gluconeogenesis; ↑ insulin release (→ possible hypokalemia); ↑ aqueous humor production",
+          "Brimonidine → α2 agonist → ↓ aqueous humor production → treats open-angle glaucoma"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "16. Specific Direct Sympathomimetics",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Drug: Phenylephrine | Receptor Profile: α1 only | Key Effects / Uses: Nasal decongestant; mydriasis; ↑ MAP/systolic/diastolic BP; reflex bradycardia (baroreceptor response)",
+          "Drug: Norepinephrine | Receptor Profile: α1 > β1 | Key Effects / Uses: ↑ MAP, systolic & diastolic BP; reflex bradycardia; ↑ contractility (β1) → ↑ pulse pressure; used in septic/distributive shock",
+          "Drug: Epinephrine | Receptor Profile: β > α (dose-dependent) | Key Effects / Uses: Low dose: β effects → bronchodilation, ↓ diastolic BP, ↑ HR/contractility. High dose: α1 → vasoconstriction, ↑ SVR. Net ↑ MAP, ↑ pulse pressure. Drug of choice → anaphylaxis",
+          "Drug: Dobutamine | Receptor Profile: β1 >> β2 | Key Effects / Uses: ↑ HR, contractility, CO → refractory/cardiogenic heart failure; ↑ pulse pressure; used for cardiac stress testing",
+          "Drug: Isoproterenol | Receptor Profile: β1 = β2 | Key Effects / Uses: ↑ HR & contractility (β1); vasodilation → ↓ SVR, ↓ diastolic BP, ↓ MAP (β2); ↑ pulse pressure",
+          "Drug: Terbutaline, Ritodrine | Receptor Profile: β2 | Key Effects / Uses: Uterine relaxation → tocolysis (prevent premature labor)",
+          "Drug: Albuterol, Formoterol, Salmeterol | Receptor Profile: β2 | Key Effects / Uses: \"-terol\" suffix → bronchodilators"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "17. Indirect Sympathomimetics",
+    "children": [
+      {
+        "label": "Catecholamine Synthesis, Storage & Reuptake",
+        "children": [
+          "Tyrosine → (rate-limiting; blocked by Metyrosine) → L-DOPA → Dopamine → (dopamine β-hydroxylase, in vesicle) → Norepinephrine",
+          "VMAT → packages catecholamines into presynaptic vesicles",
+          "NET → reuptake of NE (+ dopamine); DAT → reuptake of dopamine — both targeted by antidepressants and cocaine"
+        ]
+      },
+      {
+        "label": "Cocaine",
+        "children": [
+          "MOA → inhibits NET (peripheral) → sympathetic stimulation (HTN, tachycardia, mydriasis); inhibits DAT (central) → ↑ CNS dopamine → arousal, addiction, seizures",
+          "Complications → nasal mucosal atrophy/septal perforation (vasoconstriction); coronary vasospasm → angina/myocardial ischemia",
+          "Avoid beta-blockers in cocaine toxicity → unopposed α1 stimulation → severe HTN"
+        ]
+      },
+      {
+        "label": "Other Reuptake/Storage Agents & Stimulants",
+        "children": [
+          "Atomoxetine → NET inhibitor → treats ADHD",
+          "Reserpine, Tetrabenazine → inhibit VMAT → deplete NT stores → AE: depression",
+          "Amphetamines → displace NE/dopamine into synapse → treat ADHD; suppress appetite",
+          "Methylphenidate → amphetamine derivative → ADHD",
+          "Modafinil → stimulant → narcolepsy; suppresses appetite"
+        ]
+      },
+      {
+        "label": "Dopamine — Dose-Dependent Receptor Activation",
+        "children": [
+          "Dose: Low | Receptor: D1 (Gs) | Effect: ↑ renal blood flow, GFR, Na+ excretion",
+          "Dose: Medium | Receptor: β1 | Effect: ↑ cardiac contractility/output",
+          "Dose: High | Receptor: α1 | Effect: Vasoconstriction (pressor effect)",
+          "Use → pressor in heart failure or shock refractory to norepinephrine",
+          "D2 receptors → Gi-coupled; found in CNS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "18. Alpha-2 Agonists & Alpha Antagonists",
+    "children": [
+      {
+        "label": "Alpha-2 Agonists (Central Sympatholytics)",
+        "children": [
+          "Drug: Clonidine | Distinguishing Use: HTN (incl. hypertensive urgency); ADHD; Tourette's syndrome",
+          "Drug: Methyldopa | Distinguishing Use: HTN — especially gestational HTN; AE: lupus-like syndrome",
+          "Drug: Tizanidine | Distinguishing Use: Central-acting skeletal muscle relaxant"
+        ]
+      },
+      {
+        "label": "Alpha Antagonists",
+        "children": [
+          "Phentolamine → reversible, non-selective α1/α2 antagonist → vasodilation; used for cocaine toxicity, MAOI + tyramine hypertensive crisis, pheochromocytoma (peri-/intra-operative)",
+          "Phenoxybenzamine → irreversible, non-selective α1/α2 antagonist → given days in advance of pheochromocytoma surgery",
+          "Pheochromocytoma → catecholamine-secreting adrenal medullary tumor → headache, HTN, palpitations, sweating; alpha-blockade before beta-blockade",
+          "MAOIs + tyramine (wine, aged cheese) → prevents tyramine metabolism → hypertensive crisis → treat with alpha blockers",
+          "α1-selective antagonists — \"-osin\" (prazosin, terazosin, doxazosin, tamsulosin) → vasodilation",
+          "Terazosin → BPH (relaxes prostatic/urethral smooth muscle); Prazosin → also used for PTSD",
+          "AE (alpha blockers) → orthostatic hypotension → reflex tachycardia",
+          "Mirtazapine → atypical antidepressant; α2 antagonist (+ other receptors) → ↑ serotonin release → treats depression"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "19. Beta Blockers",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Suffix → \"-lol\"",
+          "MOA → antagonize β1 → ↓ contractility, ↓ HR, suppress SA/AV node conduction (risk: bradycardia, heart block)",
+          "↓ myocardial O2 demand → treats chronic stable angina",
+          "↓ renin release (β1 at JGA)"
+        ]
+      },
+      {
+        "label": "Selectivity",
+        "children": [
+          "Cardioselective (β1): atenolol, betaxolol, esmolol, acebutolol, metoprolol → preferred in acute MI/ACS, chronic heart failure (↓ tachycardia/catecholamine burden)",
+          "Nonselective + α1 blockade: Carvedilol (heart failure); Labetalol → HTN in pregnancy, IV for hypertensive emergency",
+          "Partial agonists — Pindolol (nonselective), Acebutolol (β1-selective) → avoid in heart failure/post-MI"
+        ]
+      },
+      {
+        "label": "Clinical Uses",
+        "children": [
+          "Post-MI / chronic HF → ↓ mortality (protect heart from catecholamine-induced remodeling)",
+          "HTN (especially post-MI); IV use → acute aortic dissection",
+          "Hypertrophic obstructive cardiomyopathy (HOCM)",
+          "Migraine prophylaxis (episodic); essential tremor; antiarrhythmic properties",
+          "Thyroid storm — \"3 P's\": Propranolol, Prednisone, Propylthiouracil",
+          "Topical nonselective (Timolol) → glaucoma (↓ aqueous humor production, ciliary epithelium β2 block)"
+        ]
+      },
+      {
+        "label": "Adverse Effects & Toxicity",
+        "children": [
+          "Nonselective agents → can exacerbate asthma/COPD (β2 blockade → bronchoconstriction)",
+          "Impotence in men",
+          "Toxicity treatment → Glucagon (bypasses beta receptor to stimulate the heart)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "20. Heart Failure Pharmacotherapy",
+    "children": [
+      {
+        "label": "Digoxin",
+        "children": [
+          "MOA → inhibits Na+/K+ ATPase → ↑ intracellular Na+ → ↑ Ca2+ influx via Na+/Ca2+ exchanger → ↑ contractility (positive inotrope)",
+          "Also → direct vagal stimulation → AV nodal inhibition → treats atrial arrhythmias (rate control)",
+          "Uses → chronic systolic heart failure (symptom relief only — does NOT ↓ mortality); AFib rate control (not first-line)",
+          "Toxicity risk factors → hypokalemia (exacerbates toxicity — e.g., from loop diuretics/diarrhea/vomiting); renal insufficiency (↓ clearance, long half-life); drugs that ↓ renal clearance",
+          "AE → hyperkalemia (acute toxicity); various arrhythmias; scooped/concave ST segments on EKG (chronic use); bradycardia; heart block",
+          "AE → GI: nausea, vomiting, abdominal pain; xanthopsia (yellow vision)",
+          "Contraindication → SA node heart block; use caution with beta blockers",
+          "Toxicity treatment → digoxin immune Fab"
+        ]
+      },
+      {
+        "label": "Milrinone",
+        "children": [
+          "MOA → inhibits phosphodiesterase → ↓ cAMP breakdown → ↑ contractility; also causes arterial dilation",
+          "Uses → heart failure — watch for hypotension"
+        ]
+      },
+      {
+        "label": "Nesiritide",
+        "children": [
+          "MOA → BNP analog → ↑ cGMP → arteriolar + venous dilation → ↓ afterload and preload",
+          "Also causes natriuresis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "21. Antianginal Therapy — Nitrates",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "MOA → metabolized → releases nitric oxide → ↑ cGMP in vascular smooth muscle → myosin light chain dephosphorylation → relaxation",
+          "Effect → primarily venodilation (↑ venous capacitance); some large-artery dilation; minimal arteriolar effect",
+          "Hemodynamics → ↓ preload, ↓ venous return/filling → ↓ wall stress → ↓ myocardial O2 demand",
+          "Uses → chronic stable angina; Prinzmetal angina; acute coronary syndrome; IV → hypertensive emergency; acute pulmonary edema",
+          "Sublingual → avoids first-pass metabolism (acute relief); Oral (isosorbide mono-/dinitrate) → longer duration, larger doses needed (first-pass metabolism)",
+          "Contraindications → right-sided MI (preload-dependent — use IV fluids instead); HOCM; PDE-5 inhibitors (sildenafil) — avoid within 24 hours (severe hypotension)",
+          "AE → hypotension → reflex tachycardia (baroreceptor-mediated; beta blockers prevent this); throbbing headache, flushing; methemoglobinemia",
+          "Tolerance → prevent with daily nitrate-free interval; \"Monday disease\" — industrial workers lose tolerance over the weekend → headache/dizziness on Monday re-exposure"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "22. Lipid Metabolism & Lipid-Lowering Drugs",
+    "children": [
+      {
+        "label": "Lipoprotein Pathway (Overview)",
+        "children": [
+          "Chylomicrons (intestine) → carry dietary triglycerides (main component) + cholesterol esters; surface ApoB-48, A, C, E; ApoE → hepatic uptake of remnants (via LDL receptor)",
+          "LPL → hydrolyzes chylomicron/VLDL triglycerides → free fatty acids (energy for heart/muscle, or re-esterified/stored in adipose)",
+          "HMG-CoA reductase → synthesizes cholesterol in liver (1st intermediate: mevalonic acid)",
+          "VLDL (liver) → carries triglycerides (~60%) to periphery; ApoB100 marks \"bad cholesterol\" (LDL & VLDL); LPL hydrolysis → loses triglycerides → becomes LDL",
+          "LDL → cholesterol-ester core; delivers cholesterol to peripheral LDL receptors; cleared by hepatic LDL receptor (ApoB100-mediated)",
+          "HDL (liver/intestine) → extracts cholesterol from peripheral membranes; LCAT esterifies free cholesterol; transfers esters to LDL/VLDL, or delivers directly to liver via scavenger receptor (SR-B1) — reverse cholesterol transport",
+          "Bile acids → liver converts cholesterol → bile acids → secreted in bile → 95% reabsorbed in terminal ileum (enterohepatic circulation)"
+        ]
+      },
+      {
+        "label": "Statins — Simvastatin, Atorvastatin, Rosuvastatin",
+        "children": [
+          "MOA → inhibit HMG-CoA reductase → ↓ cholesterol synthesis → ↑ LDL receptor expression on hepatocytes → ↑ LDL clearance",
+          "Effect → ↓ LDL 30–60% (most potent); mild ↓ triglycerides; mild ↑ HDL",
+          "Uses → most effective for preventing CV events; only lipid drug proven to ↓ atherosclerotic CV disease risk; started in MI/ACS; ↓ CV events/mortality in high-risk diabetics, PAD, prior TIA/stroke",
+          "AE → teratogenic; myopathy (weeks–months after starting; proximal weakness, ↑ CK); mild reversible ↑ LFTs",
+          "Metabolism → all except pravastatin are metabolized via CYP450 → ↑ myopathy risk with interacting drugs"
+        ]
+      },
+      {
+        "label": "Bile Acid Resins — Cholestyramine, Colestipol, Colesevelam",
+        "children": [
+          "MOA → bind bile acids in gut → block enterohepatic recycling → ↑ new bile acid synthesis (depletes hepatic cholesterol) → ↑ LDL receptor upregulation → ↑ LDL clearance",
+          "Uses → primary hypercholesterolemia",
+          "AE → ↑ triglycerides/VLDL (avoid if TG already high); gallstones; constipation/bloating (avoid in diverticulitis/bowel disease); impairs fat-soluble vitamin absorption (A, D, E, K); ↓ statin absorption (space 4 hours apart)"
+        ]
+      },
+      {
+        "label": "Ezetimibe",
+        "children": [
+          "MOA → blocks intestinal cholesterol absorption → ↓ hepatic cholesterol delivery → ↑ LDL receptor upregulation → ↑ LDL clearance",
+          "Uses → adjunct to statin therapy",
+          "AE → diarrhea/steatorrhea; ↑ LFTs — does NOT cause gallstones or hypertriglyceridemia"
+        ]
+      },
+      {
+        "label": "PCSK9 Inhibitors — Evolocumab",
+        "children": [
+          "MOA → antibody binds PCSK9 → prevents LDL receptor degradation → ↑ LDL receptor density → ↑ LDL clearance"
+        ]
+      },
+      {
+        "label": "Fibrates — Gemfibrozil, Fenofibrate",
+        "children": [
+          "MOA → activate PPAR-alpha → ↑ LPL activity",
+          "Effect → ↓ triglycerides 35–50% (main effect); mild ↓ LDL; mild ↑ HDL (activates ApoA-I/A-II)",
+          "AE → ↑ myopathy risk when combined with statins; gallstones"
+        ]
+      },
+      {
+        "label": "Niacin (Vitamin B3)",
+        "children": [
+          "Effect → most effective for ↑ HDL (~30%); ↓ triglycerides/VLDL (↓ hepatic secretion); mild ↓ LDL",
+          "AE → cutaneous flushing/warmth (prostaglandin-mediated — prevent with NSAIDs/aspirin); hyperglycemia; hyperuricemia (may precipitate gout); ↑ LFTs → hepatotoxicity (monitor)"
+        ]
+      },
+      {
+        "label": "Fish Oil (Omega-3 Fatty Acids)",
+        "children": [
+          "Effect → ↓ triglycerides (↓ VLDL and ApoB production)",
+          "Drug: Statins | LDL: ↓↓↓ 30–60% | HDL: ↑ mild | TG: ↓ mild | Key Note: Best CV mortality benefit; myopathy, ↑CK",
+          "Drug: Bile acid resins | LDL: ↓ | HDL: — | TG: ↑ | Key Note: GI upset, gallstones, ↓ fat-soluble vitamins",
+          "Drug: Ezetimibe | LDL: ↓ | HDL: — | TG: — | Key Note: No gallstones/↑TG; adjunct to statin",
+          "Drug: PCSK9i (evolocumab) | LDL: ↓↓ | HDL: — | TG: — | Key Note: Antibody; prevents LDL-receptor degradation",
+          "Drug: Fibrates | LDL: ↓ mild | HDL: ↑ mild | TG: ↓↓ 35–50% | Key Note: Gallstones; ↑ myopathy risk with statins",
+          "Drug: Niacin | LDL: ↓ mild | HDL: ↑↑↑ ~30% | TG: ↓ | Key Note: Flushing, hepatotoxic, hyperglycemia/uricemia",
+          "Drug: Fish oil | LDL: — | HDL: — | TG: ↓ | Key Note: —"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "23. Calcium Channel Blockers (General Pharmacology)",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Target → voltage-gated L-type Ca2+ channels",
+          "Dihydropyridines (\"-dipine\": nifedipine, amlodipine, nicardipine) → block L-type channels in smooth muscle → vasodilation",
+          "Non-dihydropyridines — verapamil (minimal vasodilation), diltiazem (some vasodilation) → block L-type channels in cardiac muscle → ↓ contractility, ↓ SA/AV node activity → bradycardia"
+        ]
+      },
+      {
+        "label": "Uses",
+        "children": [
+          "HTN → long-acting dihydropyridines; IV dihydropyridines (clevidipine, nicardipine) → hypertensive emergency; nifedipine → HTN in pregnancy/postpartum",
+          "Stable angina → dihydropyridines: coronary vasodilation → ↑ coronary blood flow, ↓ afterload → ↓ O2 demand; non-dihydropyridines: ↓ O2 demand via negative inotropy/chronotropy + ↓ BP",
+          "Prinzmetal angina (coronary vasospasm — rest/nocturnal episodes)",
+          "Raynaud's syndrome → nifedipine, amlodipine",
+          "Subarachnoid hemorrhage (berry aneurysm, associated with polycystic kidney disease) → nimodipine → prevents cerebral vasospasm",
+          "Migraine prophylaxis → verapamil",
+          "Non-dihydropyridines → also antiarrhythmic (AFib/flutter — see Class IV, Section VI)"
+        ]
+      },
+      {
+        "label": "Adverse Effects",
+        "children": [
+          "Dihydropyridines → lightheadedness, headache, flushing; peripheral edema (precapillary arteriolar dilation → ↑ capillary hydrostatic pressure); reflex tachycardia (esp. nifedipine — short-acting form can exacerbate ischemia; avoid in unstable angina/MI)",
+          "Verapamil → constipation, gingival hyperplasia",
+          "Verapamil/diltiazem → relatively contraindicated in heart block; + beta blocker → risk of excessive AV block",
+          "CCBs → can worsen heart failure (hypotension, reflex sympathetic activation)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "24. Antihypertensive Therapy",
+    "children": [
+      {
+        "label": "Primary (Essential) Hypertension",
+        "children": [
+          "Use 2 agents if BP is >20/10 mmHg above goal",
+          "First-line → thiazide diuretics (hydrochlorothiazide, chlorthalidone), long-acting CCBs, ACE inhibitors/ARBs",
+          "Black and elderly patients → respond well to CCBs or thiazides",
+          "ACE inhibitors → first-line for HTN with heart failure, MI, or diabetes"
+        ]
+      },
+      {
+        "label": "Hypertensive Emergency",
+        "children": [
+          "Definition → SBP >180 or DBP >120 + end-organ damage (blurry vision, lung crackles, headache)",
+          "Caution → many agents are potent vasodilators → reflex tachycardia, rebound hypotension, Na+/fluid retention (↑ renin)",
+          "Drug: Esmolol, Metoprolol (IV) | MOA: β1 antagonist | Key Notes: Acute BP control",
+          "Drug: Labetalol | MOA: α + β antagonist | Key Notes: Combined effect useful IV",
+          "Drug: Nicardipine, Clevidipine | MOA: Dihydropyridine CCB | Key Notes: Arteriolar dilation",
+          "Drug: Hydralazine | MOA: Direct arteriolar vasodilator | Key Notes: Safe in pregnancy; reflex tachycardia (pair with beta blocker); drug-induced lupus; + nitrate → mortality benefit in HF (LV systolic dysfunction)",
+          "Drug: Nitroprusside | MOA: NO-mediated arteriolar + venous dilation | Key Notes: Cyanide poisoning risk",
+          "Drug: Fenoldopam | MOA: Selective D1 agonist (↑ cAMP); no α/β effect | Key Notes: Coronary + renal vasodilation; natriuretic (↑ Na+/H2O excretion)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "25. Antiarrhythmics (Vaughan-Williams Classification)",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Myocyte AP: Phase 0 upstroke → Na+; Phase 2 plateau → Ca2+; Phase 3 repolarization → K+. Pacemaker cells (SA/AV node): Phase 4 → Na+ (\"funny current\") + other ions; upstroke → Ca2+; repolarization → K+.",
+          "Class: I | Target: Na+ channels | Main Effect: ↓ phase 0 slope → slows conduction | Example Drugs: Quinidine/procainamide/disopyramide (IA); lidocaine/mexiletine (IB); flecainide/propafenone (IC)",
+          "Class: II | Target: β receptors (↓ cAMP) | Main Effect: ↓ SA/AV pacemaker activity | Example Drugs: Metoprolol, esmolol",
+          "Class: III | Target: K+ channels | Main Effect: ↑ refractory period (↑ AP duration) | Example Drugs: Amiodarone, sotalol, dofetilide, ibutilide",
+          "Class: IV | Target: Ca2+ channels (non-DHP) | Main Effect: ↓ SA/AV conduction | Example Drugs: Verapamil, diltiazem"
+        ]
+      },
+      {
+        "label": "Class I — Na+ Channel Blockers",
+        "children": [
+          "Bind preferentially to open/inactivated channels → \"use-dependence\" (greater effect at higher HR)",
+          "Act only on Na+-dependent tissue (no effect at SA/AV nodes); widen QRS (more pronounced at higher HR)",
+          "Binding affinity: IC > IA > IB",
+          "Class: IA | Drugs: Quinidine, Procainamide, Disopyramide | Na+ Affinity / AP Effect: Intermediate affinity; ↑ AP duration (also blocks K+) → prolonged refractory period → QT prolongation → risk of torsades | Uses / Key Notes: SVT & VT, WPW syndrome. Quinidine → cinchonism, thrombocytopenia. Procainamide → lupus-like syndrome (↑ ANA). Disopyramide → ↓ contractility (worsens HF)",
+          "Class: IB | Drugs: Lidocaine, Mexiletine (phenytoin has some IB activity) | Na+ Affinity / AP Effect: Low affinity; ↓ AP duration → shortened refractory period (no torsades risk) | Uses / Key Notes: Ventricular arrhythmias, especially post-MI/ischemic tissue (preferential binding in depolarized tissue). AE: neuro effects (paresthesia, tremor, convulsions)",
+          "Class: IC | Drugs: Flecainide, Propafenone | Na+ Affinity / AP Effect: Strong affinity; no change in AP duration; marked QRS widening, prolongs AV nodal ERP | Uses / Key Notes: SVT (AFib/flutter) & VT — restore/maintain sinus rhythm. Contraindicated in structural/ischemic heart disease (proarrhythmic)"
+        ]
+      },
+      {
+        "label": "Class II — Beta Blockers",
+        "children": [
+          "MOA → block sympathetic input to SA/AV nodes → ↓ cAMP → ↓ Ca2+ channel opening → ↓ pacemaker AP upstroke; prolongs phase 4 → ↓ pacemaker activity, ↑ conduction time/refractory period; ↓ AV conduction",
+          "Uses → SVT (AFib with RVR — rate control only, does not restore sinus rhythm); IV esmolol for acute SVT",
+          "AE → heart block → prolonged PR interval"
+        ]
+      },
+      {
+        "label": "Class III — K+ Channel Blockers",
+        "children": [
+          "Drugs → Sotalol (also a beta blocker), Dofetilide, Ibutilide (\"-tilide\" suffix), Amiodarone (shares properties of Class I, II, III, and IV)",
+          "MOA → block K+ channels → prolong phase 2/3 → ↑ refractory period",
+          "Uses → SVT and VT; AFib/flutter — restore/maintain sinus rhythm",
+          "AE (class) → dose-related torsades (QT prolongation) — sotalol, dofetilide, ibutilide",
+          "Amiodarone-specific AE → neuro (tremor, ataxia, peripheral neuropathy, sleep disturbance); gray corneal deposits; thyroid dysfunction (hyper/hypo — check before & during use); pulmonary fibrosis (restrictive lung disease); can induce heart failure; hypersensitivity hepatitis (monitor LFTs); blue-gray skin discoloration; photodermatitis; CYP450 inhibitor"
+        ]
+      },
+      {
+        "label": "Class IV — Non-Dihydropyridine CCBs",
+        "children": [
+          "Verapamil, Diltiazem → block L-type Ca2+ channels at SA/AV node (greater effect on frequently-firing tissue) → prolong phase 4 → ↓ pacemaker activity, ↑ conduction time/refractory period, ↓ AV conduction",
+          "Uses → SVT (AFib/flutter with RVR — rate control)",
+          "AE → prolonged PR interval; heart block (caution combining with digoxin or other AV-nodal blocking drugs)"
+        ]
+      },
+      {
+        "label": "Other Antiarrhythmic Agents",
+        "children": [
+          "Digoxin → vagal stimulation → AV nodal inhibition → rate control in AFib/flutter (not first-line)",
+          "Magnesium → treats torsades de pointes",
+          "Hyperkalemia → peaked T waves, shortened QT (arrhythmogenic); Hypokalemia → U waves, muscle weakness, glucose abnormalities (arrhythmogenic)",
+          "Adenosine → activates inhibitory A1 receptors (SA/AV node, myocardium) → ↑ K+ efflux (hyperpolarization) + ↓ Ca2+ current → ↓ AV conduction, transient high-grade heart block (~10 sec)",
+          "Adenosine → first-line for acute PSVT; also causes coronary vasodilation (A2 receptors)",
+          "Adenosine AE → flushing, chest pain/dyspnea, sense of impending doom, hypotension, headache",
+          "Adenosine effect → blocked by methylxanthines (caffeine, theophylline)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "26. Antiepileptic Drugs (AEDs)",
+    "children": [
+      {
+        "label": "Broad-Spectrum AEDs — Valproate, Topiramate, Lamotrigine, Levetiracetam",
+        "children": [
+          "Uses → treat focal and generalized seizures, including juvenile myoclonic epilepsy",
+          "Many AEDs are metabolized by hepatic CYP450"
+        ]
+      },
+      {
+        "label": "Broad-Spectrum AEDs — Valproate, Topiramate, Lamotrigine, Levetiracetam › Valproate",
+        "children": [
+          "MOA → ↑ Na+ channel inactivation; ↑ GABA levels in CNS",
+          "AE → GI distress (nausea, vomiting); ↑ appetite/weight gain; tremor; fatal hepatotoxicity; pancreatitis",
+          "Teratogenic → neural tube defects (spina bifida)",
+          "Also effective for absence seizures"
+        ]
+      },
+      {
+        "label": "Broad-Spectrum AEDs — Valproate, Topiramate, Lamotrigine, Levetiracetam › Topiramate",
+        "children": [
+          "MOA → ↑ Na+ channel inactivation; allosteric GABA-A binding",
+          "AE → somnolence/fatigue; confusion/cognitive slowing; weight loss; acute angle-closure glaucoma; Stevens-Johnson syndrome (SJS/TEN); diplopia",
+          "Also used for migraine prophylaxis"
+        ]
+      },
+      {
+        "label": "Broad-Spectrum AEDs — Valproate, Topiramate, Lamotrigine, Levetiracetam › Lamotrigine",
+        "children": [
+          "MOA → ↑ Na+ channel inactivation",
+          "Also effective for absence seizures"
+        ]
+      },
+      {
+        "label": "Broad-Spectrum AEDs — Valproate, Topiramate, Lamotrigine, Levetiracetam › Levetiracetam",
+        "children": [
+          "AE → somnolence"
+        ]
+      },
+      {
+        "label": "Narrow-Spectrum AEDs — Carbamazepine, Phenytoin, Gabapentin, Vigabatrin, Tiagabine",
+        "children": [
+          "Uses → focal seizures (and generalized tonic-clonic)"
+        ]
+      },
+      {
+        "label": "Narrow-Spectrum AEDs — Carbamazepine, Phenytoin, Gabapentin, Vigabatrin, Tiagabine › Carbamazepine",
+        "children": [
+          "MOA → ↑ Na+ channel inactivation",
+          "Uses → 1st-line for trigeminal neuralgia",
+          "AE → ataxia, diplopia, SIADH, agranulocytosis, DRESS syndrome, SJS/TEN, drug-induced lupus",
+          "Induces CYP450",
+          "Teratogenic → neural tube defects"
+        ]
+      },
+      {
+        "label": "Narrow-Spectrum AEDs — Carbamazepine, Phenytoin, Gabapentin, Vigabatrin, Tiagabine › Phenytoin",
+        "children": [
+          "MOA → ↑ Na+ channel inactivation",
+          "AE → ataxia, diplopia, folate deficiency → megaloblastic anemia, gingival hyperplasia, hirsutism, drug-induced lupus, DRESS, SJS/TEN, ↓ bone density",
+          "Teratogenic → cleft palate",
+          "Induces CYP450",
+          "Used for maintenance therapy after acute status epilepticus treatment"
+        ]
+      },
+      {
+        "label": "Narrow-Spectrum AEDs — Carbamazepine, Phenytoin, Gabapentin, Vigabatrin, Tiagabine › Gabapentin",
+        "children": [
+          "MOA → blocks voltage-gated Ca2+ channels",
+          "Uses → chronic/neuropathic pain, diabetic neuropathy, fibromyalgia, post-herpetic neuralgia (VZV reactivation)",
+          "AE → ataxia"
+        ]
+      },
+      {
+        "label": "Narrow-Spectrum AEDs — Carbamazepine, Phenytoin, Gabapentin, Vigabatrin, Tiagabine › Vigabatrin & Tiagabine",
+        "children": [
+          "Vigabatrin → irreversibly inhibits GABA transaminase (↓ GABA degradation)",
+          "Tiagabine → inhibits GABA reuptake"
+        ]
+      },
+      {
+        "label": "Status Epilepticus",
+        "children": [
+          "Acute → IV benzodiazepines (diazepam, lorazepam); maintenance → phenytoin",
+          "Refractory seizures → IV phenobarbital"
+        ]
+      },
+      {
+        "label": "Absence Seizures",
+        "children": [
+          "Presentation → sudden momentary lapse in awareness (staring, blinking, tonic jerks); 3 Hz spike-wave complexes on EEG",
+          "Treatment → ethosuximide (blocks T-type Ca2+ channels in thalamus); also valproate, lamotrigine",
+          "Ethosuximide AE → GI distress, lethargy/fatigue",
+          "Drug: Valproate | MOA: ↑Na+ inactivation, ↑GABA | Distinctive AE / Notes: Hepatotoxicity, pancreatitis, neural tube defects",
+          "Drug: Topiramate | MOA: ↑Na+ inactivation, GABA-A binding | Distinctive AE / Notes: Weight loss, glaucoma, SJS",
+          "Drug: Lamotrigine | MOA: ↑Na+ inactivation | Distinctive AE / Notes: Also treats absence seizures",
+          "Drug: Levetiracetam | MOA: — | Distinctive AE / Notes: Somnolence",
+          "Drug: Carbamazepine | MOA: ↑Na+ inactivation | Distinctive AE / Notes: Agranulocytosis, SIADH; CYP450 inducer; 1st-line trigeminal neuralgia",
+          "Drug: Phenytoin | MOA: ↑Na+ inactivation | Distinctive AE / Notes: Gingival hyperplasia, megaloblastic anemia; CYP450 inducer",
+          "Drug: Gabapentin | MOA: ↓ Ca2+ channels | Distinctive AE / Notes: Neuropathic pain, fibromyalgia, PHN",
+          "Drug: Ethosuximide | MOA: Blocks T-type Ca2+ (thalamus) | Distinctive AE / Notes: Absence seizures only"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "27. GABAergic Sedative-Hypnotics",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "GABA-A receptor = Cl– channel. GABA (+ glycine) = major inhibitory CNS neurotransmitter. Barbiturates, benzodiazepines, and alcohol each bind separate allosteric sites on GABA-A."
+        ]
+      },
+      {
+        "label": "Barbiturates",
+        "children": [
+          "MOA → ↑ duration of GABA-A channel opening",
+          "Thiopental → IV induction of anesthesia; rapid onset/short duration (highly lipid-soluble); rapid redistribution to skeletal muscle/adipose → quick recovery",
+          "Phenobarbital (IV) → treats seizures, including refractory status epilepticus",
+          "Primidone → treats essential tremor (1st-line with propranolol)",
+          "AE → hypotension; cardiac/respiratory depression; severe CNS depression (coma) — avoid in elderly (long half-life, up to 100 hrs)",
+          "Chronic use → tolerance, physical dependence",
+          "Potent CYP450 inducers"
+        ]
+      },
+      {
+        "label": "Benzodiazepines",
+        "children": [
+          "Suffix → \"-pam\" (diazepam, lorazepam, oxazepam); short-acting \"-olam\" (triazolam, alprazolam, midazolam)",
+          "MOA → ↑ frequency of GABA-A channel opening",
+          "Metabolized by liver; long-acting agents form active metabolites",
+          "Uses → alcohol withdrawal (long-acting: diazepam, chlordiazepoxide); status epilepticus; general anesthesia (muscle relaxation, amnesia); conscious sedation",
+          "Uses → insomnia (not 1st-line — dependence risk); parasomnias in children; spasticity (UMN disorders: MS, stroke, spinal cord trauma, tetanus); GAD & panic disorder (SSRIs/SNRIs 1st-line)",
+          "AE → tolerance (GABA-A downregulation); anterograde amnesia; elderly → ↑ sensitivity (somnolence, confusion, disorientation, central ataxia → falls)",
+          "Avoid with other CNS depressants (1st-gen antihistamines, alcohol, barbiturates, neuroleptics)",
+          "Addiction potential → more common with short-acting agents",
+          "Flumazenil (competitive BZD antagonist) → reverses benzo sedation (can precipitate seizures)"
+        ]
+      },
+      {
+        "label": "Benzodiazepines › Alcohol Withdrawal Timeline",
+        "children": [
+          "8–12 hours → insomnia, tremulousness, anxiety, autonomic instability",
+          "48–96 hours → delirium tremens (fever, disorientation, severe agitation)"
+        ]
+      },
+      {
+        "label": "Nonbenzodiazepine Hypnotics (\"Z-drugs\") — Zolpidem, Zaleplon, Eszopiclone",
+        "children": [
+          "MOA → bind same allosteric site as benzodiazepines on GABA-A",
+          "Zaleplon/zolpidem → rapid onset, short duration, rapidly hepatically metabolized → sleep-onset insomnia",
+          "Eszopiclone → longest half-life → treats sleep-onset AND sleep-maintenance insomnia",
+          "AE → elderly ↑ sensitivity (cognitive impairment, delirium), central ataxia → falls; avoid with other CNS depressants",
+          "Less likely to cause tolerance, withdrawal, or dependence (vs. benzodiazepines)",
+          "Also reversed by flumazenil"
+        ]
+      },
+      {
+        "label": "Melatonin Receptor Agonists — Melatonin, Ramelteon",
+        "children": [
+          "MT1/MT2 receptors (suprachiasmatic nucleus, hypothalamus) → maintain circadian rhythm",
+          "Ramelteon → MT1/MT2 agonist → treats insomnia; few side effects, safe in geriatric patients",
+          "Class: Barbiturates | Binding Site: Separate allosteric site | Effect on Cl– Channel: ↑ duration of opening | Distinguishing Feature: Long half-life, resp/cardiac depression, CYP450 inducer",
+          "Class: Benzodiazepines | Binding Site: Separate allosteric site | Effect on Cl– Channel: ↑ frequency of opening | Distinguishing Feature: Alcohol withdrawal, seizures, anterograde amnesia; reversed by flumazenil",
+          "Class: Z-drugs | Binding Site: Same site as benzodiazepines | Effect on Cl– Channel: (as benzo, shorter-acting) | Distinguishing Feature: Less tolerance/dependence; insomnia only",
+          "Class: Alcohol | Binding Site: Separate allosteric site | Effect on Cl– Channel: — | Distinguishing Feature: —"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "28. Migraine Therapy",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Pathophysiology → trigeminal nerve afferents in meninges activated → release CGRP, substance P, neurokinin A → meningeal vasodilation + protein extravasation",
+          "Triptans (sumatriptan) → 5-HT1B/5-HT1D agonists (meningeal vessels, trigeminal nerve, brainstem)",
+          "Triptan effects → vasoconstriction of cerebral/meningeal vessels; ↓ vasoactive peptide release from trigeminal nerve; inhibit brainstem pain pathways",
+          "Triptan uses → acute migraine treatment; acute cluster headache (with inhaled O2)",
+          "Triptan AE → coronary vasospasm — contraindicated in angina; known trigger of Prinzmetal angina",
+          "NSAIDs → acute migraine treatment",
+          "Prophylaxis → CCBs, beta blockers, valproic acid, topiramate, TCAs (amitriptyline)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "29. Parkinsonism Therapy",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Levodopa (L-DOPA) → crosses BBB → converted to dopamine by DOPA decarboxylase (CNS AND periphery)",
+          "AE (peripheral conversion) → GI distress, cardiac arrhythmias, orthostatic hypotension",
+          "AE (CNS) → neuropsychiatric symptoms (anxiety, agitation, insomnia, confusion, hallucinations)",
+          "Chronic levodopa → wearing-off reaction (symptoms return at end of dose); on-off phenomenon (unpredictable, dose-independent); dyskinesias (choreoathetosis of face/distal extremities); therapeutic window narrows as disease progresses",
+          "Levodopa contraindicated in psychotic patients",
+          "Carbidopa → peripheral DOPA decarboxylase inhibitor → ↑ levodopa bioavailability, ↓ peripheral AE — but worsens neuropsychiatric AE",
+          "COMT inhibitors → block levodopa→3-OMD (periphery) and dopamine→3-MT (CNS) conversion → ↑ levodopa bioavailability / ↑ CNS dopamine",
+          "Entacapone → peripheral only. Tolcapone → peripheral AND central; AE → hepatic failure",
+          "Selegiline (selective MAO-B inhibitor) → ↑ CNS dopamine",
+          "Dopamine agonists → Ropinirole (D2), Pramipexole (D3) → initial Parkinson's treatment; also treat restless leg syndrome; AE → impulse control disorders (gambling, shopping, hypersexuality)",
+          "Amantadine → ↑ endogenous dopamine synthesis/release, ↓ reuptake → treats some motor symptoms",
+          "Trihexyphenidyl & Benztropine (antimuscarinics) → improve tremor and rigidity (no effect on bradykinesia)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "30. Anesthetics",
+    "children": [
+      {
+        "label": "Inhaled Anesthetics",
+        "children": [
+          "N2O → gaseous; volatile agents (enflurane, isoflurane, halothane) → liquid at room temp, fluorinated",
+          "Low solubility (↓ blood:gas coefficient, e.g., N2O) → steep arterial tension curve → fast onset, fast recovery",
+          "High solubility (↑ blood:gas coefficient, e.g., halothane) → less steep curve → slow onset, longer duration",
+          "MAC (minimum alveolar concentration) → dose causing 50% of patients unresponsive to painful stimuli; 1/MAC = potency",
+          "AE → respiratory depression (↓ minute ventilation, hypercapnia); fluorinated agents → ↑ cerebral blood flow (↓ cerebrovascular resistance)",
+          "Halothane → hepatotoxic (massive hepatic necrosis)",
+          "Enflurane → nephrotoxic; can induce seizures"
+        ]
+      },
+      {
+        "label": "Malignant Hyperthermia",
+        "children": [
+          "Skeletal muscle hypersensitivity to volatile anesthetics (also triggered by succinylcholine)",
+          "MOA → defective ryanodine receptor (RyR) in SR → excess Ca2+ release → excessive ATP-dependent reuptake → heat production → muscle damage (rhabdomyolysis)",
+          "Treatment → dantrolene (blocks ryanodine receptors)"
+        ]
+      },
+      {
+        "label": "IV Anesthetics",
+        "children": [
+          "Benzodiazepines → conscious sedation for minor procedures (e.g., colonoscopy)",
+          "Drug: Propofol | MOA: ↑ GABA-A Cl– current | Key Feature: Induction + maintenance; vasodilation → hypotension",
+          "Drug: Etomidate | MOA: ↑ GABA-A Cl– current | Key Feature: Induction only; preserves cardiovascular stability",
+          "Drug: Ketamine | MOA: NMDA receptor antagonist | Key Feature: \"Dissociative anesthesia\"; ↑ BP/HR/CO; emergence reactions (vivid dreams, hallucinations)",
+          "Drug: Thiopental | MOA: Barbiturate (GABA-A) | Key Feature: Rapid onset/short duration (redistribution to muscle/fat); induction"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "31. Opioids",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "μ-opioid receptor → mediates most clinical/adverse effects (analgesia, sedation, constipation, respiratory depression)",
+          "MOA → opens K+ channels, closes voltage-gated Ca2+ channels → ↓ presynaptic NT release (glutamate, ACh, NE, serotonin, substance P)",
+          "AE → CNS depression (sedation); respiratory depression; miosis; constipation; biliary colic (contracts biliary smooth muscle)",
+          "Tolerance develops to most effects — NOT to miosis or constipation",
+          "Chronic use → opioid-induced hyperalgesia",
+          "Withdrawal → rhinorrhea, lacrimation, yawning, hyperventilation, hyperthermia, muscle aches, vomiting, diarrhea, anxiety",
+          "Neonatal abstinence syndrome → diarrhea, sweating, sneezing, crying, tachypnea, irritability",
+          "Agent(s): Morphine, Fentanyl | Role: Full μ-agonists | Notes: Analgesia",
+          "Agent(s): Tramadol | Role: Weak μ-agonist | Notes: Also inhibits NE/serotonin reuptake; chronic pain",
+          "Agent(s): Loperamide, Diphenoxylate | Role: Antidiarrheal | Notes: Loperamide → ↑ colonic segmentation → ↓ stool transit",
+          "Agent(s): Codeine, Dextromethorphan | Role: Antitussive | Notes: Dextromethorphan → also NMDA antagonist",
+          "Agent(s): Methadone, Buprenorphine | Role: Long-acting (detox) | Notes: Attenuate withdrawal; buprenorphine = partial μ-agonist",
+          "Agent(s): Naloxone | Role: μ-antagonist | Notes: Reverses acute opioid toxicity; can precipitate withdrawal",
+          "Agent(s): Naltrexone | Role: μ-antagonist | Notes: Maintains abstinence (heroin); ↓ alcohol/nicotine cravings; aids weight loss"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "32. Antidepressants",
+    "children": [
+      {
+        "label": "SSRIs — Fluoxetine, Paroxetine, Sertraline, Citalopram",
+        "children": [
+          "MOA → inhibit presynaptic reuptake of serotonin (5-HT)",
+          "Uses → 1st-line for depression, GAD, panic disorder, PTSD; also OCD, bulimia, social anxiety disorder",
+          "Onset → 1–2 months to max effect (not for acute treatment)",
+          "AE → hyponatremia (SIADH); sexual dysfunction; weight gain; drowsiness; serotonin syndrome",
+          "Withdrawal → flu-like symptoms"
+        ]
+      },
+      {
+        "label": "SNRIs — Venlafaxine, Duloxetine",
+        "children": [
+          "MOA → inhibit presynaptic reuptake of norepinephrine AND serotonin",
+          "Uses → same as SSRIs (1st-line depression, GAD, panic disorder, PTSD) plus diabetic neuropathy, chronic/neuropathic pain, fibromyalgia",
+          "Onset → 1–2 months",
+          "AE → hypertension; serotonin syndrome; flu-like withdrawal"
+        ]
+      },
+      {
+        "label": "TCAs — Imipramine, Desipramine, Clomipramine, Amitriptyline, Nortriptyline",
+        "children": [
+          "MOA → inhibit presynaptic reuptake of serotonin and norepinephrine",
+          "Uses → treatment-resistant depression (limited use — lethal in overdose); diabetic/neuropathic pain; migraine prophylaxis; clomipramine → OCD (SSRIs still 1st-line)",
+          "Secondary amines (nortriptyline, desipramine) → less cholinergic effect",
+          "AE (anticholinergic) → dry mouth, constipation, blurred vision, urinary retention",
+          "AE (antihistamine/α1) → sedation, ↑ appetite/weight gain (H1 block); orthostatic hypotension (α1 block)",
+          "Relatively contraindicated in elderly (anticholinergic + antihistamine effects)",
+          "AE (cardiac) → blocks fast Na+ channels → widened QRS, can induce torsades",
+          "AE → seizures; sexual dysfunction; serotonin syndrome",
+          "Overdose treatment → sodium bicarbonate (widened QRS, ventricular arrhythmia)"
+        ]
+      },
+      {
+        "label": "MAOIs — Tranylcypromine, Phenelzine, Isocarboxazid; Selegiline (MAO-B selective)",
+        "children": [
+          "MAO-A → breaks down serotonin, norepinephrine, dopamine",
+          "MOA → irreversible MAO inhibition",
+          "Uses → atypical depression; historically used, now last resort/treatment-resistant depression",
+          "Selegiline (selective MAO-B inhibitor) → ↑ CNS dopamine → used in Parkinson's disease",
+          "Dietary interaction → avoid tyramine-containing foods (normally broken down by MAO-A in gut) → excess tyramine acts as sympathomimetic → hypertensive crisis (HTN, blurry vision, diaphoresis)",
+          "Treatment of hypertensive crisis → phentolamine (α1/α2 blocker)",
+          "AE → serotonin syndrome — avoid combining with other serotonergic drugs (TCAs, SSRIs, SNRIs)"
+        ]
+      },
+      {
+        "label": "Atypical Antidepressants › Bupropion",
+        "children": [
+          "MOA → inhibits NET and DAT (norepinephrine + dopamine reuptake inhibitor)",
+          "CNS-activating; treats tobacco dependence",
+          "AE → seizures → contraindicated in bulimia and anorexia nervosa",
+          "Does NOT cause sexual dysfunction; less likely to cause weight gain"
+        ]
+      },
+      {
+        "label": "Atypical Antidepressants › Mirtazapine",
+        "children": [
+          "MOA → blocks α2 receptors → ↑ presynaptic release of serotonin/NE; also blocks 5-HT2, 5-HT3, H1",
+          "Can be used as 1st-line (atypical antidepressant)",
+          "AE → sedation, weight gain; does NOT cause sexual dysfunction"
+        ]
+      },
+      {
+        "label": "Atypical Antidepressants › Trazodone",
+        "children": [
+          "MOA → serotonin modulator — antagonizes 5-HT2 receptors + inhibits 5-HT reuptake; also blocks α1, H1",
+          "AE → priapism; orthostatic hypotension; sedation; sexual dysfunction; serotonin syndrome"
+        ]
+      },
+      {
+        "label": "Serotonin Syndrome",
+        "children": [
+          "Presentation → hyperthermia, hypertension, neuromuscular hyperactivity (hyperreflexia, clonus)",
+          "Precipitated by → combining serotonergic drugs (SSRIs/SNRIs + TCAs or MAOIs)",
+          "Treatment → cyproheptadine (5-HT2 blocker)",
+          "Class: SSRIs | MOA: ↓ serotonin reuptake | Key Uses: 1st-line: depression, GAD, panic, PTSD; also OCD, bulimia, social anxiety | Key AE: Hyponatremia, sexual dysfunction, weight gain, serotonin syndrome",
+          "Class: SNRIs | MOA: ↓ NE + serotonin reuptake | Key Uses: Same as SSRIs + diabetic neuropathy, chronic pain, fibromyalgia | Key AE: HTN, serotonin syndrome",
+          "Class: TCAs | MOA: ↓ NE + serotonin reuptake | Key Uses: Treatment-resistant depression; neuropathic pain; migraine prophylaxis; clomipramine → OCD | Key AE: Anticholinergic; cardiotoxic (↑QRS → torsades); lethal in overdose",
+          "Class: MAOIs | MOA: Irreversible MAO inhibition | Key Uses: Atypical depression; last-resort; selegiline → Parkinson's | Key AE: Tyramine-induced HTN crisis; serotonin syndrome",
+          "Class: Bupropion | MOA: ↓ NE + dopamine reuptake | Key Uses: Atypical 1st-line; tobacco dependence; no sexual dysfunction | Key AE: Seizures (avoid in bulimia/anorexia)",
+          "Class: Mirtazapine | MOA: α2 antagonist; blocks 5-HT2/3, H1 | Key Uses: Atypical 1st-line | Key AE: Sedation, weight gain",
+          "Class: Trazodone | MOA: 5-HT2 antagonist + reuptake inhibition | Key Uses: — | Key AE: Priapism, orthostatic hypotension, sedation, serotonin syndrome"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "33. Mood Stabilizers",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Lithium → treats bipolar disorder (acute mania AND maintenance); narrow therapeutic index",
+          "Lithium acute toxicity → GI symptoms (nausea, vomiting, diarrhea)",
+          "Lithium chronic toxicity → neurologic symptoms (tremor, ataxia)",
+          "Lithium AE → hypothyroidism (weight gain, dry skin, hair loss, constipation); nephrogenic diabetes insipidus",
+          "Lithium levels ↑ with thiazide diuretics and NSAIDs (↓ GFR → ↓ clearance)",
+          "Lithium is teratogenic → Ebstein's anomaly (atrialization of right ventricle, associated with ASD and malformed tricuspid valve)",
+          "Valproate → bipolar disorder (acute mania AND maintenance)",
+          "Carbamazepine → bipolar disorder (acute mania AND maintenance)",
+          "Lamotrigine → bipolar disorder (maintenance only)",
+          "Antipsychotics (1st-gen e.g. haloperidol; 2nd-gen e.g. quetiapine) → treat acute mania"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "34. Antipsychotics",
+    "children": [
+      {
+        "label": "First-Generation (Typical) Antipsychotics — FGAs",
+        "children": [
+          "Suffix → \"-azine\" (trifluoperazine, fluphenazine, chlorpromazine, thioridazine)",
+          "High potency → haloperidol, trifluoperazine, fluphenazine. Low potency → thioridazine, chlorpromazine",
+          "MOA → block D2 receptors in CNS",
+          "Uses → positive symptoms of schizophrenia; acute psychosis (e.g., bipolar); acute agitation/aggression; Tourette syndrome",
+          "Highly lipophilic → long half-life",
+          "AE (low potency > high potency) → anticholinergic (dry mouth, constipation, blurred vision, urinary retention); orthostatic hypotension (α1 block); sedation (H1 block)",
+          "AE (high potency > low potency) → EPS, tardive dyskinesia, hyperprolactinemia (galactorrhea, amenorrhea, impotence), neuroleptic malignant syndrome (NMS)",
+          "Other AE → torsades de pointes; ↓ seizure threshold; chlorpromazine → corneal deposits; thioridazine → retinal deposits",
+          "NMS → \"lead-pipe\" rigidity, altered mental status, fever, autonomic instability, rhabdomyolysis"
+        ]
+      },
+      {
+        "label": "Second-Generation (Atypical) Antipsychotics — SGAs",
+        "children": [
+          "Drugs → quetiapine, olanzapine, risperidone, aripiprazole, ziprasidone, clozapine",
+          "MOA → block D2 + 5-HT2A receptors",
+          "Uses → schizophrenia (positive AND negative symptoms); treatment-resistant depression (adjunct); OCD (risperidone, adjunct with SSRIs); Tourette syndrome (risperidone)",
+          "AE → sedation (H1 block), orthostatic hypotension (α1 block); lower muscarinic affinity than FGAs (fewer anticholinergic effects), though notable with clozapine",
+          "Metabolic AE (esp. olanzapine, clozapine) → weight gain, hyperglycemia, dyslipidemia",
+          "Clozapine → agranulocytosis; myocarditis/cardiomyopathy; ↓ seizure threshold",
+          "EPS, hyperprolactinemia, NMS → FGA > SGA; risperidone → highest EPS risk among SGAs",
+          "Can also cause torsades de pointes",
+          "Onset: Minutes | Extrapyramidal Symptom (EPS): Acute dystonia",
+          "Onset: Days | Extrapyramidal Symptom (EPS): Akathisia",
+          "Onset: Weeks | Extrapyramidal Symptom (EPS): Drug-induced Parkinsonism"
+        ]
+      },
+      {
+        "label": "FGA vs SGA — Quick Comparison",
+        "children": [
+          "Feature: Receptor blockade | FGA: D2 (+ M, H1, α1 — low potency agents) | SGA: D2 + 5-HT2A",
+          "Feature: Target symptoms | FGA: Positive only | SGA: Positive + negative",
+          "Feature: EPS / tardive dyskinesia | FGA: High potency agents (haloperidol etc.) | SGA: Lower risk (risperidone highest of SGAs)",
+          "Feature: Hyperprolactinemia | FGA: High potency agents | SGA: Less common",
+          "Feature: NMS risk | FGA: Higher | SGA: Lower",
+          "Feature: Metabolic effects | FGA: Less prominent | SGA: Olanzapine, clozapine → weight gain, hyperglycemia, dyslipidemia",
+          "Feature: Notable unique AE | FGA: Chlorpromazine → corneal deposits; thioridazine → retinal deposits | SGA: Clozapine → agranulocytosis, myocarditis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "35. Diabetes & Antidiabetic Pharmacology",
+    "children": [
+      {
+        "label": "Insulin Physiology & Secretion",
+        "children": [
+          "Insulin = primary anabolic/storage hormone; made by beta cells in the islets of Langerhans",
+          "Glucose = most potent stimulus for insulin release (also sympathetic β2 activation)",
+          "MOA: Glucose ↑ATP in beta cell → ATP-dependent K+ channels close → depolarization → voltage-gated Ca2+ channels open → Ca2+ influx → insulin secretion",
+          "C-peptide is co-released with endogenous insulin (cleaved from proinsulin) → marker of endogenous insulin production",
+          "Insulin receptor = intracellular tyrosine kinase → phosphorylation cascade → inserts GLUT4 into cell membrane (muscle & adipose)"
+        ]
+      },
+      {
+        "label": "Insulin Physiology & Secretion › Actions of Insulin",
+        "children": [
+          "Liver: ↑ glycogenesis, ↓ glycogenolysis",
+          "Muscle: ↑ glycogen storage, ↑ protein synthesis",
+          "Adipose: ↑ triglyceride storage",
+          "↓ Serum K+ (↑ Na+/K+ ATPase in skeletal muscle drives K+ into cells)"
+        ]
+      },
+      {
+        "label": "Insulin Physiology & Secretion › Insulin Preparations",
+        "children": [
+          "Class: Rapid-acting | Agents: Lispro, Aspart, Glulisine | Onset / Duration: Rapid onset, short duration | Key Points: Do not form hexamers → fast absorption; controls postprandial spike",
+          "Class: Short / Intermediate | Agents: Regular, NPH | Onset / Duration: Delayed onset, intermediate duration (NPH more delayed) | Key Points: Form dimers/hexamers (slow breakdown); Regular = only insulin given IV",
+          "Class: Long-acting | Agents: Detemir, Glargine | Onset / Duration: Long duration — steady basal level | Key Points: Glargine has no peak"
+        ]
+      },
+      {
+        "label": "Insulin Physiology & Secretion › Clinical Pearls",
+        "children": [
+          "DKA (vomiting, fatigue, polyuria) → treat with IV regular insulin (watch K+)",
+          "Hyperkalemia → treat with IV regular insulin + glucose",
+          "Insulin-induced hypoglycemia: tachycardia, palpitations, sweating, nausea → treat with glucagon"
+        ]
+      },
+      {
+        "label": "Oral / Injectable Agents — Type 2 Diabetes",
+        "children": [
+          "Secretagogues below require functional beta cells for endogenous insulin release."
+        ]
+      },
+      {
+        "label": "Oral / Injectable Agents — Type 2 Diabetes › Sulfonylureas & Meglitinides",
+        "children": [
+          "MOA: bind/close ATP-dependent K+ channels on beta cells → depolarization → Ca2+ influx → endogenous insulin release (↑ C-peptide)",
+          "1st-gen (\"-amide\": tolbutamide, chlorpropamide): long duration, rarely used; chlorpropamide → disulfiram-like reaction with alcohol",
+          "2nd-gen (\"-ride\": glyburide, glimepiride): smaller doses, long duration; glipizide = shortest duration → lowest hypoglycemia risk",
+          "Meglitinides (\"-glinide\": repaglinide, nateglinide): same MOA, not sulfa drugs → safe with sulfa allergy",
+          "AE: hypoglycemia, weight gain"
+        ]
+      },
+      {
+        "label": "Oral / Injectable Agents — Type 2 Diabetes › GLP-1 Agonists & DPP-4 Inhibitors",
+        "children": [
+          "GLP-1 agonists (\"-tide\": exenatide, liraglutide): directly activate GLP-1 receptor",
+          "DPP-4 inhibitors (\"-gliptin\": sitagliptin, saxagliptin, linagliptin): block GLP-1 breakdown → ↑ endogenous GLP-1",
+          "Effects: ↑ insulin release & satiety; ↓ glucagon release & gastric emptying",
+          "Do NOT cause hypoglycemia; ↑ endogenous insulin & C-peptide levels",
+          "AE: DPP-4i → ↑ URI / nasopharyngitis; GLP-1 agonists (exenatide) → pancreatitis (seek immediate care)"
+        ]
+      },
+      {
+        "label": "Oral / Injectable Agents — Type 2 Diabetes › Biguanides — Metformin (1st-line agent)",
+        "children": [
+          "MOA: inhibits mitochondrial glycerophosphate dehydrogenase + activates AMPK → ↓ hepatic gluconeogenesis, ↑ insulin sensitivity",
+          "AE: GI upset (most common — nausea, anorexia, vomiting, diarrhea); lactic acidosis (risk ↑ with renal insufficiency); modest weight loss"
+        ]
+      },
+      {
+        "label": "Oral / Injectable Agents — Type 2 Diabetes › Thiazolidinediones (\"Glitazones\") — rosiglitazone, pioglitazone",
+        "children": [
+          "MOA: PPAR-γ ligand (muscle/fat/liver) → ↑ gene transcription → ↑ insulin sensitivity; ↑ adiponectin; ↑ GLUT4 in periphery",
+          "↑ adipocyte number/differentiation; ↑ TG storage & fatty acid oxidation → ↓ serum triglycerides",
+          "Onset: days to weeks",
+          "AE: weight gain; fluid retention/edema → can precipitate CHF; ↑ risk of atypical extremity fractures in women (↓ bone density)"
+        ]
+      },
+      {
+        "label": "Oral / Injectable Agents — Type 2 Diabetes › Other Agents",
+        "children": [
+          "Amylin analog (pramlintide): ↓ glucagon, ↓ gastric emptying, ↓ appetite; controls postprandial spike; used in T1DM & T2DM; AE: hypoglycemia, GI upset",
+          "Alpha-glucosidase inhibitors (acarbose, miglitol): inhibit brush-border alpha-glucosidase → delayed carb absorption; controls postprandial spike; AE: diarrhea, flatulence, abdominal pain (colonic fermentation)",
+          "SGLT2 inhibitors (\"-flozin\": canagliflozin, dapagliflozin — 2nd/3rd-line): inhibit SGLT2 in proximal convoluted tubule → glucosuria; AE: ↑ UTI, ↑ vaginal candidiasis, hypotension (osmotic diuresis); contraindicated in renal insufficiency"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "36. Gastrointestinal Pharmacology",
+    "children": [
+      {
+        "label": "Antiemetics › Vomiting Pathway",
+        "children": [
+          "Nucleus tractus solitarius (NTS) = vomiting center (medulla); integrates GI, vestibular & area postrema input",
+          "GI tract → vagal afferents (CN X) → NTS; GI irritation (infection, chemo, distension) → mucosal serotonin release → activates 5-HT3 receptors on vagal afferents",
+          "Vestibular system → CN VIII (vestibulocochlear nerve) → NTS → mediates motion sickness / vertigo",
+          "Area postrema (chemoreceptor trigger zone): outside the BBB, in the 4th ventricle; responds to emetogens (e.g. chemo agents); contains D2 and NK1 receptors"
+        ]
+      },
+      {
+        "label": "Antiemetics › Antiemetic Drugs",
+        "children": [
+          "Drug(s): Ondansetron | MOA / Target: 5-HT3 antagonist (vagal afferents) | Main Use: Chemo-induced & post-op vomiting | Key Adverse Effects: Constipation, headache/dizziness, QT prolongation → torsades, serotonin syndrome",
+          "Drug(s): Diphenhydramine, meclizine (1st-gen H1 blockers) | MOA / Target: H1 antagonist (vestibular, Gq) | Main Use: Vestibular nausea / motion sickness | Key Adverse Effects: —",
+          "Drug(s): Scopolamine | MOA / Target: M1 muscarinic antagonist (vestibular) | Main Use: Vestibular nausea / motion sickness | Key Adverse Effects: —",
+          "Drug(s): Metoclopramide | MOA / Target: D2 antagonist (area postrema) + upper-GI prokinetic | Main Use: Chemo-induced vomiting; diabetic gastroparesis; postsurgical delayed emptying | Key Adverse Effects: Diarrhea, drowsiness (elderly), depression, EPS, tardive dyskinesia, NMS, ↑prolactin, QT prolongation; CI: bowel obstruction",
+          "Drug(s): NK1 antagonists (e.g. aprepitant) | MOA / Target: Block NK1 receptor (area postrema; blocks substance P) | Main Use: Chemo-induced vomiting | Key Adverse Effects: —",
+          "Metoclopramide prokinetic effects: ↑ esophageal peristalsis, ↓ LES pressure, ↑ gastric emptying"
+        ]
+      },
+      {
+        "label": "Gastric Acid Secretion & Suppression",
+        "children": [
+          "Parietal cells secrete acid via luminal H+/K+ ATPase (proton pump) — exchanges 1 K+ for 1 H+",
+          "Histamine (from ECL cells) → H2 receptor (Gs → ↑cAMP) → ↑ H+/K+ ATPase → main driver of acid secretion",
+          "Gastrin (from G cells): major effect = stimulates ECL cells to release histamine; minor direct parietal cell effect",
+          "Vagal stimulation: directly stimulates parietal cell (M3) AND stimulates G cells to release gastrin (via GRP)"
+        ]
+      },
+      {
+        "label": "Gastric Acid Secretion & Suppression › H2 Blockers — \"-tidine\" (ranitidine, cimetidine, famotidine, nizatidine)",
+        "children": [
+          "MOA: block H2 receptors → ↓ histamine-driven acid secretion",
+          "Use: GERD & duodenal ulcers (PPIs are 1st-line); best for nocturnal acid suppression; only modest effect on meal-stimulated acid (vagal pathway persists)",
+          "Cimetidine: inhibits CYP450; antiandrogenic → gynecomastia, impotence, ↑ prolactin"
+        ]
+      },
+      {
+        "label": "Gastric Acid Secretion & Suppression › PPIs — \"-prazole\" (omeprazole, lansoprazole, rabeprazole)",
+        "children": [
+          "MOA: irreversibly inhibit H+/K+ ATPase (final common pathway)",
+          "Use: GERD/ulcers (1st-line, faster relief); Zollinger-Ellison syndrome (gastrinoma); H. pylori (+ clarithromycin & amoxicillin/metronidazole)",
+          "AE: ↑ C. diff risk, ↑ respiratory infections, ↓ Ca2+/Mg2+/Fe2+ absorption → ↑ osteoporotic fracture risk, hypomagnesemia"
+        ]
+      },
+      {
+        "label": "Gastric Acid Secretion & Suppression › Somatostatin / Octreotide",
+        "children": [
+          "MOA: inhibits histamine release (ECL cells) & gastrin release (G cells)",
+          "Octreotide (long-acting analog): treats gastrinoma / Zollinger-Ellison syndrome"
+        ]
+      },
+      {
+        "label": "Laxatives & Antidiarrheals",
+        "children": [
+          "Type: Osmotic | Agents: Mg hydroxide/citrate, lactulose, PEG | MOA: Non-absorbable → draws water into lumen → distension → peristalsis",
+          "Type: Bulk-forming | Agents: Psyllium | MOA: Hydrophilic colloid absorbs water → distension → peristalsis",
+          "Type: Stool softener | Agents: Docusate | MOA: Surfactant → water/lipid penetration into stool",
+          "Type: Stimulant | Agents: Senna | MOA: Stimulates enteric nervous system & colonic secretion",
+          "Lactulose also treats hepatic encephalopathy: gut bacteria metabolize it → acidic metabolites → traps NH3 as NH4+ → excreted",
+          "Hepatic encephalopathy (cirrhosis, ↑ammonia) → asterixis (flapping tremor)",
+          "Rifaximin (poorly absorbed antibiotic): eradicates ammonia-producing gut flora → treats hepatic encephalopathy",
+          "Chronic senna use → melanosis coli",
+          "AE (laxatives, general): diarrhea, dehydration"
+        ]
+      },
+      {
+        "label": "Laxatives & Antidiarrheals › Antidiarrheals (opioid agonists)",
+        "children": [
+          "Loperamide: mu-opioid agonist; does not cross BBB → no analgesia/addiction potential",
+          "Diphenoxylate: mu-opioid agonist, some BBB penetration → combined with atropine to deter abuse",
+          "MOA: activate mu-opioid receptors in GI tract → ↑ colonic phasic segmenting → ↑ transit time",
+          "Contraindicated with bloody diarrhea or fever (treat underlying cause)",
+          "VIPoma / carcinoid syndrome (secretory diarrhea) → treat with octreotide"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "37. Hematology — Coagulation Pharmacology",
+    "children": [
+      {
+        "label": "Coagulation Cascade Basics",
+        "children": [
+          "Factor Xa converts prothrombin (factor II) → thrombin",
+          "Thrombin converts fibrinogen → fibrin monomers → crosslinked (Ca2+, phospholipid, factor XIII) → stable fibrin clot"
+        ]
+      },
+      {
+        "label": "Heparins",
+        "children": [
+          "Agent: Unfractionated heparin (UFH) | MOA: Binds antithrombin III → irreversibly inactivates thrombin AND factor Xa | Monitoring: aPTT | Notes: Reversed by protamine sulfate",
+          "Agent: LMWH | MOA: Binds antithrombin III → inhibits factor Xa >> thrombin | Monitoring: Not required | Notes: Longer half-life; lower HIT risk; protamine less effective",
+          "Agent: Fondaparinux | MOA: Binds antithrombin III (high specificity) → inhibits Xa only | Monitoring: — | Notes: Lowest HIT risk; protamine ineffective",
+          "Uses: DVT/PE prophylaxis & acute treatment; acute MI (prevents clot extension/formation); safe in pregnancy",
+          "AE (all heparins): bleeding (monitor PTT); HIT — antibodies vs. heparin–PF4 complex → paradoxical thrombosis despite low platelets; hypoaldosteronism (even at low dose) → type 4 RTA → hyperkalemia; osteoporosis",
+          "Direct thrombin inhibitors (argatroban, dabigatran, bivalirudin) → used in HIT",
+          "Direct factor Xa inhibitors (rivaroxaban, apixaban) → oral; long-term anticoagulation in AFib"
+        ]
+      },
+      {
+        "label": "Vitamin K & Warfarin",
+        "children": [
+          "Vitamin K = cofactor for gamma-carboxylation of factors II, VII, IX, X + proteins C & S",
+          "VKOR converts inactive vitamin K epoxide → active vitamin K",
+          "Warfarin inhibits VKOR → ↓ active vitamin K → ↓ functional II, VII, IX, X, protein C/S",
+          "Factor VII (shortest half-life) is reduced first",
+          "Onset 8–12h; full effect ~3 days → not for acute thrombotic events",
+          "Monitor: PT / INR (extrinsic pathway); goal INR 2–3",
+          "Use: long-term AFib anticoagulation, DVT prophylaxis (acute DVT treated with IV heparin first — warfarin has delayed onset)",
+          "AE: crosses placenta → teratogenic/hemorrhagic effects; early hypercoagulable state (protein C falls first) → warfarin-induced skin necrosis (esp. with protein C deficiency) → prevented by heparin bridge",
+          "Reversal: Vitamin K (delayed), FFP (immediate)",
+          "CYP450 substrate: inducers (rifampin, phenobarbital, phenytoin) ↓ effect; inhibitors (antibiotics, antifungals, SSRIs) ↑ effect"
+        ]
+      },
+      {
+        "label": "Antiplatelet Agents",
+        "children": [
+          "Vascular injury exposes collagen/vWF → platelets bind via GP1b → activation → degranulation → releases ADP, serotonin, TXA2 → aggregation",
+          "ADP → P2Y12 receptor → aggregation",
+          "COX-1 (constitutive, in platelets) synthesizes TXA2 from arachidonic acid → vasoconstriction + aggregation",
+          "GP IIb/IIIa receptor binds fibrinogen → final common pathway of platelet aggregation",
+          "Drug(s): Aspirin | MOA: Irreversibly acetylates COX-1 & COX-2 | Notes / Key AE: \"Pseudo-allergy\" in asthma/nasal polyps (↑leukotrienes) → use ADP inhibitor instead",
+          "Drug(s): Clopidogrel, ticagrelor, prasugrel (\"-grel\") | MOA: Irreversible P2Y12 inhibitors | Notes / Key AE: Ticlopidine → neutropenia/granulocytopenia (2%) → monitor CBC",
+          "Drug(s): Abciximab | MOA: Monoclonal Ab blocking GP IIb/IIIa | Notes / Key AE: Thrombocytopenia",
+          "Drug(s): Eptifibatide, tirofiban | MOA: Block GP IIb/IIIa | Notes / Key AE: IV continuous infusion; thrombocytopenia",
+          "Drug(s): Dipyridamole, cilostazol | MOA: Phosphodiesterase inhibitors → ↑cAMP → ↓platelet function | Notes / Key AE: Cilostazol: vasodilator → treats claudication (PAD); risk of coronary steal",
+          "Uses: ↓ CV events in PAD/CAD (do not relieve claudication — cilostazol does); acute MI/ACS — give ASAP (chewable ASA in STEMI); dual antiplatelet therapy prevents stent thrombosis; prevents ischemic stroke in atherosclerosis",
+          "AE (general): ↑ bleeding time"
+        ]
+      },
+      {
+        "label": "Fibrinolytics",
+        "children": [
+          "tPA & streptokinase convert plasminogen → plasmin → degrades fibrin clots",
+          "Prolong PT & PTT; D-dimer = fibrin degradation product (marker of clot lysis)",
+          "Uses: ischemic stroke (IV fibrinolytics within 3–4.5h of onset); severe acute DVT/PE; MI (PCI preferred in STEMI, ideally within ~2h)",
+          "AE: hemorrhagic stroke (main risk)",
+          "CI: recent head trauma/intracranial surgery, hemorrhage on CT, severe hypertension",
+          "Streptokinase: unique risk of allergic reaction/anaphylaxis",
+          "Reversal: aminocaproic acid (inhibits plasminogen activation), tranexamic acid (reverses tPA), FFP/cryoprecipitate (reverse coagulopathy)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "38. Oncology — Chemotherapy Pharmacology",
+    "children": [
+      {
+        "label": "Antimetabolites",
+        "children": [
+          "Physiology: dUMP → dTMP via thymidylate synthase (THF donates carbon → becomes DHF); DHFR regenerates DHF → THF"
+        ]
+      },
+      {
+        "label": "Antimetabolites › Methotrexate (MTX)",
+        "children": [
+          "MOA: inhibits DHFR → ↓ THF regeneration → ↓ thymidine synthesis → blocks DNA/RNA synthesis (S phase)",
+          "Uses: leukemia/lymphoma; ectopic pregnancy/abortifacient (± misoprostol); molar pregnancy/choriocarcinoma; psoriasis; 1st-line DMARD for RA; immunosuppression (IBD, SLE, vasculitis, dermatomyositis)",
+          "AE: folate deficiency, megaloblastic anemia, pancytopenia/myelosuppression, ↑infection risk, pulmonary fibrosis, hepatotoxicity (monitor LFTs), alopecia, mucositis",
+          "Antidote: leucovorin (folinic acid)"
+        ]
+      },
+      {
+        "label": "Antimetabolites › 5-Fluorouracil (5-FU)",
+        "children": [
+          "MOA: complexes with THF → inhibits thymidylate synthase → ↓ thymidine production",
+          "AE: diarrhea, photosensitivity/rash, myelosuppression, ↑infection risk — no antidote"
+        ]
+      },
+      {
+        "label": "Antimetabolites › Hydroxyurea",
+        "children": [
+          "MOA: inhibits ribonucleotide reductase (UDP → dUDP) → blocks thymidine synthesis",
+          "Use: sickle cell disease (↑ HbF → protects against HbS polymerization)",
+          "AE: myelosuppression, ↑infection risk"
+        ]
+      },
+      {
+        "label": "Antimetabolites › Purine Analogs",
+        "children": [
+          "Physiology: PRPP → IMP → AMP & GMP",
+          "Azathioprine = prodrug of 6-mercaptopurine (6-MP); activated by HGPRT → blocks IMP synthesis → inhibits DNA synthesis (S phase)",
+          "Uses: hematologic malignancy (ALL); immunosuppression (SLE, transplant); RA (DMARD); IBD",
+          "AE: bone marrow suppression, ↑infection (monitor CBCs), pancreatitis, hepatotoxicity",
+          "Allopurinol (xanthine oxidase inhibitor) → ↑ 6-MP levels → toxicity (key drug interaction)",
+          "Mycophenolate mofetil: inhibits IMP dehydrogenase → ↓GMP synthesis → ↓lymphocyte proliferation; used for transplant/SLE/myasthenia gravis, RA; AE: GI effects, immunosuppression/infection",
+          "Cladribine: purine analog → treats hairy cell leukemia; AE: immunosuppression"
+        ]
+      },
+      {
+        "label": "Antimetabolites › Cytarabine & Gemcitabine (Pyrimidine Analogs)",
+        "children": [
+          "MOA: inhibit DNA polymerase; block S phase",
+          "Cytarabine: hematologic malignancies only (AML, NHL)",
+          "Gemcitabine: hematologic and solid tumors",
+          "AE: myelosuppression, ↑infection risk"
+        ]
+      },
+      {
+        "label": "Antitumor Antibiotics › Bleomycin",
+        "children": [
+          "MOA: binds DNA → generates free radicals → single/double-strand DNA breaks; blocks G2 phase",
+          "Uses: Hodgkin/non-Hodgkin lymphoma, germ cell tumors, SCC (skin, cervix, vulva)",
+          "AE: pulmonary toxicity (pneumonitis, infiltrates) — hallmark; skin toxicity; mucositis/stomatitis; alopecia"
+        ]
+      },
+      {
+        "label": "Antitumor Antibiotics › Anthracyclines — \"-rubicin\" (doxorubicin, daunorubicin)",
+        "children": [
+          "MOA: generate free radicals + intercalate DNA → block DNA/RNA synthesis",
+          "Uses: broad range of solid & hematologic malignancies",
+          "AE: cardiotoxicity (dilated cardiomyopathy) — dose-limiting; myelosuppression; mucositis; alopecia",
+          "Dexrazoxane (iron chelator) prevents anthracycline cardiotoxicity"
+        ]
+      },
+      {
+        "label": "Antitumor Antibiotics › Actinomycin D",
+        "children": [
+          "MOA: intercalates DNA → blocks DNA/RNA synthesis",
+          "Uses: pediatric tumors (Wilms tumor, Ewing sarcoma, rhabdomyosarcoma)",
+          "AE: alopecia, myelosuppression"
+        ]
+      },
+      {
+        "label": "Alkylating Agents",
+        "children": [
+          "General MOA: donate alkyl group → DNA cross-links (cell-cycle nonspecific)"
+        ]
+      },
+      {
+        "label": "Alkylating Agents › Cyclophosphamide",
+        "children": [
+          "Activated by hepatic CYP450",
+          "Uses: leukemia/lymphoma, breast/ovarian cancer; immunosuppression (nephrotic syndrome, vasculitis, autoimmune hemolytic anemia)",
+          "AE: myelosuppression; hemorrhagic cystitis (prevented by MESNA); ↑ bladder cancer risk; SIADH → hyponatremia; infertility/premature menopause"
+        ]
+      },
+      {
+        "label": "Alkylating Agents › Busulfan",
+        "children": [
+          "Use: conditioning agent prior to bone marrow transplant",
+          "AE: lung toxicity (interstitial fibrosis, alveolar hemorrhage); hyperpigmentation (\"busulfan tan\")"
+        ]
+      },
+      {
+        "label": "Alkylating Agents › Nitrosoureas — \"-mustine\" (carmustine, lomustine); streptozotocin",
+        "children": [
+          "Highly lipophilic → cross BBB → treat brain tumors (glioblastoma multiforme)",
+          "AE: neurotoxicity (convulsions, dizziness, ataxia)"
+        ]
+      },
+      {
+        "label": "Microtubule Inhibitors › Vinca Alkaloids — vincristine, vinblastine",
+        "children": [
+          "MOA: inhibit microtubule formation/mitotic spindle assembly; block M phase",
+          "Uses: leukemia, lymphoma, pediatric tumors, breast cancer, germ cell cancer",
+          "AE: vincristine → peripheral sensory neuropathy, autonomic dysfunction (paralytic ileus, constipation); alopecia; myelosuppression (esp. vinblastine)"
+        ]
+      },
+      {
+        "label": "Microtubule Inhibitors › Taxanes — paclitaxel, docetaxel, cabazitaxel",
+        "children": [
+          "MOA: stabilize microtubules, prevent degradation → improper spindle function; block M phase",
+          "AE: alopecia, peripheral neuropathy, myelosuppression"
+        ]
+      },
+      {
+        "label": "Platinum Analogs — cisplatin, carboplatin, oxaliplatin",
+        "children": [
+          "MOA: bind DNA → intrastrand/interstrand cross-links",
+          "Uses: NSCLC, SCLC, testicular, ovarian, bladder cancer",
+          "AE: ototoxicity (hearing loss, tinnitus — esp. cisplatin); neurotoxicity (peripheral neuropathy — esp. cisplatin); nephrotoxicity/ATN (muddy brown casts — esp. cisplatin); myelosuppression/immunosuppression (esp. carboplatin)",
+          "Prevention: amifostine (free radical scavenger) + IV saline diuresis → prevent cisplatin nephrotoxicity"
+        ]
+      },
+      {
+        "label": "Topoisomerase Inhibitors › Topo II Inhibitors — etoposide, teniposide",
+        "children": [
+          "MOA: double-strand breaks, prevent religation → block S & G2 phase",
+          "Uses: testicular cancer, SCLC, Hodgkin/non-Hodgkin lymphoma",
+          "AE: myelosuppression, immunosuppression, alopecia"
+        ]
+      },
+      {
+        "label": "Topoisomerase Inhibitors › Topo I Inhibitors — topotecan, irinotecan",
+        "children": [
+          "MOA: single-strand nick to relieve DNA supercoiling",
+          "Uses: topotecan → ovarian cancer, SCLC; irinotecan → colon cancer",
+          "AE: myelosuppression, severe diarrhea"
+        ]
+      },
+      {
+        "label": "Targeted Therapy › Small-Molecule Tyrosine Kinase Inhibitors",
+        "children": [
+          "Drug: Imatinib | Target: BCR-ABL (Philadelphia chr., t(9;22)); also c-kit | Main Use: CML; GIST (c-kit) | Key AE: Fluid retention (ankle/periorbital edema)",
+          "Drug: Erlotinib | Target: EGFR | Main Use: NSCLC (EGFR overexpression) | Key AE: Acneiform rash, diarrhea",
+          "Drug: Sunitinib, sorafenib | Target: VEGFR | Main Use: Renal cell carcinoma | Key AE: Hyperkeratosis/skin rash, ↑hemorrhage risk",
+          "Drug: Vemurafenib | Target: B-Raf kinase | Main Use: BRAF V600E+ melanoma | Key AE: —"
+        ]
+      },
+      {
+        "label": "Targeted Therapy › Monoclonal Antibodies",
+        "children": [
+          "Drug: Rituximab | Target: CD20 (B cells) | Main Use: CLL; RA (DMARD); microscopic polyangiitis/Wegener's | Key AE: Immunosuppression/infection, ↑PML risk",
+          "Drug: Cetuximab | Target: EGFR | Main Use: Colorectal cancer, SCC | Key AE: Acneiform rash",
+          "Drug: Bevacizumab | Target: VEGF | Main Use: Metastatic colorectal/SCC; wet macular degeneration | Key AE: Bleeding, ↑thrombosis, GI perforation",
+          "Drug: Alemtuzumab | Target: CD52 (B & T cells) | Main Use: CLL | Key AE: —",
+          "Drug: Trastuzumab | Target: HER2 | Main Use: HER2+ breast cancer | Key AE: Cardiotoxicity (↓LVEF, heart failure)",
+          "General mAb AE: infusion reactions (headache, fever, rash, pruritus, dyspnea, hypotension)",
+          "Chimeric antibodies (rituximab, rarely cetuximab) → serum sickness (fever, rash, arthralgia, 7–10 days post-infusion)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "39. NSAIDs, Acetaminophen & the Eicosanoid Pathway",
+    "children": [
+      {
+        "label": "Arachidonic Acid Pathway",
+        "children": [
+          "Phospholipase A2 (PLA2) → releases arachidonic acid from the cell membrane",
+          "COX-1 → constitutively expressed (most cells); COX-2 → induced by inflammation",
+          "COX-1 → synthesizes TXA2 (vasoconstriction, platelet aggregation) + gastric cytoprotective prostaglandins",
+          "COX-2 → in vascular endothelium/smooth muscle; synthesizes PGI2 (prostacyclin) → vasodilation, inhibits platelet aggregation",
+          "COX-1 AND COX-2 → dilate the afferent arteriole (maintain GFR)",
+          "COX-2 → also ↑ vascular permeability, ↑ pain sensitivity, induces fever"
+        ]
+      },
+      {
+        "label": "NSAIDs (General) — Diclofenac, Ketorolac, Indomethacin, Meloxicam, Piroxicam, Naproxen",
+        "children": [
+          "MOA → reversible inhibition of COX-1 AND COX-2",
+          "Indomethacin → closes the ductus arteriosus",
+          "AE (COX-1) → gastric inflammation/erosion/ulceration, GI bleeding, ↑ bleeding time",
+          "AE (renal) → ↑ BP (↓ Na+ excretion); acute interstitial nephritis; afferent arteriole constriction → ↓ GFR (worsened with ACE inhibitors); renal papillary necrosis",
+          "AE → ↑ serum lithium; aplastic anemia (esp. indomethacin); ↓ renin → hypoaldosteronism → hyperkalemia (type IV RTA)",
+          "Avoid in patients at risk for AKI, MI, or ↓ renal perfusion",
+          "Avoid in 3rd trimester → premature closure of ductus arteriosus (highest risk: indomethacin, ibuprofen)"
+        ]
+      },
+      {
+        "label": "Aspirin",
+        "children": [
+          "MOA → irreversible acetylation of COX-1 AND COX-2",
+          "Uses → Kawasaki disease (most common childhood vasculitis: fever, conjunctivitis, oral/lip erythema, rash, cervical lymphadenopathy)",
+          "Reye syndrome → aspirin + viral illness in children → rapidly progressive encephalopathy (confusion, seizure, coma) + hepatic dysfunction (steatosis, hepatomegaly)",
+          "Toxicity → respiratory alkalosis first, then anion gap metabolic acidosis; tinnitus",
+          "Toxicity treatment → activated charcoal; serum/urine alkalinization (sodium bicarbonate) → ↑ renal excretion, pulls aspirin out of CNS"
+        ]
+      },
+      {
+        "label": "Celecoxib",
+        "children": [
+          "Selective COX-2 inhibitor → ↓ ulcer/bleeding risk (spares COX-1)",
+          "AE → ↑ risk of ischemic cardiovascular disease — avoid in acute MI, stable angina",
+          "Is a sulfa drug"
+        ]
+      },
+      {
+        "label": "Acetaminophen",
+        "children": [
+          "MOA → inhibits COX-2 → antipyretic + analgesic (NOT anti-inflammatory)",
+          "Uses → mild-moderate pain, osteoarthritis, some RA",
+          "Toxic metabolite NAPQI depletes hepatic glutathione → hepatotoxicity",
+          "Treatment → activated charcoal (acute); N-acetylcysteine (restores glutathione)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "40. Gout Therapy",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Purine metabolism → hypoxanthine → (xanthine oxidase) → xanthine → (xanthine oxidase) → uric acid"
+        ]
+      },
+      {
+        "label": "Acute Gout / Pseudogout",
+        "children": [
+          "Classic presentation → 1st metatarsal joint",
+          "Treatment → NSAIDs (indomethacin, 1st-line); glucocorticoids (prednisone); colchicine (oral, within 12–24h)",
+          "Colchicine → binds intracellular tubulin → prevents microtubule polymerization → disrupts neutrophil migration/phagocytosis/degranulation; AE → diarrhea",
+          "Pseudogout → same acute treatment; crystals: positively birefringent, rhomboid-shaped"
+        ]
+      },
+      {
+        "label": "Chronic Gout",
+        "children": [
+          "Allopurinol, Febuxostat → inhibit xanthine oxidase",
+          "Allopurinol AE → mild rash, Stevens-Johnson syndrome, DRESS; ↑ toxicity of purine analogs (6-mercaptopurine, azathioprine)",
+          "Probenecid (uricosuric) → ↓ renal tubular reabsorption of uric acid; only for under-excretors; AE → ↑ renal stone risk; inhibits excretion of many drugs (e.g., penicillin); is a sulfa drug",
+          "Aspirin → high dose is uricosuric (↓ reabsorption); low dose ↑ retention (inhibits excretion) — paradoxical dose effect",
+          "Pegloticase (recombinant uricase) → converts uric acid → water-soluble allantoin; IV; AE → hemolysis in G6PD deficiency, anaphylaxis",
+          "Tumor lysis syndrome → uric acid crystals after cytotoxic chemo (esp. lymphoma, ALL) — prevent with allopurinol",
+          "Lesch-Nyhan syndrome → hyperuricemia (self-mutilation/lip-biting) → managed with allopurinol",
+          "Drug(s): NSAIDs, glucocorticoids, colchicine | Phase: Acute | MOA: Anti-inflammatory; colchicine → ↓ microtubule polymerization | Key Note: Colchicine → diarrhea",
+          "Drug(s): Allopurinol, febuxostat | Phase: Chronic | MOA: ↓ xanthine oxidase | Key Note: SJS/DRESS; ↑ 6-MP/azathioprine toxicity",
+          "Drug(s): Probenecid | Phase: Chronic (under-excretors) | MOA: ↑ uric acid excretion | Key Note: Sulfa drug; ↓ penicillin excretion",
+          "Drug(s): Pegloticase | Phase: Chronic | MOA: Uricase → allantoin | Key Note: G6PD hemolysis, anaphylaxis; IV"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "41. RAAS-Targeting Antihypertensives",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Renin release (juxtaglomerular cells) → triggered by sympathetic β1 stimulation, ↓ serum Na+, ↓ GFR",
+          "Renin cleaves angiotensinogen → angiotensin I; ACE (pulmonary vascular endothelium) converts AI → AII",
+          "Angiotensin II → vasoconstriction; constricts efferent arteriole (preserves GFR when perfusion falls); ↑ proximal tubule Na+ reabsorption; ↑ aldosterone release → collecting duct Na+/fluid retention at the expense of K+"
+        ]
+      },
+      {
+        "label": "ACE Inhibitors — \"-pril\"",
+        "children": [
+          "MOA → block AI→AII conversion; ↓ GFR (dilate efferent arteriole), ↓ PCT Na-bicarb reabsorption, ↓ aldosterone",
+          "↑ levels of AI and renin (compensatory)",
+          "Uses → 1st-line for chronic HF (↓ mortality); MI; 1st-line for HTN; slows diabetic nephropathy (start if albuminuria + BP >130/80)",
+          "↓ AII-mediated cardiac remodeling",
+          "AE → expected ↑ creatinine; significant hypotension/syncope in high-renin states (HF); hyperkalemia (↓ aldosterone)",
+          "AE → dry cough (↑ bradykinin); angioedema risk (↑ bradykinin + substance P)",
+          "Contraindicated → hereditary angioedema (C1 esterase deficiency); bilateral renal artery stenosis (precipitates renal failure — persistent ↑ creatinine)",
+          "+ NSAIDs → can precipitate AKI (afferent constriction + efferent dilation → ↓↓ GFR)",
+          "Pregnancy → risk of fetal hypotension"
+        ]
+      },
+      {
+        "label": "ARBs — \"-sartan\"",
+        "children": [
+          "Same downstream effects as ACE inhibitors, but do NOT ↑ bradykinin (no cough/angioedema risk)",
+          "AE → hyperkalemia (↓ aldosterone)"
+        ]
+      },
+      {
+        "label": "Direct Renin Inhibitor — Aliskiren",
+        "children": [
+          "MOA → prevents renin from converting AI→AII",
+          "AE → hyperkalemia"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "42. Diuretics",
+    "children": [
+      {
+        "label": "Carbonic Anhydrase Inhibitors — Acetazolamide (site: PCT)",
+        "children": [
+          "MOA → inhibits carbonic anhydrase → ↓ bicarb reabsorption → bicarb stays in lumen → urine alkalinization; also natriuresis",
+          "Uses → glaucoma (↓ aqueous humor production); idiopathic intracranial hypertension (↓ CSF production); altitude/mountain sickness prophylaxis",
+          "AE → hypokalemia; type 2 (proximal) RTA; promotes calcium phosphate stones (prevents uric acid stones via alkaline urine); is a sulfa drug"
+        ]
+      },
+      {
+        "label": "Mannitol — Osmotic Diuretic (site: PCT + descending loop)",
+        "children": [
+          "Uses → ↓ intracranial pressure (urgent); ↓ intraocular pressure",
+          "AE → volume expansion → pulmonary edema, can worsen heart failure; can cause hyponatremia (volume expansion) or hypernatremia (water depletion)"
+        ]
+      },
+      {
+        "label": "Loop Diuretics — Furosemide, Ethacrynic Acid (site: thick ascending limb)",
+        "children": [
+          "MOA → blocks Na+/K+/2Cl– (NKCC) cotransporter — most efficacious diuretics",
+          "↓ lumen-positive potential → ↑ Mg2+ and Ca2+ excretion → chronic use → hypomagnesemia, (rare) hypocalcemia",
+          "Induces COX-2 → prostaglandins enhance salt excretion + dilate afferent arteriole (NSAIDs blunt this effect)",
+          "Uses → 1st-line for acute decompensated HF with fluid overload/pulmonary edema (↓ preload; does not prolong survival); ascites; HTN",
+          "AE → hypokalemia (can worsen arrhythmias); ototoxicity (dose-related hearing loss); interstitial nephritis; hyperuricemia (→ gout); contraction alkalosis",
+          "Most are sulfa drugs; ethacrynic acid is NOT"
+        ]
+      },
+      {
+        "label": "Thiazide Diuretics — Hydrochlorothiazide, Chlorthalidone (site: DCT)",
+        "children": [
+          "MOA → blocks NaCl cotransporter on the apical membrane",
+          "↑ calcium reabsorption (proximal + distal mechanisms) → prevents calcium kidney stones; may benefit osteoporosis",
+          "Uses → 1st-line for mild-moderate HTN; symptomatic HF (loop is 1st-line for acute); nephrogenic diabetes insipidus (paradoxical ↓ polyuria via proximal volume depletion)",
+          "AE → hypercalcemia; hyperglycemia; hyperlipidemia; hyperuricemia (gout); hypokalemia; hyponatremia; ↑ serum lithium (↓ clearance); contraction alkalosis",
+          "Are sulfa drugs"
+        ]
+      },
+      {
+        "label": "K+-Sparing Diuretics — Triamterene, Amiloride, Spironolactone, Eplerenone (site: collecting duct)",
+        "children": [
+          "Triamterene, Amiloride → block ENaC directly. Spironolactone, Eplerenone → antagonize the mineralocorticoid (aldosterone) receptor",
+          "Uses → 1°/2° hyperaldosteronism (Conn syndrome); heart failure (↓ mortality, prevent aldosterone-driven remodeling and K+ wasting)",
+          "Amiloride → also treats lithium-induced nephrogenic DI (blocks Li+ entry into collecting duct cells) and Liddle syndrome (overactive ENaC, with triamterene)",
+          "AE → hyperkalemia (esp. renal disease, + ACE inhibitors/beta blockers); type 4 RTA (normal anion gap acidosis + hyperkalemia — the only RTA with hyperkalemia); use a K+-wasting diuretic in these patients",
+          "Spironolactone-specific → antiandrogenic (inhibits 17α-hydroxylase, blocks androgen receptor) → gynecomastia, impotence, ↓ libido; treats PCOS hirsutism/androgen excess (after OCP trial)",
+          "Class: CA inhibitors / (acetazolamide) | Site: PCT | MOA: ↓ carbonic anhydrase | Key Electrolyte Effect: Hypokalemia, type 2 RTA | Key Use: Glaucoma, IIH, altitude sickness",
+          "Class: Mannitol | Site: PCT/desc. loop | MOA: Osmotic | Key Electrolyte Effect: Hyper- or hyponatremia | Key Use: ↓ ICP, ↓ IOP",
+          "Class: Loop / (furosemide) | Site: Thick ascending limb | MOA: Blocks NKCC | Key Electrolyte Effect: Hypokalemia, hypomagnesemia | Key Use: Acute HF / pulmonary edema",
+          "Class: Thiazides / (HCTZ) | Site: DCT | MOA: Blocks NaCl cotransporter | Key Electrolyte Effect: Hypokalemia, hypercalcemia | Key Use: HTN (1st-line), Ca2+ stones",
+          "Class: K+-sparing / (spironolactone) | Site: Collecting duct | MOA: ENaC block / aldosterone antagonism | Key Electrolyte Effect: Hyperkalemia (type 4 RTA) | Key Use: Hyperaldosteronism, HF"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "43. Antihistamines",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Histamine → stored in mast cell granules",
+          "H1 → Gq → allergic inflammation, ↑ nasal/bronchial mucus, ↑ vascular permeability, bronchoconstriction, sleep/arousal regulation (CNS)",
+          "H2 → Gs → gastric acid secretion"
+        ]
+      },
+      {
+        "label": "1st-Generation H1 Blockers — Diphenhydramine, Dimenhydrinate, Chlorpheniramine, Hydroxyzine, Meclizine, Promethazine",
+        "children": [
+          "Uses → type I allergic reactions (hives, allergic rhinitis) — 1st-line; motion sickness/vestibular nausea (lipophilic → enters CNS)",
+          "AE → drowsiness (crosses BBB); antimuscarinic effects (pupillary dilation, dry mouth, urinary retention, constipation, glaucoma exacerbation, delirium)",
+          "Uses → antipsychotic-induced acute dystonia (antimuscarinic effect restores dopaminergic-cholinergic balance)",
+          "AE → ↑ appetite/weight gain (antiserotonergic); dizziness/hypotension (α1 antagonism); cognitive impairment in the elderly"
+        ]
+      },
+      {
+        "label": "2nd-Generation H1 Blockers — Fexofenadine, Cetirizine, Loratadine",
+        "children": [
+          "Less lipophilic → do NOT cross BBB → less sedating, less antimuscarinic/antiserotonergic/anti-α1 effect"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "44. Asthma & COPD Pharmacotherapy",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "SABA (albuterol, \"-terol\" suffix; terbutaline, pirbuterol) → acute bronchodilation via MDI",
+          "Inhaled corticosteroids (beclomethasone, budesonide, fluticasone) → daily maintenance, anti-inflammatory; AE → oropharyngeal candidiasis",
+          "Leukotriene pathway → arachidonic acid → (lipoxygenase) → leukotrienes; LTB4 → neutrophil chemoattractant; LTC4/D4/E4 → ↑ airway permeability, mucus, bronchoconstriction (LTD4 = most potent bronchoconstrictor)",
+          "LTD4-receptor antagonists (\"-kast\": montelukast, zafirlukast) → oral; alternative for mild persistent asthma",
+          "Zileuton → direct lipoxygenase inhibitor → alternative for mild persistent asthma; AE → hepatotoxicity",
+          "COX inhibition shifts AA metabolism toward the LOX pathway (worsens aspirin-induced asthma)",
+          "LABA (salmeterol, formoterol) → daily controller, long duration, for moderate-severe persistent asthma",
+          "↑ ICS dose → moderate-severe persistent asthma",
+          "Methylxanthines (theophylline) → PDE inhibitor → ↑ cAMP; oral; alternative for mild-severe persistent asthma; AE → CNS stimulation (nervousness, tremor), tachycardia; metabolized by CYP450",
+          "Omalizumab → anti-IgE monoclonal antibody → prevents mast cell sensitization → adjunct for moderate-severe persistent asthma",
+          "Cromolyn sodium → inhibits mast cell degranulation → prevents histamine release"
+        ]
+      },
+      {
+        "label": "Acute Severe Exacerbation",
+        "children": [
+          "Inhaled SABA (albuterol)",
+          "Systemic corticosteroids (IV or oral)",
+          "Nebulized ipratropium bromide (anticholinergic)",
+          "SC/IM epinephrine",
+          "Class: SABA | Example(s): Albuterol, terbutaline | Role: Acute relief",
+          "Class: LABA | Example(s): Salmeterol, formoterol | Role: Daily controller (moderate-severe)",
+          "Class: ICS | Example(s): Beclomethasone, budesonide, fluticasone | Role: Daily maintenance; AE: oral candidiasis",
+          "Class: LTD4 antagonists | Example(s): Montelukast, zafirlukast | Role: Oral; mild persistent",
+          "Class: LOX inhibitor | Example(s): Zileuton | Role: Mild persistent; hepatotoxic",
+          "Class: Methylxanthines | Example(s): Theophylline | Role: Mild-severe; CNS/cardiac AE",
+          "Class: Anti-IgE | Example(s): Omalizumab | Role: Adjunct, moderate-severe",
+          "Class: Mast cell stabilizer | Example(s): Cromolyn sodium | Role: Prevents degranulation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "45. Prostaglandin Analogs & Pulmonary Vasodilators",
+    "children": [
+      {
+        "label": "Overview",
+        "children": [
+          "Alprostadil (PGE1) → vasodilator; maintains PDA patency; treats erectile dysfunction (NSAIDs/indomethacin close the PDA — opposite effect)",
+          "Misoprostol (PGE1) → ↑ protective gastric mucus → prevents NSAID-induced ulcers; also induces labor/terminates pregnancy; AE → diarrhea",
+          "Dinoprostone (PGE2) → uterine contraction + cervical ripening → labor induction/pregnancy termination",
+          "Carboprost (PGF2α) → uterine contraction → controls postpartum hemorrhage / pregnancy termination",
+          "Latanoprost, Travoprost (PGF2α) → ↑ aqueous humor outflow → treat glaucoma; AE → brown iris pigmentation",
+          "Iloprost, Epoprostenol (prostacyclin analogs) → vasodilation → treat pulmonary HTN (IV epoprostenol = 1st-line, improves symptoms/survival, delays transplant); AE → flushing, headache, hypotension",
+          "PDE-5 inhibitors (\"-afil\": sildenafil, tadalafil) → ↑ cGMP → myosin light chain dephosphorylation → smooth muscle relaxation → treat pulmonary HTN and erectile dysfunction",
+          "Bosentan → endothelin receptor antagonist → vasodilation → treats pulmonary HTN; AE → fatal hepatotoxicity",
+          "Type: PGE1 | Drug(s): Alprostadil | Use: Maintain PDA; erectile dysfunction",
+          "Type: PGE1 | Drug(s): Misoprostol | Use: Prevent NSAID ulcers; labor induction/termination",
+          "Type: PGE2 | Drug(s): Dinoprostone | Use: Labor induction/termination (cervical ripening)",
+          "Type: PGF2α | Drug(s): Carboprost | Use: Postpartum hemorrhage; pregnancy termination",
+          "Type: PGF2α | Drug(s): Latanoprost, Travoprost | Use: Glaucoma (↑ outflow); brown iris pigmentation",
+          "Type: PGI2 analog | Drug(s): Iloprost, Epoprostenol | Use: Pulmonary HTN"
+        ]
+      }
+    ]
+  }
+]
