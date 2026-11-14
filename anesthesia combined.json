@@ -1,0 +1,910 @@
+{
+  "title": "Anesthesia",
+  "children": [
+    {
+      "label": "1. Preoperative evaluation",
+      "children": [
+        {
+          "label": "Overview",
+          "children": [
+            "Seeing the patient before surgery to identify risks that may affect recovery",
+            "Visit done one day before surgery",
+            "Aim: lower anesthetic and surgical morbidity and mortality, patient in optimal condition",
+            "Steps: problem identification, risk assessment, preoperative preparation, plan of anesthetic technique",
+            "Technique options: GA, laryngeal mask, endotracheal tube, spinal, epidural, local"
+          ]
+        },
+        {
+          "label": "Purposes",
+          "children": [
+            "Document the condition needing surgery",
+            "Define the patient's medical and surgical problems",
+            "Arrange investigations, consultation and treatment if not optimal",
+            "Develop the anesthetic technique and perioperative care plan",
+            "Inform and reassure the patient",
+            "Reduce cost, hospital stay and cancellations"
+          ]
+        },
+        {
+          "label": "History",
+          "children": [
+            "Brief history of present illness, current medications, allergies and reaction type",
+            "Past medical and surgical history, past anesthetic history",
+            "Family history of anesthetic problems",
+            "Functional inquiry and NPO status",
+            "Special attention to CVS, respiratory and neuromuscular systems",
+            "Unstable symptoms: postpone elective surgery for optimization"
+          ]
+        },
+        {
+          "label": "Cardiovascular and respiratory points",
+          "children": [
+            "MI within 6 months or unstable angina: poor surgical candidate",
+            "Ask about exercise tolerance, arrhythmia or pacemaker, hypertension",
+            "Valvular disease: consider risk of subacute bacterial endocarditis",
+            "Active cardiac conditions: postpone except life-saving emergencies",
+            "COPD: baseline CO2 is high (50-60), avoid aggressive hyperventilation",
+            "Asthma: airway manipulation and cold dry gases trigger attacks",
+            "Acute URTI: postpone elective surgery about 6 weeks",
+            "Sleep apnea: may need postoperative ventilatory support"
+          ]
+        },
+        {
+          "label": "Smoking cessation timeline",
+          "children": [
+            "Advise stopping at least 8 weeks before surgery",
+            "12-24 h: CO and nicotine levels fall",
+            "48-72 h: COHb normalizes, airway function improves",
+            "1-2 weeks: less sputum",
+            "4-6 weeks: PFTs improve",
+            "6-8 weeks: immune function normalizes",
+            "8-12 weeks: lower overall postoperative morbidity"
+          ]
+        },
+        {
+          "label": "Other conditions",
+          "children": [
+            "Epilepsy: optimize antiepileptic dosing, avoid enflurane",
+            "Spinal cord injury: respiratory failure, autonomic hyperreflexia, hyperkalemia",
+            "Myasthenia gravis and NMJ disorders: unpredictable response to NMBs",
+            "Muscular dystrophy: higher malignant hyperthermia risk and postoperative respiratory failure",
+            "Diabetes: delayed gastric emptying, silent MI, stop oral hypoglycemics and use insulin sliding scale",
+            "Goitre: airway compression and tracheal deviation, inhalational induction preferred",
+            "Hyperthyroid: thyroid storm risk; hypothyroid: myocardial depression",
+            "GERD: H2 blocker, citrate, cricoid pressure",
+            "Long-term steroids: stress-dose steroids to prevent Addisonian crisis"
+          ]
+        },
+        {
+          "label": "Medications and allergies",
+          "children": [
+            "Take cardiac and pulmonary medications with sips of water up to the day of surgery",
+            "Ask about penicillin, latex and propofol (egg) allergy",
+            "Lecturer: egg allergy is to egg white while propofol contains yolk lecithin",
+            "Metformin: stop a few days before surgery",
+            "Beta blockers decrease cardiovascular mortality",
+            "Asthmatics: avoid histamine-releasing drugs (morphine, atracurium)"
+          ]
+        },
+        {
+          "label": "Malignant hyperthermia and scoline apnea",
+          "children": [
+            "MH: familial, fatal, triggered by inhalational agents (except N2O) and succinylcholine",
+            "MH preparation: total IV anesthesia, vaporizer disconnected, room ventilated 6 h, first case of the day",
+            "Dantrolene: lecturer stressed it only eases symptoms (standard teaching: the specific MH treatment)",
+            "Scoline apnea: pseudocholinesterase deficiency, prolongs ventilation, less dangerous than MH",
+            "Prolonged apnea in family suggests pseudocholinesterase deficiency; unexplained death suggests MH"
+          ]
+        },
+        {
+          "label": "Fasting guidelines",
+          "children": [
+            "8 h: meat, fried or fatty meal",
+            "6 h: light meal, infant formula, non-human milk",
+            "4 h: breast milk",
+            "2 h: clear fluids",
+            "Emergency with short fast: signed high-risk consent, rapid sequence induction with suxamethonium"
+          ]
+        },
+        {
+          "label": "Four fatal things in anesthesia",
+          "children": [
+            "Malignant hyperthermia",
+            "Anaphylaxis",
+            "Aspiration",
+            "Disconnection of the circuit"
+          ]
+        },
+        {
+          "label": "Airway assessment",
+          "children": [
+            "TMJ mobility: one-finger groove at the tragus on mouth opening",
+            "Mouth opening: three fingers should fit",
+            "Thyromental distance: less than 7 cm suggests difficult intubation",
+            "Mallampati I-II easy, III-IV difficult",
+            "Also tracheal centralization, upper lip bite (Calder) test, cervical spine mobility, Wilson score",
+            "Down syndrome (large tongue) and micrognathia: difficult intubation",
+            "Cervical spine disease (e.g. RA): awake intubation without neck extension"
+          ]
+        },
+        {
+          "label": "Investigations",
+          "children": [
+            "CBC for every patient, others guided by history and examination",
+            "ECG: age over 50, hypertension, IHD signs, arrhythmia, diabetes over 40",
+            "Chest X-ray: cardiac or respiratory disease, malignancy, thoracic surgery",
+            "U&E, LFT, blood sugar, coagulation screen, urinalysis by indication",
+            "PFTs for dyspnea, COPD or asthma; cervical spine X-ray if difficult intubation predicted",
+            "ABG if dyspneic or cyanosed at rest, FEV1 below 60%, or thoracic surgery"
+          ]
+        },
+        {
+          "label": "ASA physical status",
+          "children": [
+            "I: healthy patient",
+            "II: mild systemic disease, no limitation (also smoker, pregnant, obese, over 80 y)",
+            "III: severe systemic disease with definite limitation (e.g. IHD, COPD, morbid obesity)",
+            "IV: severe disease that is a constant threat to life",
+            "V: moribund, unlikely to survive 24 h",
+            "VI: brain dead organ donor; E = emergency",
+            "ASA IV and V need a high-risk consent signed by the family"
+          ]
+        },
+        {
+          "label": "Cardiac risk indices",
+          "children": [
+            "Goldman: S3 or raised JVP 11, MI within 6 months 10, non-sinus rhythm 7, over 5 PVCs/min 7",
+            "Goldman: age over 70 5, emergency 4, poor health 3, major thoracic/abdominal/aortic surgery 3, aortic stenosis 3",
+            "Goldman classes: I 0-5 (1%), II 6-12 (5%), III 13-25 (16%), IV 26+ (56%)",
+            "Over 25 points: life-saving procedures only",
+            "RCRI factors: IHD, CHF, cerebrovascular disease, insulin-treated DM, creatinine over 2.0, high-risk surgery",
+            "RCRI event rate: 0 factors 0.5%, 1 factor 1.3%, 2 factors 3.6%, 3 or more 9.1%"
+          ]
+        },
+        {
+          "label": "Hypertension",
+          "children": [
+            "Mild (140-159/90-99): no need to delay surgery",
+            "Moderate (160-179/100-109): review treatment, monitor closely",
+            "Severe (over 180/109): postpone elective surgery"
+          ]
+        },
+        {
+          "label": "Premedication",
+          "children": [
+            "Reduce anxiety and pain, promote amnesia, reduce secretions",
+            "Reduce gastric volume and pH to avoid Mendelson's syndrome (aspiration pneumonitis)",
+            "Reduce PONV and vagal reflexes, enhance hypnosis, prevent endocarditis",
+            "H2 blocker or PPI hours before, oral sodium citrate 15-30 min before induction"
+          ]
+        },
+        {
+          "label": "High-risk groups",
+          "children": [
+            "Elderly: fragile CVS, small doses cause hypotension, hypothermia risk",
+            "Emergency surgery in the elderly: 4 to 20 times higher mortality",
+            "Paediatrics: high risk, hypothermia risk"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "2. Monitoring in anesthesia",
+      "children": [
+        {
+          "label": "Overview",
+          "children": [
+            "Observation: skin color, chest movement during ventilation",
+            "Equipment monitoring",
+            "Qualified anesthesia personnel present throughout",
+            "HR and BP measured every 5 min, drugs and fluids charted",
+            "Oxygenation, ventilation, circulation and temperature continually evaluated"
+          ]
+        },
+        {
+          "label": "Normal values under anesthesia",
+          "children": [
+            "SBP 85-160, DBP 50-95 mmHg",
+            "HR 50-100 bpm, RR 8-20",
+            "SpO2 95-100%, ETCO2 33-45 mmHg",
+            "Temperature 36-37.5 °C",
+            "Urine output 0.5 ml/kg/min or more (as written in the lecture)",
+            "CVP 1-10 mmHg, MAP 80-120 mmHg",
+            "MAP = DBP + 1/3 (SBP - DBP)"
+          ]
+        },
+        {
+          "label": "Depth of anesthesia",
+          "children": [
+            "BIS 40-60: recommended for general anesthesia",
+            "BIS below 40: deep; above 60: may be conscious; 60-90 sedation; 100 awake",
+            "Inadequate: grimacing, movement; if paralyzed, hypertension, tachycardia, tearing, sweating",
+            "Excessive: bradycardia, hypotension, cardiac depression",
+            "BIS may reduce intraoperative awareness"
+          ]
+        },
+        {
+          "label": "ECG",
+          "children": [
+            "3 leads usually (lead II), 5 leads for complicated patients",
+            "5-lead system adds V5 and limb leads",
+            "ST depression = ischemia, elevation = infarction",
+            "Over 85% of ischemic events seen in leads II and V5",
+            "P wave in lead II helps identify sinus rhythm"
+          ]
+        },
+        {
+          "label": "Pulse oximetry",
+          "children": [
+            "Measures Hb saturation (normal above 90%, usually 97-98%)",
+            "Red and infrared light absorption difference between oxyHb and deoxyHb",
+            "CO poisoning gives falsely high reading",
+            "Inaccurate with poor perfusion, vasoconstriction, movement, dysrhythmia, cautery interference, methylene blue"
+          ]
+        },
+        {
+          "label": "Blood pressure",
+          "children": [
+            "Palpation (SBP only), Korotkoff auscultation, automated non-invasive, invasive arterial",
+            "Automated cuff measures every ~5 min and may stop reading in sudden severe hypotension",
+            "Invasive indications: rapid BP changes, frequent sampling, major surgery, vasoactive drugs",
+            "Also burns, morbid obesity, severe metabolic abnormality, major trauma",
+            "Radial artery is the most common site; femoral, brachial, dorsalis pedis alternatives"
+          ]
+        },
+        {
+          "label": "Central venous pressure",
+          "children": [
+            "Line in internal jugular, subclavian or femoral vein reaching SVC or IVC",
+            "Reflects RA and RV pressure, intravascular volume, RV preload",
+            "Measure at end-expiration, trends more useful than single values",
+            "Not needed for minor surgery",
+            "Right internal jugular: predictable landmarks, straight course, 90-99% success",
+            "Complications: infection, bleeding, air embolism, pneumothorax, carotid puncture, arrhythmia",
+            "Chest X-ray after upper-body insertion; ultrasound guidance helps"
+          ]
+        },
+        {
+          "label": "Capnography and ETCO2",
+          "children": [
+            "Capnometry = number, capnogram = waveform, capnography = continuous monitoring",
+            "Under GA keep ETCO2 about 32-35, not below 30 (cerebral vasoconstriction)",
+            "PaCO2 minus ETCO2 about 5 mmHg",
+            "Best method to confirm intubation and extubation",
+            "Also adequacy of ventilation, PE, partial obstruction, bronchospasm, resuscitation outcome",
+            "Increased: hyperthermia, sepsis, thyroid storm, MH, hypoventilation, rebreathing, laparoscopy",
+            "Decreased: hypothermia, hyperventilation, hypoperfusion, embolism",
+            "Waveform: phase I dead space, II upstroke, III alveolar plateau, IV downstroke"
+          ]
+        },
+        {
+          "label": "Cyanosis",
+          "children": [
+            "Defined as 5 g/dL deoxygenated hemoglobin",
+            "Normal Hb 15: SaO2 66%, PaO2 35 mmHg",
+            "Anemic Hb 10: SaO2 50%, PaO2 27 mmHg",
+            "In anemia, cyanosis appears at a lower oxygen tension"
+          ]
+        },
+        {
+          "label": "Oxyhemoglobin dissociation curve",
+          "children": [
+            "Sigmoid curve of PaO2 against saturation",
+            "PO2 100 = 100%, 40 = 75%, 27 = 50% (P50)",
+            "Below PaO2 60 (SpO2 90%) saturation falls rapidly; lowest acceptable SpO2 is 90%",
+            "Left shift: alkalosis, low 2,3-DPG, hypothermia, low CO2, fetal Hb, COHb, methemoglobin; higher affinity",
+            "Right shift: acidosis, high CO2, hyperthermia, high 2,3-DPG, altitude, sickle cell, inhalational agents; lower affinity",
+            "Right shift releases O2 to tissues more easily",
+            "O2 content = binding capacity x saturation + dissolved O2"
+          ]
+        },
+        {
+          "label": "Temperature and urine output",
+          "children": [
+            "Keep theatre at 22 °C or higher",
+            "Heat loss under anesthesia 0.5-1 °C per hour; below 34 °C significant morbidity",
+            "High risk: elderly, burns, neonates, spinal cord injury",
+            "Hyperthermia causes: MH, pyrogens, overwarming, thyrotoxicosis, pheochromocytoma",
+            "Sites: tympanic, esophagus, rectum, nasopharynx",
+            "Foley catheter in major surgery; below 0.5 ml/kg/min is oliguria",
+            "Choose monitors by surgery size (no CVP, arterial line or BIS for appendectomy)"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "3. Inhalational anesthetic agents",
+      "children": [
+        {
+          "label": "Basics",
+          "children": [
+            "Anesthesia: reversible loss of consciousness and analgesia, with or without muscle relaxation (lecturer adds amnesia)",
+            "Phases: induction (mainly IV), maintenance (mainly inhalational), recovery",
+            "Gas (N2O in cylinders) or liquid via temperature-compensated vaporizer",
+            "Pathway: machine, vapor-oxygen mixture, lungs, blood, brain",
+            "Concentration example: 2 L O2 + 4 L N2O gives N2O 66%"
+          ]
+        },
+        {
+          "label": "MAC",
+          "children": [
+            "Alveolar concentration at 1 atm preventing movement in 50% of patients at incision",
+            "Lower MAC means more potent; 1.2-1.3 MAC blocks movement in 95%",
+            "MAC: N2O 105%, enflurane 1.68%, isoflurane 1.16%, sevoflurane 2%, desflurane 6%, halothane 0.75%",
+            "Potency: halothane > isoflurane > enflurane > sevoflurane > desflurane > N2O",
+            "Higher MAC: hyperthermia, chronic alcohol use, acute amphetamines, hyperthyroidism",
+            "Lower MAC: old age, hypothermia, opioids, acute alcohol, pregnancy, hypothyroidism, clonidine",
+            "No effect: gender, duration of anesthesia, CO2 tension, hypertension, hyperkalemia"
+          ]
+        },
+        {
+          "label": "Uptake",
+          "children": [
+            "To alveoli: higher delivered concentration, gas flow, minute ventilation",
+            "To brain: blood flow to brain, brain solubility, arteriovenous concentration difference",
+            "Agent moves along a partial pressure gradient and must be lipid soluble"
+          ]
+        },
+        {
+          "label": "Nitrous oxide",
+          "children": [
+            "Only inhalational agent with analgesia; weak anesthetic used as adjuvant",
+            "Non-flammable, odorless, not metabolized, rapid diffusion",
+            "Diffusion hypoxia at end of surgery: give supplemental O2",
+            "Expands closed gas spaces: avoid in pneumothorax, bowel obstruction, middle ear surgery",
+            "Minimal CVS depression",
+            "Teratogenic with prolonged occupational exposure of staff; use scavenging",
+            "Second gas effect: fast N2O uptake speeds rise of a companion gas"
+          ]
+        },
+        {
+          "label": "Halothane",
+          "children": [
+            "Most potent (MAC 0.75%), blood/gas coefficient 2.5, smooth induction",
+            "Bronchodilator, muscle relaxant, uterine relaxant",
+            "Arrhythmias: sensitizes myocardium to catecholamines",
+            "Poor analgesia, postoperative shivering, severe PONV",
+            "Hepatotoxicity: mild type 1 (25-30%), fulminant immune type 2 (1 in 6,000-35,000, mortality 30-80%)",
+            "Avoid repeat exposure within 3 months; ask about jaundice or fever after earlier use",
+            "Still used in Jordan because it is cheap"
+          ]
+        },
+        {
+          "label": "Enflurane and isoflurane",
+          "children": [
+            "Enflurane: potent CV depressant, lowers seizure threshold (avoid in epilepsy), renal risk",
+            "Isoflurane: pungent, causes cough and breath-holding, used for maintenance not induction",
+            "Isoflurane: rapid recovery, cardiovascular stability, little hepatic or renal toxicity",
+            "Isoflurane: coronary vasodilation, coronary steal syndrome"
+          ]
+        },
+        {
+          "label": "Coronary steal syndrome",
+          "children": [
+            "Vasodilator diverts blood from ischemic to normal myocardium",
+            "Narrowed arteries are already maximally dilated",
+            "Creates more ischemia in the diseased zone"
+          ]
+        },
+        {
+          "label": "Sevoflurane and desflurane",
+          "children": [
+            "Sevoflurane: MAC 2%, sweet non-irritant, fastest induction, agent of choice for inhalational induction",
+            "Sevoflurane: compound A with soda lime (toxic to brain, liver, kidney), about 5% metabolized",
+            "Sevoflurane: postoperative agitation in children, does not sensitize myocardium much",
+            "Desflurane: MAC 6%, low potency, electrically heated vaporizer",
+            "Desflurane: poor induction agent, rapid recovery"
+          ]
+        },
+        {
+          "label": "Malignant hyperthermia",
+          "children": [
+            "Triggers: all volatile agents (not N2O) and succinylcholine",
+            "Autosomal dominant, RYR1 mutation causes excess Ca2+ release from sarcoplasmic reticulum",
+            "Signs: muscle rigidity, tachycardia, rising CO2 production, fever (about 1 °C per 5 min)",
+            "Management: 100% O2, stop volatile agent",
+            "Cool the body and give fluids",
+            "IV dantrolene 2.5 mg/kg bolus then infusion over 72 h",
+            "Treat acidosis and hyperkalemia"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "4. Intravenous anesthetic agents",
+      "children": [
+        {
+          "label": "Ideal IV agent",
+          "children": [
+            "Rapid onset: lipid soluble and mostly un-ionized at blood pH",
+            "Rapid recovery through redistribution",
+            "Analgesia at sub-anesthetic doses",
+            "Minimal CVS and respiratory depression",
+            "No nausea, excitation, emergence phenomena or histamine release",
+            "No pain on injection, no venous sequelae, water soluble",
+            "Does not stimulate porphyria"
+          ]
+        },
+        {
+          "label": "Classification",
+          "children": [
+            "Barbiturate: thiopental",
+            "Non-barbiturate: propofol, ketamine, etomidate",
+            "Adjuvants: benzodiazepines (midazolam, diazepam)"
+          ]
+        },
+        {
+          "label": "Thiopental",
+          "children": [
+            "Ultra-short barbiturate, 3-5 mg/kg gives sleep in 30-60 s",
+            "Usual induction 3-6 mg/kg; very small doses in shock or frail elderly",
+            "Short action from redistribution to muscle and fat",
+            "Enhances GABA; lowers ICP and intraocular pressure",
+            "Myocardial depression, hypotension, apnea, laryngospasm",
+            "Contraindications: airway obstruction, porphyria, hypersensitivity",
+            "Caution: CVS, hepatic and renal disease",
+            "Intra-arterial injection: dilute with saline, heparinize, brachial plexus block"
+          ]
+        },
+        {
+          "label": "Propofol",
+          "children": [
+            "Alkylphenol; 1% emulsion (soybean oil, glycerol, egg phosphatide)",
+            "Induction 2.5-3 mg/kg (1.5-2 premedicated, 1 or less elderly)",
+            "TIVA 50-150 mcg/kg/min; sedation 25-75 mcg/kg/min",
+            "No histamine release, no MH trigger, low PONV, antiemetic and anticonvulsant",
+            "Lowers cerebral blood flow and ICP",
+            "Hypotension more than thiopental and impaired baroreflex; profound respiratory depression",
+            "Pain on injection: add lidocaine or use a larger vein",
+            "Contraindications (slide): egg allergy, cannot maintain airway, fixed cardiac output, shock"
+          ]
+        },
+        {
+          "label": "Ketamine",
+          "children": [
+            "Dissociative agent related to PCP, acts on NMDA receptors",
+            "IV 1-2 mg/kg, IM 5-10 mg/kg",
+            "Raises BP, heart rate, cardiac output, ICP and intraocular pressure",
+            "Bronchodilator, preserves airway reflexes, increases secretions",
+            "Unpleasant dreams, hallucinations, delirium",
+            "Uses: asthmatics, CV collapse needing emergency surgery, induction",
+            "Contraindications: psychosis, cerebrovascular disease, hypertension hazardous, raised ICP"
+          ]
+        },
+        {
+          "label": "Etomidate",
+          "children": [
+            "Acts on GABA receptors, induction 0.2-0.3 mg/kg",
+            "Hemodynamically neutral, no analgesia",
+            "Adverse: nausea and vomiting, injection pain, myoclonus",
+            "Transient adrenal insufficiency: caution with chronic steroids"
+          ]
+        },
+        {
+          "label": "Benzodiazepines",
+          "children": [
+            "Amnesia, anticonvulsant, minimal cardiorespiratory depression",
+            "Facilitate GABA; metabolized by liver conjugation",
+            "Midazolam: 2-3x more potent, faster onset, more amnesia, half-life 1-4 h",
+            "Diazepam: longer acting (21-37 h), more post-op sedation, more injection pain",
+            "Flumazenil: competitive antagonist, 0.2 mg over 15 s then 0.1 mg/min up to 2 mg",
+            "Flumazenil half-life about 1 h, so sedation may recur"
+          ]
+        },
+        {
+          "label": "Opioids",
+          "children": [
+            "Opium alkaloids: morphine (strongest), codeine",
+            "Mu: analgesia, respiratory depression, euphoria, dependence",
+            "Kappa: analgesia, sedation, miosis; sigma: dysphoria",
+            "Fentanyl: opioid most used for induction, 100x morphine potency, about 30 min",
+            "Morphine: long analgesia, give under 5 mg/min (histamine release)",
+            "Effects: slow deep breathing, bradycardia, low SVR, constipation, biliary colic, urinary retention, chest wall rigidity",
+            "Naloxone reverses (onset 1-2 min, lasts 30-60 min); high doses cause abrupt pain, hypertension, pulmonary edema, arrest"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "5. Local anesthetic agents",
+      "children": [
+        {
+          "label": "Structure and classification",
+          "children": [
+            "Aromatic ring (lipophilic), intermediate chain, tertiary amine (hydrophilic)",
+            "Esters: cocaine, procaine, chloroprocaine",
+            "Amides (two i's): lidocaine, prilocaine, bupivacaine, etidocaine, mepivacaine",
+            "Esters: unstable, hydrolyzed by plasma cholinesterase, PABA allergy",
+            "Amides: stable, slowly metabolized by liver, longer acting, allergy extremely rare"
+          ]
+        },
+        {
+          "label": "Mechanism",
+          "children": [
+            "Block Na+ channels, inhibiting the action potential in unmyelinated fibres",
+            "Only the unionized base crosses the membrane",
+            "Acidic tissue (abscess, inflammation): less free base, weak or failed block",
+            "Adding sodium bicarbonate raises pH and gives more base"
+          ]
+        },
+        {
+          "label": "Preparations",
+          "children": [
+            "Acidic solutions (pH 4-5.5), hydrochloride salts",
+            "May contain vasoconstrictor, reducing agent (metabisulphite), preservative",
+            "1% = 10 mg/mL (mg/mL = % x 10)"
+          ]
+        },
+        {
+          "label": "Vasoconstrictors",
+          "children": [
+            "Adrenaline 1:80,000 to 1:300,000 is most common",
+            "Slow absorption, lower toxicity, longer duration, less bleeding",
+            "Maximum dose: lidocaine 3 mg/kg plain, 7 with adrenaline",
+            "Maximum dose: prilocaine 6 plain, 9 with adrenaline; bupivacaine 2 either way",
+            "Never use around end-arteries (fingers, penis) or in IVRA",
+            "Relative: severe hypertension, GA with halothane"
+          ]
+        },
+        {
+          "label": "Clinical uses",
+          "children": [
+            "Topical: lidocaine gel, EMLA (lidocaine 2.5% + prilocaine 2.5%)",
+            "Infiltration for minor surgery",
+            "Peripheral nerve blocks (nerve stimulator or ultrasound)",
+            "Intravenous regional anesthesia, spinal, epidural",
+            "Always aspirate before injecting"
+          ]
+        },
+        {
+          "label": "IVRA (Bier's block)",
+          "children": [
+            "Upper limb surgery under 1 h",
+            "Two cannulae: one in the affected limb, one in the other limb for resuscitation",
+            "Exsanguinate with Esmarch band, inflate proximal cuff above systolic pressure",
+            "Inject lidocaine or prilocaine after removing the band",
+            "Cuff stays inflated at least 20 min, then deflate gradually",
+            "Never bupivacaine or etidocaine: cardiotoxic"
+          ]
+        },
+        {
+          "label": "Individual agents",
+          "children": [
+            "Lidocaine: first amide, local anesthetic and antiarrhythmic, blocks fast Na+ channels",
+            "Bupivacaine: long duration, most cardiotoxic, not given IV, used spinal or epidural",
+            "Benzocaine: topical only, causes methemoglobinemia"
+          ]
+        },
+        {
+          "label": "Toxicity",
+          "children": [
+            "Causes: accidental IV injection, rapid absorption from vascular sites, overdose",
+            "CNS first: dizziness, tinnitus, circumoral numbness, blurred vision, metallic taste",
+            "Severe: convulsions, coma, respiratory arrest",
+            "CVS: bradycardia and hypotension without adrenaline; myocardial depression leads to collapse",
+            "Prevent: secure IV access and have resuscitation equipment ready",
+            "Treat: stop injection, call help, ABC, O2, ventilate, fluids, ephedrine, atropine",
+            "Convulsions: diazepam 0.2-0.4 mg/kg or thiopentone 1-4 mg/kg"
+          ]
+        },
+        {
+          "label": "Antidotes",
+          "children": [
+            "Bupivacaine: 20% lipid emulsion IV (Intralipid, not a true antidote)",
+            "Benzocaine methemoglobinemia: low-dose methylene blue",
+            "Lidocaine: diphenhydramine (as written on the slide)"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "6. Spinal and epidural anesthesia",
+      "children": [
+        {
+          "label": "Classification",
+          "children": [
+            "Regional anesthesia: neuraxial block (spinal, epidural/caudal) and peripheral nerve block",
+            "Spinal: injection into the CSF (subarachnoid space)",
+            "Epidural: injection into the epidural space",
+            "Adults: inject L3-L4, L4-L5 or L5-S1 (cord ends L1-L2)",
+            "Children: inject L4-L5 or L5-S1 (cord ends L2-L3)",
+            "Spinal gives anesthesia below the umbilicus (T10)"
+          ]
+        },
+        {
+          "label": "Advantages of spinal",
+          "children": [
+            "Low cost and high patient satisfaction",
+            "Few respiratory effects, airway preserved, less aspiration risk",
+            "Cesarean: less drug transfer to the baby",
+            "Diabetics stay awake and notice hypoglycemia",
+            "Excellent muscle relaxation, less blood loss",
+            "Better gut blood flow, faster return of gut function",
+            "Fewer DVT and PE, avoids GA complications"
+          ]
+        },
+        {
+          "label": "Indications",
+          "children": [
+            "Operations below the umbilicus: hernia, gynecologic, urologic, cesarean, lower limb orthopedics",
+            "Perineum and genitalia surgery",
+            "Elderly and chronic systemic disease",
+            "Surgery must last about 2-3 hours or less"
+          ]
+        },
+        {
+          "label": "Contraindications",
+          "children": [
+            "Absolute: patient refusal, uncooperative patient, coagulopathy or anticoagulants",
+            "Absolute: infection at site, septicemia, severe aortic or mitral stenosis",
+            "Absolute: hypovolemia, raised ICP",
+            "Relative: anatomical deformity, neurological disease, previous spinal surgery",
+            "Relative: inadequate resuscitation equipment"
+          ]
+        },
+        {
+          "label": "Drugs and baricity",
+          "children": [
+            "Hyperbaric solutions settle downward and are most predictable",
+            "Hypobaric rise; isobaric stay near the injection site",
+            "Bupivacaine 0.5% hyperbaric: best, lasts 2-3 h",
+            "Lidocaine 5% hyperbaric: lasts 45-90 min",
+            "Do not use multi-dose lidocaine vials intrathecally (preservatives)"
+          ]
+        },
+        {
+          "label": "Factors affecting spread",
+          "children": [
+            "Baricity of the solution and position of the patient",
+            "Level and speed of injection",
+            "Obesity and pregnancy: reduce the dose"
+          ]
+        },
+        {
+          "label": "Technique",
+          "children": [
+            "Consent, normotensive patient, aseptic technique",
+            "Sitting or lateral position with spine flexed",
+            "Line between iliac crests marks L4",
+            "Wheal of local anesthetic first",
+            "Needle passes skin, supraspinous, interspinous, ligamentum flavum (first pop), dura (second pop)",
+            "CSF confirms entry; inject slowly",
+            "Block order: autonomic, sensory, motor; recovery in reverse"
+          ]
+        },
+        {
+          "label": "Complications of spinal",
+          "children": [
+            "Hypotension (most common): preload fluids, raise legs, ephedrine, atropine for bradycardia",
+            "Post-dural puncture headache (2nd most common): postural, onset 12-24 h",
+            "Prevent PDPH with small pencil-point needle",
+            "PDPH treatment: bed rest, paracetamol, hydration, caffeine, epidural blood patch last",
+            "Urinary retention",
+            "Rare: meningitis, arachnoiditis, epidural abscess, hematoma, paralysis"
+          ]
+        },
+        {
+          "label": "Epidural anesthesia",
+          "children": [
+            "Space between dura mater and ligamentum flavum; dura not punctured",
+            "Tuohy needle (about 18 G) with loss of resistance technique",
+            "Catheter allows continuous infusion for labor and postoperative pain",
+            "Bupivacaine 0.5% or lidocaine 2%",
+            "Same indications and complications as spinal except post-dural puncture headache",
+            "Accidental dural puncture with a large needle causes severe headache"
+          ]
+        },
+        {
+          "label": "Spinal vs epidural",
+          "children": [
+            "Spinal: below L1/L2, subarachnoid, single shot, CSF confirms",
+            "Epidural: any level, no dural puncture, continuous, loss of resistance confirms",
+            "Dose: spinal 2.5-3.5 mL bupivacaine 0.5% heavy; epidural 15-20 mL 0.5%",
+            "Onset: spinal 2-5 min; epidural 15-20 min",
+            "Spinal: denser block, rapid hypotension; epidural: less dense, slow hypotension"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "7. Conduct of anesthesia",
+      "children": [
+        {
+          "label": "Overview",
+          "children": [
+            "Three phases: induction, maintenance, recovery",
+            "IV induction is used in most cases",
+            "Airway options: face mask, laryngeal mask, tracheal tube"
+          ]
+        },
+        {
+          "label": "Inhalational induction",
+          "children": [
+            "Indications: young children, upper airway obstruction (epiglottitis)",
+            "Indications: lower airway foreign body, bronchopleural fistula or empyema, no accessible veins",
+            "IV agents cause apnea; inhalational agents preserve breathing",
+            "Start with 70% N2O in O2, deepen with volatile agent (halothane 1-3%)",
+            "Difficulties: slow induction, bronchospasm, laryngospasm, hiccups, pollution"
+          ]
+        },
+        {
+          "label": "Maintenance",
+          "children": [
+            "Inhalational agents: sevoflurane, isoflurane, halothane 1-2 MAC with 70% N2O",
+            "IV agents and IV opioids (fentanyl, alfentanil, remifentanil)",
+            "TIVA: propofol plus opioid",
+            "Choice depends on surgery, premedication analgesia and patient response",
+            "Spontaneous ventilation suits superficial, minor procedures"
+          ]
+        },
+        {
+          "label": "Complications during maintenance",
+          "children": [
+            "Airway obstruction: positioning and equipment",
+            "Laryngeal spasm: stop stimulation, deepen anesthesia, 100% O2, suxamethonium if severe",
+            "Bronchospasm: deepen anesthesia, IV or endotracheal lidocaine 1-2 mg/kg, bronchodilators",
+            "Malignant hyperthermia: volatile agents and suxamethonium trigger",
+            "Raised ICP worsened by CO2 retention",
+            "Atmospheric pollution: scavenging apparatus"
+          ]
+        },
+        {
+          "label": "Face mask",
+          "children": [
+            "Correct fit for a gas-tight seal (sizes 00-6)",
+            "Hold the mandible forward, hold rather than press",
+            "Obstruction signs: soft-tissue indrawing, noisy breathing, inspiratory stridor",
+            "Guedel oropharyngeal or nasopharyngeal airway helps",
+            "Reach proper depth before inserting an airway to avoid coughing or laryngospasm"
+          ]
+        },
+        {
+          "label": "Laryngeal mask airway",
+          "children": [
+            "Insertion: head extended, mouth open, pre-deflated mask swept into laryngopharynx, inflate cuff, confirm, secure",
+            "Indications: clear airway without mask, spontaneous ventilation, difficult intubation",
+            "Contraindications: full stomach, regurgitation risk, impeded surgical access",
+            "Also thoracic surgery, prone position, pregnancy over 12 weeks"
+          ]
+        },
+        {
+          "label": "Tracheal intubation",
+          "children": [
+            "Prepare equipment, experienced assistant, laryngoscope, tube patency",
+            "Indications: clear airway, airway hard to control (prone, sitting, lateral), head and neck surgery",
+            "Indications: protect from aspiration, suction, chest/abdomen/cranium surgery, respiratory failure, positive-pressure ventilation",
+            "Under GA with or without relaxant, or awake with topical spray and superior laryngeal nerve block",
+            "Relaxant: suxamethonium 1-1.5 mg/kg",
+            "Inhalational technique: halothane up to 4%, diaphragmatic breathing confirms depth"
+          ]
+        },
+        {
+          "label": "Tube details",
+          "children": [
+            "Paediatric size = age/4 + 4",
+            "Adult: female 7-7.5, male 7.5-8.5",
+            "Cuff: fixation, prevents aspiration, prevents gas leak",
+            "Confirm: laryngoscope view, chest movement, vapour in tube, auscultation, capnography, X-ray",
+            "Esophageal intubation: fixed chest and distended abdomen"
+          ]
+        },
+        {
+          "label": "Complications of intubation",
+          "children": [
+            "Early: lip and teeth trauma, jaw dislocation, vocal cord damage, epistaxis",
+            "Early: obstruction or kinking, bronchial intubation, arrhythmias and hypertension",
+            "Late: tracheal stenosis, mucosal damage, vocal cord ulceration, hoarseness"
+          ]
+        },
+        {
+          "label": "Recovery and extubation",
+          "children": [
+            "Stop inhalational agent; reverse atracurium with neostigmine plus atropine",
+            "Extubate when reflexes return and vital signs are normal",
+            "Lateral position if risk of regurgitation",
+            "100% O2 before extubation to avoid diffusion hypoxia",
+            "Preoxygenate, then suction the tube, extubate during inspiration",
+            "Complications: laryngospasm, regurgitation, hypertension and tachycardia, glottic edema",
+            "Recovery room: BP, RR, HR, temperature, SpO2, pain compared with preoperative vitals"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "8. Muscle relaxants",
+      "children": [
+        {
+          "label": "Neuromuscular junction",
+          "children": [
+            "Motor nerve ending, synaptic cleft (20-30 nm), folded muscle membrane, nicotinic receptors",
+            "Action potential, Ca2+ influx, ACh exocytosis, ACh binds receptor",
+            "Cation influx depolarizes the fiber, Na+ channels fire an action potential",
+            "Acetylcholinesterase breaks ACh into acetate and choline"
+          ]
+        },
+        {
+          "label": "Classification",
+          "children": [
+            "Spasmolytics relieve spasm toward normal tone",
+            "Neuromuscular blockers paralyze muscle completely",
+            "Depolarizing: succinylcholine, agonist",
+            "Non-depolarizing: competitive antagonists (e.g. tubocurarine)",
+            "Ultra-short: succinylcholine; short: mivacurium",
+            "Intermediate: vecuronium, rocuronium, atracurium, cisatracurium; long: pancuronium"
+          ]
+        },
+        {
+          "label": "Role in surgery",
+          "children": [
+            "Given with anesthetics at induction",
+            "Facilitate intra-abdominal and intrathoracic surgery and intubation",
+            "All respiratory muscles are paralyzed: ventilation must be available"
+          ]
+        },
+        {
+          "label": "Succinylcholine",
+          "children": [
+            "Binds nicotinic receptors: depolarization, fasciculations, then desensitization and paralysis",
+            "Broken down by plasma pseudocholinesterase, not acetylcholinesterase",
+            "Intubating dose 1-2 mg/kg IV, peak within 60 s, lasts 5-10 min",
+            "No antagonist; prolonged in cholinesterase deficiency, liver disease, pregnancy",
+            "Indications: full stomach or emergency, cesarean, predicted difficult intubation, ECT, short procedures"
+          ]
+        },
+        {
+          "label": "Succinylcholine adverse effects",
+          "children": [
+            "Raised intraocular and intracranial pressure",
+            "Myalgia, myoglobinuria, masseter spasm",
+            "Bradycardia, dysrhythmia, sinus arrest",
+            "Hyperkalemia: normal rise 0.5 mEq/L, up to 13 in high-risk patients",
+            "High risk: extensive burns, severe closed head injury, UMN lesion, muscular dystrophy, traumatic paralysis",
+            "Contraindications: cannot maintain airway, allergy, MH history, K+ 5.5 or more, myotonia"
+          ]
+        },
+        {
+          "label": "Non-depolarizing blockers",
+          "children": [
+            "Compete with ACh at the same receptor; onset 3-4 min",
+            "Paralysis order: face and eyes, fingers and limbs, neck and trunk, intercostals, diaphragm last",
+            "Recovery in reverse order; given IV only",
+            "Prolonged by acidosis, hypothermia, age, low K+ or Ca2+, volatile agents",
+            "Reversed with neostigmine plus atropine"
+          ]
+        },
+        {
+          "label": "Individual drugs",
+          "children": [
+            "Vecuronium: intermediate, no CVS effects",
+            "Rocuronium: onset under 1 min at 0.6 mg/kg, choice when succinylcholine is contraindicated",
+            "Cisatracurium: Hofmann degradation, no histamine release, ideal in renal or hepatic failure",
+            "Atracurium: releases histamine (avoid in asthmatics)",
+            "Pancuronium: long-acting, raises HR and BP, renal excretion"
+          ]
+        },
+        {
+          "label": "Anticholinergics",
+          "children": [
+            "Atropine: muscarinic antagonist, crosses BBB, minimum 20 mcg/kg (less causes paradoxical bradycardia)",
+            "Atropine effects: tachycardia, mydriasis, dry mouth, bronchodilation, hyperthermia",
+            "Overdose: hot as a hare, mad as a hatter, red as a beet, dry as a bone",
+            "Atropine uses: block neostigmine effects, reduce secretions, organophosphate antidote",
+            "Avoid in closed-angle glaucoma and prostatic hyperplasia",
+            "Scopolamine: more CNS effect, amnesia, motion sickness",
+            "Glycopyrrolate: most commonly used, no CNS effect, less CV stimulation"
+          ]
+        },
+        {
+          "label": "Cholinesterase inhibitors",
+          "children": [
+            "Prolong ACh life; reversible (neostigmine, physostigmine), irreversible (echothiophate)",
+            "Neostigmine: most commonly used, 2.5-5 mg IV to reverse non-depolarizing block",
+            "Side effects: bradycardia, miosis, salivation, bronchospasm, GI hypermotility",
+            "Give atropine with neostigmine in one syringe",
+            "Other uses: urinary retention after GA, myasthenia gravis"
+          ]
+        }
+      ]
+    }
+  ]
+}
