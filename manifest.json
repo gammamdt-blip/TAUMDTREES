@@ -7,6 +7,10 @@
     {
       "name": "ENT",
       "file": "ENT.json"
+    },
+    {
+      "name": "Pharmacology",
+      "file": "Pharmacology.json"
     }
   ]
 }
